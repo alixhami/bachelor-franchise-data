@@ -1,0 +1,3182 @@
+show,season,unique_id,full_name,episode,action
+Bachelor,1,01_ALEXA_X,Alexa,2,E
+Bachelor,1,01_ALEXA_X,Alexa,2,D5
+Bachelor,1,01_AMANDA_M,Amanda Marsh,6,W
+Bachelor,1,01_AMANDA_M,Amanda Marsh,2,D5
+Bachelor,1,01_AMANDA_M,Amanda Marsh,3,D1
+Bachelor,1,01_AMANDA_M,Amanda Marsh,4,D1
+Bachelor,1,01_AMANDA_M,Amanda Marsh,5,D1
+Bachelor,1,01_AMANDA_M,Amanda Marsh,6,D1
+Bachelor,1,01_AMBER_X,Amber,1,E
+Bachelor,1,01_AMY_X,Amy,2,E
+Bachelor,1,01_AMY_X,Amy,2,D5
+Bachelor,1,01_ANGELA_X,Angela,2,E
+Bachelor,1,01_ANGELA_X,Angela,2,D5
+Bachelor,1,01_ANGELIQUE_X,Angelique,2,E
+Bachelor,1,01_ANGELIQUE_X,Angelique,2,D5
+Bachelor,1,01_CATHY_G,Cathy Grimes,3,E
+Bachelor,1,01_CATHY_G,Cathy Grimes,2,D5
+Bachelor,1,01_CATHY_G,Cathy Grimes,3,D4
+Bachelor,1,01_CHRISTINA_X,Christina,3,E
+Bachelor,1,01_CHRISTINA_X,Christina,2,D5
+Bachelor,1,01_CHRISTINA_X,Christina,3,D4
+Bachelor,1,01_DANIELA_X,Daniela,1,E
+Bachelor,1,01_DENISE_X,Denise,1,E
+Bachelor,1,01_JACKIE_X,Jackie,1,E
+Bachelor,1,01_JILL_X,Jill,1,E
+Bachelor,1,01_KATIE_X,Katie,2,E
+Bachelor,1,01_KATIE_X,Katie,2,D5
+Bachelor,1,01_KIM_X,Kim,4,E
+Bachelor,1,01_KIM_X,Kim,2,D5
+Bachelor,1,01_KIM_X,Kim,3,D4
+Bachelor,1,01_KIM_X,Kim,4,D1
+Bachelor,1,01_KRISTINA_X,Kristina,1,E
+Bachelor,1,01_LANEASE_A,LaNease Adams,3,E
+Bachelor,1,01_LANEASE_A,LaNease Adams,2,D5
+Bachelor,1,01_LANEASE_A,LaNease Adams,3,D4
+Bachelor,1,01_LISA_X,Lisa,1,E
+Bachelor,1,01_MELISSA_X,Melissa,2,E
+Bachelor,1,01_MELISSA_X,Melissa,2,D5
+Bachelor,1,01_PAULA_X,Paula,1,E
+Bachelor,1,01_RACHEL_X,Rachel,1,E
+Bachelor,1,01_RHONDA_X,Rhonda,3,E
+Bachelor,1,01_RHONDA_X,Rhonda,2,D5
+Bachelor,1,01_RHONDA_X,Rhonda,3,D4
+Bachelor,1,01_SHANNON_O,Shannon Oliver,5,E
+Bachelor,1,01_SHANNON_O,Shannon Oliver,2,D5
+Bachelor,1,01_SHANNON_O,Shannon Oliver,3,D1
+Bachelor,1,01_SHANNON_O,Shannon Oliver,4,D1
+Bachelor,1,01_SHANNON_O,Shannon Oliver,5,D1
+Bachelor,1,01_TINA_X,Tina,2,E
+Bachelor,1,01_TINA_X,Tina,2,D5
+Bachelor,1,01_TRISTA_R,Trista Rehn,6,E
+Bachelor,1,01_TRISTA_R,Trista Rehn,2,D5
+Bachelor,1,01_TRISTA_R,Trista Rehn,3,D1
+Bachelor,1,01_TRISTA_R,Trista Rehn,4,D1
+Bachelor,1,01_TRISTA_R,Trista Rehn,5,D1
+Bachelor,1,01_TRISTA_R,Trista Rehn,6,D1
+Bachelor,1,01_WENDI_X,Wendi,1,E
+Bachelorette,1,01_BILLY_X,Billy,1,E
+Bachelorette,1,01_BOB_G,Bob Guiney,3,E
+Bachelorette,1,01_BOB_G,Bob Guiney,2,D14
+Bachelorette,1,01_BOB_G,Bob Guiney,3,D5
+Bachelorette,1,01_BRIAN_C,Brian C.,2,E
+Bachelorette,1,01_BRIAN_C,Brian C.,2,D14
+Bachelorette,1,01_BRIAN_H,Brian H.,2,EQ
+Bachelorette,1,01_BRIAN_H,Brian H.,2,D14
+Bachelorette,1,01_BRIAN_K,Brian K.,1,E
+Bachelorette,1,01_BRIAN_S,Brian S.,2,E
+Bachelorette,1,01_BRIAN_S,Brian S.,2,D14
+Bachelorette,1,01_BROOK_X,Brook,2,E
+Bachelorette,1,01_BROOK_X,Brook,2,D14
+Bachelorette,1,01_CHARLIE_M,Charlie Maher,6,E
+Bachelorette,1,01_CHARLIE_M,Charlie Maher,2,D14
+Bachelorette,1,01_CHARLIE_M,Charlie Maher,3,D1
+Bachelorette,1,01_CHARLIE_M,Charlie Maher,4,D1
+Bachelorette,1,01_CHARLIE_M,Charlie Maher,5,D1
+Bachelorette,1,01_CHARLIE_M,Charlie Maher,6,D1
+Bachelorette,1,01_CHRIS_X,Chris,1,E
+Bachelorette,1,01_DUANE_X,Duane,1,E
+Bachelorette,1,01_ERIC_X,Eric,1,E
+Bachelorette,1,01_GREG_T,Greg T.,4,E
+Bachelorette,1,01_GREG_T,Greg T.,2,D14
+Bachelorette,1,01_GREG_T,Greg T.,3,D5
+Bachelorette,1,01_GREG_T,Greg T.,4,D1
+Bachelorette,1,01_GREGG_H,Gregg H.,1,E
+Bachelorette,1,01_JACK_X,Jack,2,E
+Bachelorette,1,01_JACK_X,Jack,2,D14
+Bachelorette,1,01_JAMIE_B,Jamie Blyth,3,E
+Bachelorette,1,01_JAMIE_B,Jamie Blyth,2,D14
+Bachelorette,1,01_JAMIE_B,Jamie Blyth,3,D5
+Bachelorette,1,01_JEFF_X,Jeff,2,E
+Bachelorette,1,01_JEFF_X,Jeff,2,D14
+Bachelorette,1,01_JOSH_X,Josh,2,E
+Bachelorette,1,01_JOSH_X,Josh,2,D14
+Bachelorette,1,01_MATT_X,Matt,1,E
+Bachelorette,1,01_MIKE_X,Mike,3,E
+Bachelorette,1,01_MIKE_X,Mike,2,D14
+Bachelorette,1,01_MIKE_X,Mike,3,D5
+Bachelorette,1,01_PAUL_X,Paul,1,E
+Bachelorette,1,01_PETER_X,Peter,1,E
+Bachelorette,1,01_ROB_X,Rob,3,E
+Bachelorette,1,01_ROB_X,Rob,2,D14
+Bachelorette,1,01_ROB_X,Rob,3,D5
+Bachelorette,1,01_RUSS_X,Russ,5,E
+Bachelorette,1,01_RUSS_X,Russ,2,D14
+Bachelorette,1,01_RUSS_X,Russ,3,D1
+Bachelorette,1,01_RUSS_X,Russ,4,D1
+Bachelorette,1,01_RUSS_X,Russ,5,D1
+Bachelorette,1,01_RYAN_S,Ryan Sutter,6,W
+Bachelorette,1,01_RYAN_S,Ryan Sutter,2,D14
+Bachelorette,1,01_RYAN_S,Ryan Sutter,3,D1
+Bachelorette,1,01_RYAN_S,Ryan Sutter,4,D1
+Bachelorette,1,01_RYAN_S,Ryan Sutter,5,D1
+Bachelorette,1,01_RYAN_S,Ryan Sutter,6,D1
+Bachelorette,1,01_WAYNE_X,Wayne,1,E
+Bachelor,2,02_AMBER_X,Amber,1,E
+Bachelor,2,02_ANGELA_X,Angela,5,E
+Bachelor,2,02_ANGELA_X,Angela,2,D5
+Bachelor,2,02_ANGELA_X,Angela,3,D5
+Bachelor,2,02_ANGELA_X,Angela,4,D3
+Bachelor,2,02_ANGELA_X,Angela,5,D1
+Bachelor,2,02_ANINDITA_X,Anindita,2,EQ
+Bachelor,2,02_ANINDITA_X,Anindita,2,D5
+Bachelor,2,02_BROOKE_S,Brooke Smith,7,E
+Bachelor,2,02_BROOKE_S,Brooke Smith,2,D5
+Bachelor,2,02_BROOKE_S,Brooke Smith,3,D1
+Bachelor,2,02_BROOKE_S,Brooke Smith,4,D3
+Bachelor,2,02_BROOKE_S,Brooke Smith,5,D1
+Bachelor,2,02_BROOKE_S,Brooke Smith,6,D1
+Bachelor,2,02_CAMILLE_X,Camille,1,E
+Bachelor,2,02_CARI_X,Cari,1,E
+Bachelor,2,02_CHRISTI_X,Christi Weible,3,E
+Bachelor,2,02_CHRISTI_X,Christi Weible,2,D5
+Bachelor,2,02_CHRISTI_X,Christi Weible,3,D5
+Bachelor,2,02_CHRISTY_X,Christy,1,E
+Bachelor,2,02_DANA_X,Dana,2,E
+Bachelor,2,02_DANA_X,Dana,2,D5
+Bachelor,2,02_ERIN_P,Erin (Pennsylvania),2,E
+Bachelor,2,02_ERIN_P,Erin (Pennsylvania),2,D5
+Bachelor,2,02_ERIN_T,Erin (Texas),1,E
+Bachelor,2,02_FATIMA_X,Fatima,1,E
+Bachelor,2,02_FRANCES_X,Frances,2,EQ
+Bachelor,2,02_FRANCES_X,Frances,2,D5
+Bachelor,2,02_GWEN_G,Gwen Gioia,6,E
+Bachelor,2,02_GWEN_G,Gwen Gioia,2,D5
+Bachelor,2,02_GWEN_G,Gwen Gioia,3,D3
+Bachelor,2,02_GWEN_G,Gwen Gioia,4,D1
+Bachelor,2,02_GWEN_G,Gwen Gioia,5,D1
+Bachelor,2,02_GWEN_G,Gwen Gioia,6,D1
+Bachelor,2,02_HAYLEY_X,Hayley,4,E
+Bachelor,2,02_HAYLEY_X,Hayley,2,D5
+Bachelor,2,02_HAYLEY_X,Hayley,3,D3
+Bachelor,2,02_HAYLEY_X,Hayley,4,D3
+Bachelor,2,02_HEATHER_C,Heather Cranford,4,E
+Bachelor,2,02_HEATHER_C,Heather Cranford,2,D5
+Bachelor,2,02_HEATHER_C,Heather Cranford,3,D5
+Bachelor,2,02_HEATHER_C,Heather Cranford,4,D1
+Bachelor,2,02_HEATHER_X,Heather,3,E
+Bachelor,2,02_HEATHER_X,Heather,2,D5
+Bachelor,2,02_HEATHER_X,Heather,3,D5
+Bachelor,2,02_HELENE_E,Helene Eksterowicz,7,W
+Bachelor,2,02_HELENE_E,Helene Eksterowicz,2,D5
+Bachelor,2,02_HELENE_E,Helene Eksterowicz,3,D1
+Bachelor,2,02_HELENE_E,Helene Eksterowicz,4,D1
+Bachelor,2,02_HELENE_E,Helene Eksterowicz,5,D1
+Bachelor,2,02_HELENE_E,Helene Eksterowicz,6,D1
+Bachelor,2,02_HELENE_E,Helene Eksterowicz,7,D1
+Bachelor,2,02_KYLA_X,Kyla,3,E
+Bachelor,2,02_KYLA_X,Kyla,2,D5
+Bachelor,2,02_KYLA_X,Kyla,3,D3
+Bachelor,2,02_LIANGY_X,Liangy,1,E
+Bachelor,2,02_LORI_X,Lori,1,E
+Bachelor,2,02_MERILEE_X,Merrilee,1,E
+Bachelor,2,02_SHANNON_X,Shannon,3,E
+Bachelor,2,02_SHANNON_X,Shannon,2,D5
+Bachelor,2,02_SHANNON_X,Shannon,3,D5
+Bachelor,2,02_SUZANNE_X,Suzanne,2,E
+Bachelor,2,02_SUZANNE_X,Suzanne,2,D5
+Bachelor,2,02_SUZI_X,Suzi,1,E
+Bachelorette,2,02_AARON_X,Aaron,1,E
+Bachelorette,2,02_ANDY_C,Andy Chang,1,E
+Bachelorette,2,02_ANSELM_C,Anselm Clinard,1,E
+Bachelorette,2,02_BRAD_X,Brad,4,E
+Bachelorette,2,02_BRAD_X,Brad,2,D7
+Bachelorette,2,02_BRAD_X,Brad,3,D7
+Bachelorette,2,02_BRAD_X,Brad,4,D4
+Bachelorette,2,02_BRIAN_X,Brian,1,E
+Bachelorette,2,02_CHAD_X,Chad,6,E
+Bachelorette,2,02_CHAD_X,Chad,2,D7
+Bachelorette,2,02_CHAD_X,Chad,3,D7
+Bachelorette,2,02_CHAD_X,Chad,4,D1
+Bachelorette,2,02_CHAD_X,Chad,5,D1
+Bachelorette,2,02_CHAD_X,Chad,6,D1
+Bachelorette,2,02_CHRIS_X,Chris,1,E
+Bachelorette,2,02_CORY_H,Cory Higgins,1,E
+Bachelorette,2,02_DAMON_X,Damon,2,E
+Bachelorette,2,02_DAMON_X,Damon,2,D7
+Bachelorette,2,02_ELIOT_X,Eliot,2,E
+Bachelorette,2,02_ELIOT_X,Eliot,2,D7
+Bachelorette,2,02_HAROLD_H,Harold Hersh,2,E
+Bachelorette,2,02_HAROLD_H,Harold Hersh,2,D7
+Bachelorette,2,02_IAN_M,Ian McKee,7,W
+Bachelorette,2,02_IAN_M,Ian McKee,2,D7
+Bachelorette,2,02_IAN_M,Ian McKee,3,D1
+Bachelorette,2,02_IAN_M,Ian McKee,4,D4
+Bachelorette,2,02_IAN_M,Ian McKee,5,D1
+Bachelorette,2,02_IAN_M,Ian McKee,6,D1
+Bachelorette,2,02_IAN_M,Ian McKee,7,D1
+Bachelorette,2,02_JEFF_O,Jeff O'Quinn,1,E
+Bachelorette,2,02_JUSTIN_X,Justin,1,E
+Bachelorette,2,02_KEITH_X,Keith,1,E
+Bachelorette,2,02_LANNY_X,Lanny,5,E
+Bachelorette,2,02_LANNY_X,Lanny,2,D7
+Bachelorette,2,02_LANNY_X,Lanny,3,D7
+Bachelorette,2,02_LANNY_X,Lanny,4,D1
+Bachelorette,2,02_LANNY_X,Lanny,5,D1
+Bachelorette,2,02_MARCUS_X,Marcus,2,E
+Bachelorette,2,02_MARCUS_X,Marcus,2,D7
+Bachelorette,2,02_MATTHEW_H,Matthew Hickl,7,E
+Bachelorette,2,02_MATTHEW_H,Matthew Hickl,2,D7
+Bachelorette,2,02_MATTHEW_H,Matthew Hickl,3,D7
+Bachelorette,2,02_MATTHEW_H,Matthew Hickl,4,D1
+Bachelorette,2,02_MATTHEW_H,Matthew Hickl,5,D1
+Bachelorette,2,02_MATTHEW_H,Matthew Hickl,6,D1
+Bachelorette,2,02_MATTHEW_H,Matthew Hickl,7,D1
+Bachelorette,2,02_RICK_X,Rick,3,E
+Bachelorette,2,02_RICK_X,Rick,2,D1
+Bachelorette,2,02_RICK_X,Rick,3,D7
+Bachelorette,2,02_ROBERT_X,Robert,2,E
+Bachelorette,2,02_ROBERT_X,Robert,2,D7
+Bachelorette,2,02_RYAN_M,Ryan M.,4,E
+Bachelorette,2,02_RYAN_M,Ryan M.,2,D7
+Bachelorette,2,02_RYAN_M,Ryan M.,3,D2
+Bachelorette,2,02_RYAN_M,Ryan M.,4,D4
+Bachelorette,2,02_RYAN_R,Ryan R.,3,E
+Bachelorette,2,02_RYAN_R,Ryan R.,2,D7
+Bachelorette,2,02_RYAN_R,Ryan R.,3,D7
+Bachelorette,2,02_SEAN_X,Sean,4,E
+Bachelorette,2,02_SEAN_X,Sean,2,D7
+Bachelorette,2,02_SEAN_X,Sean,3,D7
+Bachelorette,2,02_SEAN_X,Sean,4,D4
+Bachelorette,2,02_TODD_X,Todd,3,E
+Bachelorette,2,02_TODD_X,Todd,2,D7
+Bachelorette,2,02_TODD_X,Todd,3,D2
+Bachelorette,2,02_TREVER_X,Trever,1,E
+Bachelor,3,03_AMBER_X,Amber,3,E
+Bachelor,3,03_AMBER_X,Amber,2,D5
+Bachelor,3,03_AMBER_X,Amber,3,D1
+Bachelor,3,03_AMY_P,Amy P,2,E
+Bachelor,3,03_AMY_P,Amy P,2,D5
+Bachelor,3,03_AMY_G,Amy G,1,E
+Bachelor,3,03_AMY_G,Amy G,2,D5
+Bachelor,3,03_ANGELA_X,Angela,1,E
+Bachelor,3,03_ANNE_MICHELLE_X,Anne-Michelle,4,E
+Bachelor,3,03_ANNE_MICHELLE_X,Anne-Michelle,2,D5
+Bachelor,3,03_ANNE_MICHELLE_X,Anne-Michelle,3,D3
+Bachelor,3,03_ANNE_MICHELLE_X,Anne-Michelle,4,D1
+Bachelor,3,03_AUDREE_X,Audree,3,E
+Bachelor,3,03_AUDREE_X,Audree,2,D5
+Bachelor,3,03_AUDREE_X,Audree,3,D5
+Bachelor,3,03_BROOKE_X,Brooke,1,E
+Bachelor,3,03_CHRISTINA_S,Christina S,2,EQ
+Bachelor,3,03_CHRISTINA_S,Christina S,2,D5
+Bachelor,3,03_COURTNEY_X,Courtney,1,E
+Bachelor,3,03_CRISTINA_C,Cristina C,4,E
+Bachelor,3,03_CRISTINA_C,Cristina C,5,E
+Bachelor,3,03_CRISTINA_C,Cristina C,2,D5
+Bachelor,3,03_CRISTINA_C,Cristina C,3,D3
+Bachelor,3,03_CRISTINA_C,Cristina C,4,D3
+Bachelor,3,03_CRISTINA_C,Cristina C,5,D1
+Bachelor,3,03_ELIZABETH_X,Elizabeth,2,E
+Bachelor,3,03_ELIZABETH_X,Elizabeth,2,D5
+Bachelor,3,03_GINNY_X,Ginny,1,E
+Bachelor,3,03_HEATHER_X,Heather,3,E
+Bachelor,3,03_HEATHER_X,Heather,2,D5
+Bachelor,3,03_HEATHER_X,Heather,3,D5
+Bachelor,3,03_JEN_S,Jen Schefft,7,W
+Bachelor,3,03_JEN_S,Jen Schefft,2,D5
+Bachelor,3,03_JEN_S,Jen Schefft,3,D5
+Bachelor,3,03_JEN_S,Jen Schefft,4,D1
+Bachelor,3,03_JEN_S,Jen Schefft,5,D1
+Bachelor,3,03_JEN_S,Jen Schefft,6,D1
+Bachelor,3,03_JEN_S,Jen Schefft,7,D1
+Bachelor,3,03_JENNIFER_B,Jennifer B,1,E
+Bachelor,3,03_KERRI_X,Kerri,1,E
+Bachelor,3,03_KIRSTEN_X,Kirsten,7,E
+Bachelor,3,03_KIRSTEN_X,Kirsten,2,D5
+Bachelor,3,03_KIRSTEN_X,Kirsten,3,D1
+Bachelor,3,03_KIRSTEN_X,Kirsten,4,D1
+Bachelor,3,03_KIRSTEN_X,Kirsten,5,D1
+Bachelor,3,03_KIRSTEN_X,Kirsten,6,D1
+Bachelor,3,03_KIRSTEN_X,Kirsten,7,D1
+Bachelor,3,03_KRISTEN_X,Kristen,1,E
+Bachelor,3,03_LIZ_X,Liz,4,E
+Bachelor,3,03_LIZ_X,Liz,2,D5
+Bachelor,3,03_LIZ_X,Liz,3,D3
+Bachelor,3,03_LIZ_X,Liz,4,D3
+Bachelor,3,03_RACHEL_X,Rachel,2,E
+Bachelor,3,03_RACHEL_X,Rachel,2,D5
+Bachelor,3,03_SHANNON_X,Shannon,2,E
+Bachelor,3,03_SHANNON_X,Shannon,2,D5
+Bachelor,3,03_STEPHANIE_X,Stephanie,1,E
+Bachelor,3,03_TIFFANY_X,Tiffany,1,E
+Bachelor,3,03_TINA_P,Tina P,6,E
+Bachelor,3,03_TINA_P,Tina P,2,D5
+Bachelor,3,03_TINA_P,Tina P,3,D5
+Bachelor,3,03_TINA_P,Tina P,4,D3
+Bachelor,3,03_TINA_P,Tina P,5,D1
+Bachelor,3,03_TINA_P,Tina P,6,D1
+Bachelor,3,03_TINA_S,Tina S,3,E
+Bachelor,3,03_TINA_S,Tina S,2,D5
+Bachelor,3,03_TINA_S,Tina S,3,D5
+Bachelorette,3,03_A.W.,A.W.,2,E
+Bachelorette,3,03_A.W.,A.W.,2,D7
+Bachelorette,3,03_ANDREW,Andrew,1,E
+Bachelorette,3,03_ANDY_L,Andy LeRoy,1,E
+Bachelorette,3,03_BEN_S,Ben S.,4,E
+Bachelorette,3,03_BEN_S,Ben S.,2,D7
+Bachelorette,3,03_BEN_S,Ben S.,3,D6
+Bachelorette,3,03_BEN_S,Ben S.,4,D4
+Bachelorette,3,03_CHRIS_C,Chris C.,1,E
+Bachelorette,3,03_CHRIS_M,Chris M.,1,E
+Bachelorette,3,03_COLLIN_E,Collin E.,1,E
+Bachelorette,3,03_DAVID_V,David V.,1,E
+Bachelorette,3,03_ERIC_H,Eric H.,1,E
+Bachelorette,3,03_ERIC_T,Eric T.,1,E
+Bachelorette,3,03_FABRICE_L,Fabrice L.,4,EQ
+Bachelorette,3,03_FABRICE_L,Fabrice L.,2,D7
+Bachelorette,3,03_FABRICE_L,Fabrice L.,3,D1
+Bachelorette,3,03_FABRICE_L,Fabrice L.,4,D4
+Bachelorette,3,03_JASON_I,Jason I.,2,E
+Bachelorette,3,03_JASON_I,Jason I.,2,D7
+Bachelorette,3,03_JERRY_F,Jerry F.,8,W
+Bachelorette,3,03_JERRY_F,Jerry F.,2,D7
+Bachelorette,3,03_JERRY_F,Jerry F.,3,D6
+Bachelorette,3,03_JERRY_F,Jerry F.,4,D1
+Bachelorette,3,03_JERRY_F,Jerry F.,5,D1
+Bachelorette,3,03_JERRY_F,Jerry F.,6,D1
+Bachelorette,3,03_JERRY_F,Jerry F.,7,D1
+Bachelorette,3,03_JOHN PAUL_M,John Paul,7,E
+Bachelorette,3,03_JOHN PAUL_M,John Paul,2,D7
+Bachelorette,3,03_JOHN PAUL_M,John Paul,3,D1
+Bachelorette,3,03_JOHN PAUL_M,John Paul,4,D4
+Bachelorette,3,03_JOHN PAUL_M,John Paul,5,D1
+Bachelorette,3,03_JOHN PAUL_M,John Paul,6,D1
+Bachelorette,3,03_JOHN PAUL_M,John Paul,7,D1
+Bachelorette,3,03_JOSH_C,Josh Cox,3,E
+Bachelorette,3,03_JOSH_C,Josh Cox,2,D7
+Bachelorette,3,03_JOSH_C,Josh Cox,3,D6
+Bachelorette,3,03_KEITH,Keith,1,R1
+Bachelorette,3,03_KEITH,Keith,3,E
+Bachelorette,3,03_KEITH,Keith,2,D1
+Bachelorette,3,03_KEITH,Keith,3,D6
+Bachelorette,3,03_KEVIN,Kevin,1,E
+Bachelorette,3,03_MARK,Mark,2,E
+Bachelorette,3,03_MARK,Mark,2,D7
+Bachelorette,3,03_MATT_L,Matt L.,1,E
+Bachelorette,3,03_MATT_M,Matt M.,2,E
+Bachelorette,3,03_MATT_M,Matt M.,2,D7
+Bachelorette,3,03_MICHAEL_F,Michael Foster,2,E
+Bachelorette,3,03_MICHAEL_F,Michael Foster,2,D7
+Bachelorette,3,03_RYAN_SH,Ryan Sh.,6,E
+Bachelorette,3,03_RYAN_SH,Ryan Sh.,2,D7
+Bachelorette,3,03_RYAN_SH,Ryan Sh.,3,D6
+Bachelorette,3,03_RYAN_SH,Ryan Sh.,4,D1
+Bachelorette,3,03_RYAN_SH,Ryan Sh.,5,D1
+Bachelorette,3,03_RYAN_SH,Ryan Sh.,6,D1
+Bachelorette,3,03_RYAN_SM,Ryan Sm.,2,E
+Bachelorette,3,03_RYAN_SM,Ryan Sm.,2,D7
+Bachelorette,3,03_STU_L,Stu L.,2,E
+Bachelorette,3,03_STU_L,Stu L.,2,D7
+Bachelorette,3,03_WENDELL_J,Wendell J.,5,E
+Bachelorette,3,03_WENDELL_J,Wendell J.,2,D7
+Bachelorette,3,03_WENDELL_J,Wendell J.,3,D6
+Bachelorette,3,03_WENDELL_J,Wendell J.,4,D4
+Bachelorette,3,03_WENDELL_J,Wendell J.,5,D1
+Bachelor,4,04_ANTOINETTE,Antoinette,3,E
+Bachelor,4,04_ANTOINETTE,Antoinette,2,D6
+Bachelor,4,04_ANTOINETTE,Antoinette,3,D5
+Bachelor,4,04_BROOKE,Brooke,4,E
+Bachelor,4,04_BROOKE,Brooke,2,D4
+Bachelor,4,04_BROOKE,Brooke,3,D5
+Bachelor,4,04_BROOKE,Brooke,4,D3
+Bachelor,4,04_CHRISTINE,Christine,2,E
+Bachelor,4,04_CHRISTINE,Christine,2,D5
+Bachelor,4,04_DARLA,Darla,1,E
+Bachelor,4,04_ESTELLA,Estella,7,W
+Bachelor,4,04_ESTELLA,Estella,2,D5
+Bachelor,4,04_ESTELLA,Estella,3,D5
+Bachelor,4,04_ESTELLA,Estella,4,D1
+Bachelor,4,04_ESTELLA,Estella,5,D1
+Bachelor,4,04_ESTELLA,Estella,6,D1
+Bachelor,4,04_ESTELLA,Estella,7,D1
+Bachelor,4,04_HEATHER,Heather,1,E
+Bachelor,4,04_JENN,Jenn,2,E
+Bachelor,4,04_JENN,Jenn,2,D5
+Bachelor,4,04_JENNY,Jenny,3,E
+Bachelor,4,04_JENNY,Jenny,2,D6
+Bachelor,4,04_JENNY,Jenny,3,D5
+Bachelor,4,04_JULIE,Julie,1,E
+Bachelor,4,04_KARIN,Karin,3,E
+Bachelor,4,04_KARIN,Karin,2,D4
+Bachelor,4,04_KARIN,Karin,3,D5
+Bachelor,4,04_KELLY-JO,Kelly Jo,7,E
+Bachelor,4,04_KELLY-JO,Kelly Jo,2,D4
+Bachelor,4,04_KELLY-JO,Kelly Jo,3,D3
+Bachelor,4,04_KELLY-JO,Kelly Jo,4,D1
+Bachelor,4,04_KELLY-JO,Kelly Jo,5,D1
+Bachelor,4,04_KELLY-JO,Kelly Jo,6,D1
+Bachelor,4,04_KELLY-JO,Kelly Jo,7,D1
+Bachelor,4,04_KRISTI,Kristi,1,E
+Bachelor,4,04_LANAH,Lanah,2,E
+Bachelor,4,04_LANAH,Lanah,2,D6
+Bachelor,4,04_LAUREN,Lauren,1,E
+Bachelor,4,04_LEE-ANN,Lee-Ann,4,E
+Bachelor,4,04_LEE-ANN,Lee-Ann,2,D6
+Bachelor,4,04_LEE-ANN,Lee-Ann,3,D1
+Bachelor,4,04_LEE-ANN,Lee-Ann,4,D3
+Bachelor,4,04_LEONA,Leona,1,E
+Bachelor,4,04_LINDSAY,Lindsay,2,E
+Bachelor,4,04_LINDSAY,Lindsay,2,D6
+Bachelor,4,04_LINDSAY_CLIPPERS,Lindsay,2,ED
+Bachelor,4,04_LINDSAY_CLIPPERS,Lindsay,2,D5
+Bachelor,4,04_MARY,Mary,6,E
+Bachelor,4,04_MARY,Mary,2,D6
+Bachelor,4,04_MARY,Mary,3,D3
+Bachelor,4,04_MARY,Mary,4,D1
+Bachelor,4,04_MARY,Mary,5,D1
+Bachelor,4,04_MARY,Mary,6,D1
+Bachelor,4,04_MEREDITH,Meredith,5,E
+Bachelor,4,04_MEREDITH,Meredith,2,D4
+Bachelor,4,04_MEREDITH,Meredith,3,D1
+Bachelor,4,04_MEREDITH,Meredith,4,D3
+Bachelor,4,04_MEREDITH,Meredith,5,D1
+Bachelor,4,04_MISTY,Misty,3,E
+Bachelor,4,04_MISTY,Misty,2,D5
+Bachelor,4,04_MISTY,Misty,3,D3
+Bachelor,4,04_SAMENTHA,Samantha,1,E
+Bachelor,4,04_SHEA,Shea,1,E
+Bachelor,4,04_SHELLY,Shelly,1,E
+Bachelor,4,04_STACEY,Stacey,1,E
+Bachelorette,4,04_BLAINE_T,Blaine Twilley,5,E
+Bachelorette,4,04_BLAINE_T,Blaine Twilley,2,D7
+Bachelorette,4,04_BLAINE_T,Blaine Twilley,3,D10
+Bachelorette,4,04_BLAINE_T,Blaine Twilley,4,D6
+Bachelorette,4,04_BLAINE_T,Blaine Twilley,5,D4
+Bachelorette,4,04_BRIAN_T,Brian Westendorf,4,E
+Bachelorette,4,04_BRIAN_T,Brian Westendorf,2,D7
+Bachelorette,4,04_BRIAN_T,Brian Westendorf,3,D10
+Bachelorette,4,04_BRIAN_T,Brian Westendorf,4,D6
+Bachelorette,4,04_BRIAN_W,Brian Winchester,1,E
+Bachelorette,4,04_CHANDLER_F,Chandler Fulton,1,E
+Bachelorette,4,04_CHRISTOPHER_B,"Christopher ""Chris"" Bradshaw",2,E
+Bachelorette,4,04_CHRISTOPHER_B,"Christopher ""Chris"" Bradshaw",2,D7
+Bachelorette,4,04_DONATO_C,Donato Capodanno,1,E
+Bachelorette,4,04_ERIC_P,Eric Papachristos,2,E
+Bachelorette,4,04_ERIC_P,Eric Papachristos,2,D7
+Bachelorette,4,04_FREDERICK_G,"Frederick ""Fred"" Greif",3,R
+Bachelorette,4,04_FREDERICK_G,"Frederick ""Fred"" Greif",4,ED
+Bachelorette,4,04_FREDERICK_G,"Frederick ""Fred"" Greif",2,D7
+Bachelorette,4,04_FREDERICK_G,"Frederick ""Fred"" Greif",3,D10
+Bachelorette,4,04_FREDERICK_G,"Frederick ""Fred"" Greif",4,D2
+Bachelorette,4,04_GRAHAM_B,Graham Bunn,2,R
+Bachelorette,4,04_GRAHAM_B,Graham Bunn,6,E
+Bachelorette,4,04_GRAHAM_B,Graham Bunn,2,D1
+Bachelorette,4,04_GRAHAM_B,Graham Bunn,3,D10
+Bachelorette,4,04_GRAHAM_B,Graham Bunn,4,D6
+Bachelorette,4,04_GRAHAM_B,Graham Bunn,5,D4
+Bachelorette,4,04_GRAHAM_B,Graham Bunn,6,D1
+Bachelorette,4,04_GREGORY_M,"Gregory ""Greg"" Matthew",1,E
+Bachelorette,4,04_JASON_M,Jason Mesnick,3,R
+Bachelorette,4,04_JASON_M,Jason Mesnick,8,E
+Bachelorette,4,04_JASON_M,Jason Mesnick,2,D7
+Bachelorette,4,04_JASON_M,Jason Mesnick,3,D1
+Bachelorette,4,04_JASON_M,Jason Mesnick,4,D6
+Bachelorette,4,04_JASON_M,Jason Mesnick,5,D4
+Bachelorette,4,04_JASON_M,Jason Mesnick,6,D1
+Bachelorette,4,04_JASON_M,Jason Mesnick,7,D1
+Bachelorette,4,04_JASON_M,Jason Mesnick,8,D1
+Bachelorette,4,04_JEFFREY_H,Jeffrey Harris,1,E
+Bachelorette,4,04_JEREMY_A,Jeremy Anderson,1,R1
+Bachelorette,4,04_JEREMY_A,Jeremy Anderson,2,R
+Bachelorette,4,04_JEREMY_A,Jeremy Anderson,7,E
+Bachelorette,4,04_JEREMY_A,Jeremy Anderson,2,D7
+Bachelorette,4,04_JEREMY_A,Jeremy Anderson,3,D10
+Bachelorette,4,04_JEREMY_A,Jeremy Anderson,4,D6
+Bachelorette,4,04_JEREMY_A,Jeremy Anderson,5,D1
+Bachelorette,4,04_JEREMY_A,Jeremy Anderson,6,D1
+Bachelorette,4,04_JEREMY_A,Jeremy Anderson,7,D1
+Bachelorette,4,04_JESSE_C,Jesse Csincsak,1,R1
+Bachelorette,4,04_JESSE_C,Jesse Csincsak,4,R
+Bachelorette,4,04_JESSE_C,Jesse Csincsak,8,W
+Bachelorette,4,04_JESSE_C,Jesse Csincsak,2,D7
+Bachelorette,4,04_JESSE_C,Jesse Csincsak,3,D10
+Bachelorette,4,04_JESSE_C,Jesse Csincsak,4,D1
+Bachelorette,4,04_JESSE_C,Jesse Csincsak,5,D4
+Bachelorette,4,04_JESSE_C,Jesse Csincsak,6,D1
+Bachelorette,4,04_JESSE_C,Jesse Csincsak,7,D1
+Bachelorette,4,04_JESSE_C,Jesse Csincsak,8,D1
+Bachelorette,4,04_JONATHAN_K,"Jonathan ""Jon"" Konkel",1,E
+Bachelorette,4,04_LUKE_H,Luke Hamilton,1,E
+Bachelorette,4,04_PATRICK_C,Patrick Carlson,1,E
+Bachelorette,4,04_PATRICK_D,Patrick Durrere,1,E
+Bachelorette,4,04_PAUL_B,Paul Brosseau,2,R
+Bachelorette,4,04_PAUL_B,Paul Brosseau,3,E
+Bachelorette,4,04_PAUL_B,Paul Brosseau,2,D7
+Bachelorette,4,04_PAUL_B,Paul Brosseau,3,D10
+Bachelorette,4,04_RICHARD_M,Richard Mathy,1,R1
+Bachelorette,4,04_RICHARD_M,Richard Mathy,3,ED
+Bachelorette,4,04_RICHARD_M,Richard Mathy,2,D7
+Bachelorette,4,04_RICHARD_M,Richard Mathy,3,D1
+Bachelorette,4,04_ROBERT_F,Robert Fair,3,R
+Bachelorette,4,04_ROBERT_F,Robert Fair,4,ED
+Bachelorette,4,04_ROBERT_F,Robert Fair,2,D7
+Bachelorette,4,04_ROBERT_F,Robert Fair,3,D10
+Bachelorette,4,04_ROBERT_F,Robert Fair,4,D2
+Bachelorette,4,04_RONALD_M,Ronald Mayer,3,E
+Bachelorette,4,04_RONALD_M,Ronald Mayer,2,D7
+Bachelorette,4,04_RONALD_M,Ronald Mayer,3,D10
+Bachelorette,4,04_RYAN_H,Ryan Hoag,2,E
+Bachelorette,4,04_RYAN_H,Ryan Hoag,2,D7
+Bachelorette,4,04_SEAN_R,Sean Ramey,4,R
+Bachelorette,4,04_SEAN_R,Sean Ramey,5,E
+Bachelorette,4,04_SEAN_R,Sean Ramey,2,D7
+Bachelorette,4,04_SEAN_R,Sean Ramey,3,D10
+Bachelorette,4,04_SEAN_R,Sean Ramey,4,D6
+Bachelorette,4,04_SEAN_R,Sean Ramey,5,D1
+Bachelorette,4,04_SPERO_S,Spero Stamboulis,1,E
+Bachelor,5,05_AMBER_L,Amber LaRoux,2,E
+Bachelor,5,05_AMBER_L,Amber LaRoux,2,D8
+Bachelor,5,05_ANNECATHERINE_L,Anne-Catherine Labbé,2,E
+Bachelor,5,05_ANNECATHERINE_L,Anne-Catherine Labbé,2,D8
+Bachelor,5,05_CELESTE_C,Celeste Creel,2,E
+Bachelor,5,05_CELESTE_C,Celeste Creel,2,D7
+Bachelor,5,05_DEBBIE_M,Debbie Merkett,1,E
+Bachelor,5,05_DESHAUN_W,DeShaun Warner,1,E
+Bachelor,5,05_DOLORES_F,Dolores Farburg,1,E
+Bachelor,5,05_FRANCINE_J,Francine Jones,1,E
+Bachelor,5,05_HOLLY_R,Holly Reeder,1,E
+Bachelor,5,05_JEANMARIE_C,Jean-Marie Callahan,2,E
+Bachelor,5,05_JEANMARIE_C,Jean-Marie Callahan,2,D8
+Bachelor,5,05_JENNY_M,Jenny Matthews,1,E
+Bachelor,5,05_JENNY_S,Jenny De Schiralli,3,E
+Bachelor,5,05_JENNY_S,Jenny De Schiralli,2,D8
+Bachelor,5,05_JENNY_S,Jenny De Schiralli,3,D6
+Bachelor,5,05_JESSICA_B,Jessica Bowlin,7,W
+Bachelor,5,05_JESSICA_B,Jessica Bowlin,2,D7
+Bachelor,5,05_JESSICA_B,Jessica Bowlin,3,D6
+Bachelor,5,05_JESSICA_B,Jessica Bowlin,4,D1
+Bachelor,5,05_JESSICA_B,Jessica Bowlin,5,D1
+Bachelor,5,05_JESSICA_B,Jessica Bowlin,6,D1
+Bachelor,5,05_JESSICA_B,Jessica Bowlin,7,D1
+Bachelor,5,05_JESSICA_H,Jessica Holcomb,3,E
+Bachelor,5,05_JESSICA_H,Jessica Holcomb,2,D8
+Bachelor,5,05_JESSICA_H,Jessica Holcomb,3,D6
+Bachelor,5,05_JESSICA_K,Jessica Kyron,1,E
+Bachelor,5,05_JULIE_D,Julie Durda,3,E
+Bachelor,5,05_JULIE_D,Julie Durda,2,D7
+Bachelor,5,05_JULIE_D,Julie Durda,3,D6
+Bachelor,5,05_KAREN_L,Karen Lindsay,4,E
+Bachelor,5,05_KAREN_L,Karen Lindsay,2,D7
+Bachelor,5,05_KAREN_L,Karen Lindsay,3,D6
+Bachelor,5,05_KAREN_L,Karen Lindsay,4,D3
+Bachelor,5,05_KATIE_G,Katie Gehart,3,E
+Bachelor,5,05_KATIE_G,Katie Gehart,2,D7
+Bachelor,5,05_KATIE_G,Katie Gehart,3,D6
+Bachelor,5,05_KRISTIN_C,Kristin Clearwater,1,E
+Bachelor,5,05_KRISTY_R,Kristy Romero,2,E
+Bachelor,5,05_KRISTY_R,Kristy Romero,2,D8
+Bachelor,5,05_MANDY_C,Mandy Clemens,2,E
+Bachelor,5,05_MANDY_C,Mandy Clemens,2,D8
+Bachelor,5,05_MANDY_J,Mandy Jaye Jeffreys,6,E
+Bachelor,5,05_MANDY_J,Mandy Jaye Jeffreys,2,D7
+Bachelor,5,05_MANDY_J,Mandy Jaye Jeffreys,3,D2
+Bachelor,5,05_MANDY_J,Mandy Jaye Jeffreys,4,D1
+Bachelor,5,05_MANDY_J,Mandy Jaye Jeffreys,5,D1
+Bachelor,5,05_MANDY_J,Mandy Jaye Jeffreys,6,D1
+Bachelor,5,05_RACHEL_C,Rachel Clementi,1,E
+Bachelor,5,05_SUZIE_W,Suzie Williams,4,E
+Bachelor,5,05_SUZIE_W,Suzie Williams,2,D8
+Bachelor,5,05_SUZIE_W,Suzie Williams,3,D1
+Bachelor,5,05_SUZIE_W,Suzie Williams,4,D3
+Bachelor,5,05_TARA_H,Tara Huckeby,7,E
+Bachelor,5,05_TARA_H,Tara Huckeby,2,D7
+Bachelor,5,05_TARA_H,Tara Huckeby,3,D1
+Bachelor,5,05_TARA_H,Tara Huckeby,4,D1
+Bachelor,5,05_TARA_H,Tara Huckeby,5,D1
+Bachelor,5,05_TARA_H,Tara Huckeby,6,D1
+Bachelor,5,05_TARA_H,Tara Huckeby,7,D1
+Bachelor,5,05_TRISH_S,Trish Schneider,1,R1
+Bachelor,5,05_TRISH_S,Trish Schneider,5,E
+Bachelor,5,05_TRISH_S,Trish Schneider,2,D1
+Bachelor,5,05_TRISH_S,Trish Schneider,3,D2
+Bachelor,5,05_TRISH_S,Trish Schneider,4,D3
+Bachelor,5,05_TRISH_S,Trish Schneider,5,D1
+Bachelorette,5,05_ADAM_D,Adam Duvendeck,1,E
+Bachelorette,5,05_BRAD_S,Brad Seberhagen,3,E
+Bachelorette,5,05_BRAD_S,Brad Seberhagen,2,D8
+Bachelorette,5,05_BRAD_S,Brad Seberhagen,3,D11
+Bachelorette,5,05_BRIAN_D,Brian Duke,2,E
+Bachelorette,5,05_BRIAN_D,Brian Duke,2,D8
+Bachelorette,5,05_BRIAN_V,Bryan Vaderman,1,E
+Bachelorette,5,05_BRYCE_H,Bryce Harlow,1,E
+Bachelorette,5,05_CALEB_K,Caleb Kuhl,1,E
+Bachelorette,5,05_DAVID_G,David Good,1,R1
+Bachelorette,5,05_DAVID_G,David Good,4,E
+Bachelorette,5,05_DAVID_G,David Good,2,D7
+Bachelorette,5,05_DAVID_G,David Good,4,D10
+Bachelorette,5,05_ED_S,Ed Swiderski,3,R
+Bachelorette,5,05_ED_S,Ed Swiderski,10,W
+Bachelorette,5,05_ED_S,Ed Swiderski,2,D8
+Bachelorette,5,05_ED_S,Ed Swiderski,3,D1
+Bachelorette,5,05_ED_S,Ed Swiderski,4,D10
+Bachelorette,5,05_ED_S,Ed Swiderski,5,D8
+Bachelorette,5,05_ED_S,Ed Swiderski,7,D1
+Bachelorette,5,05_ED_S,Ed Swiderski,8,D1
+Bachelorette,5,05_ED_S,Ed Swiderski,9,D1
+Bachelorette,5,05_ED_S,Ed Swiderski,10,D1
+Bachelorette,5,05_GREG_B,Greg Bilbro,1,E
+Bachelorette,5,05_JAKE_P,Jake Pavelka,2,R
+Bachelorette,5,05_JAKE_P,Jake Pavelka,6,E
+Bachelorette,5,05_JAKE_P,Jake Pavelka,2,D1
+Bachelorette,5,05_JAKE_P,Jake Pavelka,4,D10
+Bachelorette,5,05_JAKE_P,Jake Pavelka,5,D8
+Bachelorette,5,05_JAKE_P,Jake Pavelka,6,D6
+Bachelorette,5,05_JESSE_K,Jesse Kovacs,4,R
+Bachelorette,5,05_JESSE_K,Jesse Kovacs,5,R
+Bachelorette,5,05_JESSE_K,Jesse Kovacs,7,E
+Bachelorette,5,05_JESSE_K,Jesse Kovacs,2,D7
+Bachelorette,5,05_JESSE_K,Jesse Kovacs,4,D10
+Bachelorette,5,05_JESSE_K,Jesse Kovacs,5,D1
+Bachelorette,5,05_JESSE_K,Jesse Kovacs,6,D6
+Bachelorette,5,05_JESSE_K,Jesse Kovacs,7,D1
+Bachelorette,5,05_JOHN_H,John Hardesty,1,E
+Bachelorette,5,05_JOHN_P,John Presser,1,E
+Bachelorette,5,05_JOSH_Y,Josh Yocam,1,E
+Bachelorette,5,05_JUAN_B,Juan Barbieri,2,R
+Bachelorette,5,05_JUAN_B,Juan Barbieri,4,E
+Bachelorette,5,05_JUAN_B,Juan Barbieri,2,D7
+Bachelorette,5,05_JUAN_B,Juan Barbieri,3,D11
+Bachelorette,5,05_JUAN_B,Juan Barbieri,4,D10
+Bachelorette,5,05_JULIEN_H,Julien Hug,2,E
+Bachelorette,5,05_KIPTYN_L,Kiptyn Locke,4,R
+Bachelorette,5,05_KIPTYN_L,Kiptyn Locke,6,R
+Bachelorette,5,05_KIPTYN_L,Kiptyn Locke,10,E
+Bachelorette,5,05_KIPTYN_L,Kiptyn Locke,2,D7
+Bachelorette,5,05_KIPTYN_L,Kiptyn Locke,3,D11
+Bachelorette,5,05_KIPTYN_L,Kiptyn Locke,4,D1
+Bachelorette,5,05_KIPTYN_L,Kiptyn Locke,5,D8
+Bachelorette,5,05_KIPTYN_L,Kiptyn Locke,6,D6
+Bachelorette,5,05_KIPTYN_L,Kiptyn Locke,7,D1
+Bachelorette,5,05_KIPTYN_L,Kiptyn Locke,8,D1
+Bachelorette,5,05_KIPTYN_L,Kiptyn Locke,9,D1
+Bachelorette,5,05_KIPTYN_L,Kiptyn Locke,10,D1
+Bachelorette,5,05_KYLE_Y,Kyle Yauch,1,E
+Bachelorette,5,05_MARK_H,Mark Huebner,4,R
+Bachelorette,5,05_MARK_H,Mark Huebner,5,E
+Bachelorette,5,05_MARK_H,Mark Huebner,2,D7
+Bachelorette,5,05_MARK_H,Mark Huebner,3,D11
+Bachelorette,5,05_MARK_H,Mark Huebner,4,D2
+Bachelorette,5,05_MARK_H,Mark Huebner,5,D8
+Bachelorette,5,05_MATHUE_J,Mathue Johnson,2,E
+Bachelorette,5,05_MATHUE_J,Mathue Johnson,2,D8
+Bachelorette,5,05_MICHAEL_S,Michael Stagliano,5,R
+Bachelorette,5,05_MICHAEL_S,Michael Stagliano,7,E
+Bachelorette,5,05_MICHAEL_S,Michael Stagliano,2,D8
+Bachelorette,5,05_MICHAEL_S,Michael Stagliano,3,D11
+Bachelorette,5,05_MICHAEL_S,Michael Stagliano,4,D10
+Bachelorette,5,05_MICHAEL_S,Michael Stagliano,5,D1
+Bachelorette,5,05_MICHAEL_S,Michael Stagliano,6,D6
+Bachelorette,5,05_MICHAEL_S,Michael Stagliano,7,D1
+Bachelorette,5,05_MIKE_S,Mike Steinberg,2,R
+Bachelorette,5,05_MIKE_S,Mike Steinberg,4,ED
+Bachelorette,5,05_MIKE_S,Mike Steinberg,2,D7
+Bachelorette,5,05_MIKE_S,Mike Steinberg,3,D11
+Bachelorette,5,05_MIKE_S,Mike Steinberg,4,D2
+Bachelorette,5,05_REID_R,Reid Rosenthal,6,R
+Bachelorette,5,05_REID_R,Reid Rosenthal,9,E
+Bachelorette,5,05_REID_R,Reid Rosenthal,3,D11
+Bachelorette,5,05_REID_R,Reid Rosenthal,4,D10
+Bachelorette,5,05_REID_R,Reid Rosenthal,5,D8
+Bachelorette,5,05_REID_R,Reid Rosenthal,6,D1
+Bachelorette,5,05_REID_R,Reid Rosenthal,7,D1
+Bachelorette,5,05_REID_R,Reid Rosenthal,8,D1
+Bachelorette,5,05_REID_R,Reid Rosenthal,9,D1
+Bachelorette,5,05_ROBBY_D,Robby Descant,3,R
+Bachelorette,5,05_ROBBY_D,Robby Descant,6,ED
+Bachelorette,5,05_ROBBY_D,Robby Descant,3,D11
+Bachelorette,5,05_ROBBY_D,Robby Descant,4,D10
+Bachelorette,5,05_ROBBY_D,Robby Descant,5,D8
+Bachelorette,5,05_ROBBY_D,Robby Descant,6,D1
+Bachelorette,5,05_SASHA_P,Sasha Petrovic,3,ED
+Bachelorette,5,05_SASHA_P,Sasha Petrovic,2,D8
+Bachelorette,5,05_SASHA_P,Sasha Petrovic,3,D1
+Bachelorette,5,05_SIMON_A,Simon Ambrose,2,E
+Bachelorette,5,05_SIMON_A,Simon Ambrose,2,D7
+Bachelorette,5,05_STEPHEN_R,Stephen Reich,1,E
+Bachelorette,5,05_TANNER_F,Tanner Fanello,3,E
+Bachelorette,5,05_TANNER_F,Tanner Fanello,3,D11
+Bachelorette,5,05_TANNER_P,Tanner Pope,6,E
+Bachelorette,5,05_TANNER_P,Tanner Pope,2,D8
+Bachelorette,5,05_TANNER_P,Tanner Pope,3,D11
+Bachelorette,5,05_TANNER_P,Tanner Pope,4,D10
+Bachelorette,5,05_TANNER_P,Tanner Pope,5,D8
+Bachelorette,5,05_TANNER_P,Tanner Pope,6,D6
+Bachelorette,5,05_WES_H,Wes Hayden,2,R
+Bachelorette,5,05_WES_H,Wes Hayden,8,E
+Bachelorette,5,05_WES_H,Wes Hayden,2,D8
+Bachelorette,5,05_WES_H,Wes Hayden,3,D11
+Bachelorette,5,05_WES_H,Wes Hayden,4,D10
+Bachelorette,5,05_WES_H,Wes Hayden,5,D8
+Bachelorette,5,05_WES_H,Wes Hayden,6,D6
+Bachelorette,5,05_WES_H,Wes Hayden,7,D1
+Bachelorette,5,05_WES_H,Wes Hayden,8,D1
+Bachelor,6,06_ABBY,Abby,1,E
+Bachelor,6,06_ALMA,Alma,1,E
+Bachelor,6,06_AMANDA,Amanda,3,E
+Bachelor,6,06_AMY,Amy,1,E
+Bachelor,6,06_ANDREA,Andrea,5,E
+Bachelor,6,06_ANDREA,Andrea,3,D1
+Bachelor,6,06_ASHLEY,Ashley,2,E
+Bachelor,6,06_CAROLYN,Carolyn,1,E
+Bachelor,6,06_CHERESSE,Cheresse,6,E
+Bachelor,6,06_CHERESSE,Cheresse,2,D1
+Bachelor,6,06_CYNTHIA,Cynthia,7,E
+Bachelor,6,06_CYNTHIA,Cynthia,5,D1
+Bachelor,6,06_CYNTHIA,Cynthia,6,D1
+Bachelor,6,06_CYNTHIA,Cynthia,7,D1
+Bachelor,6,06_ELIZABETH,Elizabeth,4,E
+Bachelor,6,06_ELIZABETH,Elizabeth,4,D1
+Bachelor,6,06_HEATHER,Heather Cranford,3,E
+Bachelor,6,06_HEATHER,Heather Cranford,3,D2
+Bachelor,6,06_JAYNE,Jayne,5,E
+Bachelor,6,06_JAYNE,Jayne,2,D1
+Bachelor,6,06_JAYNE,Jayne,5,D1
+Bachelor,6,06_JENNIFER,Jennifer,1,E
+Bachelor,6,06_KELLY,Kelly,2,E
+Bachelor,6,06_KERRY,Kerry,1,E
+Bachelor,6,06_KRISTIE,Kristie,3,E
+Bachelor,6,06_KRISTIN,Kristin,1,E
+Bachelor,6,06_KRYSTA,Krysta,4,E
+Bachelor,6,06_LEINA,Leina,2,EQ
+Bachelor,6,06_LISA,Lisa,1,E
+Bachelor,6,06_MARY,Mary,8,W
+Bachelor,6,06_MARY,Mary,3,D2
+Bachelor,6,06_MARY,Mary,5,D1
+Bachelor,6,06_MARY,Mary,6,D1
+Bachelor,6,06_MARY,Mary,7,D1
+Bachelor,6,06_MARY,Mary,8,D1
+Bachelor,6,06_MELINDA,Melinda,1,E
+Bachelor,6,06_NATALIE,Natalie,2,E
+Bachelor,6,06_NICOLE,Nicole,1,E
+Bachelor,6,06_SUSIE,Susie,3,E
+Bachelor,6,06_TANYA,Tanya,8,E
+Bachelor,6,06_TANYA,Tanya,4,D1
+Bachelor,6,06_TANYA,Tanya,6,D1
+Bachelor,6,06_TANYA,Tanya,7,D1
+Bachelor,6,06_TANYA,Tanya,8,D1
+Bachelor,6,06_WENDE,Wende,2,E
+Bachelorette,6,06_CHRIS_H,Chris Hasek-Watt,2,E
+Bachelorette,6,06_CHRIS_H,Chris Hasek-Watt,2,D12
+Bachelorette,6,06_CHRIS_L,Chris Lambton,4,R
+Bachelorette,6,06_CHRIS_L,Chris Lambton,10,ED
+Bachelorette,6,06_CHRIS_L,Chris Lambton,3,D9
+Bachelorette,6,06_CHRIS_L,Chris Lambton,4,D1
+Bachelorette,6,06_CHRIS_L,Chris Lambton,5,D6
+Bachelorette,6,06_CHRIS_L,Chris Lambton,6,D4
+Bachelorette,6,06_CHRIS_L,Chris Lambton,7,D1
+Bachelorette,6,06_CHRIS_L,Chris Lambton,8,D1
+Bachelorette,6,06_CHRIS_L,Chris Lambton,9,D1
+Bachelorette,6,06_CHRIS_L,Chris Lambton,10,D1
+Bachelorette,6,06_CHRIS_N,Chris Nordhorn,5,E
+Bachelorette,6,06_CHRIS_N,Chris Nordhorn,2,D12
+Bachelorette,6,06_CHRIS_N,Chris Nordhorn,3,D9
+Bachelorette,6,06_CHRIS_N,Chris Nordhorn,5,D6
+Bachelorette,6,06_CRAIG_M,Craig McKinnon,2,E
+Bachelorette,6,06_CRAIG_M,Craig McKinnon,2,D12
+Bachelorette,6,06_CRAIG_R,Craig Robinson,6,E
+Bachelorette,6,06_CRAIG_R,Craig Robinson,2,D12
+Bachelorette,6,06_CRAIG_R,Craig Robinson,3,D9
+Bachelorette,6,06_CRAIG_R,Craig Robinson,4,D7
+Bachelorette,6,06_CRAIG_R,Craig Robinson,5,D6
+Bachelorette,6,06_CRAIG_R,Craig Robinson,6,D4
+Bachelorette,6,06_DEREK_X,Derek,1,E
+Bachelorette,6,06_DERRICK_S,Derrick Schuster,1,E
+Bachelorette,6,06_FRANK_N,Frank Neuschaefer,2,R
+Bachelorette,6,06_FRANK_N,Frank Neuschaefer,6,R
+Bachelorette,6,06_FRANK_N,Frank Neuschaefer,9,EF
+Bachelorette,6,06_FRANK_N,Frank Neuschaefer,2,D1
+Bachelorette,6,06_FRANK_N,Frank Neuschaefer,3,D9
+Bachelorette,6,06_FRANK_N,Frank Neuschaefer,4,D7
+Bachelorette,6,06_FRANK_N,Frank Neuschaefer,5,D6
+Bachelorette,6,06_FRANK_N,Frank Neuschaefer,6,D1
+Bachelorette,6,06_FRANK_N,Frank Neuschaefer,7,D2
+Bachelorette,6,06_FRANK_N,Frank Neuschaefer,8,D1
+Bachelorette,6,06_FRANK_N,Frank Neuschaefer,9,D1
+Bachelorette,6,06_HUNTER_W,Hunter Wagner,3,ED
+Bachelorette,6,06_HUNTER_W,Hunter Wagner,2,D12
+Bachelorette,6,06_HUNTER_W,Hunter Wagner,3,D1
+Bachelorette,6,06_JASON_W,Jason Whitehead,1,E
+Bachelorette,6,06_JAY_R,Jay Resmini,1,E
+Bachelorette,6,06_JESSE_B,Jesse Beck,2,R
+Bachelorette,6,06_JESSE_B,Jesse Beck,4,E
+Bachelorette,6,06_JESSE_B,Jesse Beck,2,D1
+Bachelorette,6,06_JESSE_B,Jesse Beck,3,D9
+Bachelorette,6,06_JESSE_B,Jesse Beck,4,D7
+Bachelorette,6,06_JOHN_C,John Crivello,3,E
+Bachelorette,6,06_JOHN_C,John Crivello,3,D9
+Bachelorette,6,06_JOHN_N,John N.,1,E
+Bachelorette,6,06_JONATHAN_N,Jonathan Novack,4,E
+Bachelorette,6,06_JONATHAN_N,Jonathan Novack,2,D12
+Bachelorette,6,06_JONATHAN_N,Jonathan Novack,3,D9
+Bachelorette,6,06_JONATHAN_N,Jonathan Novack,4,D7
+Bachelorette,6,06_JUSTIN_R,Justin Rego,5,R
+Bachelorette,6,06_JUSTIN_R,Justin Rego,6,EF
+Bachelorette,6,06_JUSTIN_R,Justin Rego,2,D12
+Bachelorette,6,06_JUSTIN_R,Justin Rego,3,D9
+Bachelorette,6,06_JUSTIN_R,Justin Rego,5,D2
+Bachelorette,6,06_KASEY_K,Kasey Kahl,5,ED
+Bachelorette,6,06_KASEY_K,Kasey Kahl,2,D12
+Bachelorette,6,06_KASEY_K,Kasey Kahl,4,D1
+Bachelorette,6,06_KASEY_K,Kasey Kahl,5,D2
+Bachelorette,6,06_KIRK_D,Kirk DeWindt,3,R
+Bachelorette,6,06_KIRK_D,Kirk DeWindt,5,R
+Bachelorette,6,06_KIRK_D,Kirk DeWindt,8,E
+Bachelorette,6,06_KIRK_D,Kirk DeWindt,2,D12
+Bachelorette,6,06_KIRK_D,Kirk DeWindt,3,D9
+Bachelorette,6,06_KIRK_D,Kirk DeWindt,4,D7
+Bachelorette,6,06_KIRK_D,Kirk DeWindt,5,D1
+Bachelorette,6,06_KIRK_D,Kirk DeWindt,6,D4
+Bachelorette,6,06_KIRK_D,Kirk DeWindt,7,D1
+Bachelorette,6,06_KIRK_D,Kirk DeWindt,8,D1
+Bachelorette,6,06_KYLE_H,Kyle Higgins,1,E
+Bachelorette,6,06_PHIL_K,Phil Kayden,1,E
+Bachelorette,6,06_ROBERT_M,Roberto Martinez,1,R1
+Bachelorette,6,06_ROBERT_M,Roberto Martinez,3,R
+Bachelorette,6,06_ROBERT_M,Roberto Martinez,10,W
+Bachelorette,6,06_ROBERT_M,Roberto Martinez,3,D1
+Bachelorette,6,06_ROBERT_M,Roberto Martinez,4,D7
+Bachelorette,6,06_ROBERT_M,Roberto Martinez,5,D6
+Bachelorette,6,06_ROBERT_M,Roberto Martinez,6,D4
+Bachelorette,6,06_ROBERT_M,Roberto Martinez,7,D1
+Bachelorette,6,06_ROBERT_M,Roberto Martinez,8,D1
+Bachelorette,6,06_ROBERT_M,Roberto Martinez,9,D1
+Bachelorette,6,06_ROBERT_M,Roberto Martinez,10,D1
+Bachelorette,6,06_STEVE_K,Steve Kocsis,3,E
+Bachelorette,6,06_STEVE_K,Steve Kocsis,2,D12
+Bachelorette,6,06_TY_B,Ty Brown,2,R
+Bachelorette,6,06_TY_B,Ty Brown,5,R
+Bachelorette,6,06_TY_B,Ty Brown,6,R
+Bachelorette,6,06_TY_B,Ty Brown,7,E
+Bachelorette,6,06_TY_B,Ty Brown,2,D12
+Bachelorette,6,06_TY_B,Ty Brown,4,D7
+Bachelorette,6,06_TY_B,Ty Brown,5,D6
+Bachelorette,6,06_TY_B,Ty Brown,6,D1
+Bachelorette,6,06_TY_B,Ty Brown,7,D2
+Bachelorette,6,06_TYLER_M,Tyler Vermette,1,E
+Bachelorette,6,06_TYLER_V,Tyler Morrow,2,E
+Bachelorette,6,06_TYLER_V,Tyler Morrow,2,D12
+Bachelor,7,07_ANITRA,Anitra,1,R
+Bachelor,7,07_ANITRA,Anitra,4,E
+Bachelor,7,07_ANITRA,Anitra,1,D5
+Bachelor,7,07_ANITRA,Anitra,2,D10
+Bachelor,7,07_ANITRA,Anitra,3,D6
+Bachelor,7,07_ANITRA,Anitra,4,D5
+Bachelor,7,07_BRENDA,Brenda,1,EU
+Bachelor,7,07_CARRIE,Carrie,2,E
+Bachelor,7,07_CARRIE,Carrie,1,D6
+Bachelor,7,07_CARRIE,Carrie,2,D10
+Bachelor,7,07_DANUSHKA,Danushka,1,E
+Bachelor,7,07_DANUSHKA,Danushka,1,D6
+Bachelor,7,07_DEBBY,Debby,1,EU
+Bachelor,7,07_EMILIE,Emilie,1,E
+Bachelor,7,07_EMILIE,Emilie,1,D5
+Bachelor,7,07_GEITAN,Geitan,1,E
+Bachelor,7,07_GEITAN,Geitan,1,D9
+Bachelor,7,07_GINA MARIE,Gina Marie,2,E
+Bachelor,7,07_GINA MARIE,Gina Marie,1,D9
+Bachelor,7,07_GINA MARIE,Gina Marie,2,D10
+Bachelor,7,07_HEATHER,Heather,1,EU
+Bachelor,7,07_JENNY,Jenny,1,R
+Bachelor,7,07_JENNY,Jenny,3,E
+Bachelor,7,07_JENNY,Jenny,1,D6
+Bachelor,7,07_JENNY,Jenny,2,D10
+Bachelor,7,07_JENNY,Jenny,3,D6
+Bachelor,7,07_KARA,Kara,2,R
+Bachelor,7,07_KARA,Kara,3,EU
+Bachelor,7,07_KARA,Kara,1,D9
+Bachelor,7,07_KARA,Kara,2,D10
+Bachelor,7,07_KARA,Kara,3,D1
+Bachelor,7,07_KATIE,Katie,1,EU
+Bachelor,7,07_KERRY,Kerry,1,R1
+Bachelor,7,07_KERRY,Kerry,2,E
+Bachelor,7,07_KERRY,Kerry,1,D6
+Bachelor,7,07_KERRY,Kerry,2,D10
+Bachelor,7,07_KIMBERLY,Kimberley,1,R
+Bachelor,7,07_KIMBERLY,Kimberley,2,R
+Bachelor,7,07_KIMBERLY,Kimberley,3,R
+Bachelor,7,07_KIMBERLY,Kimberley,5,E
+Bachelor,7,07_KIMBERLY,Kimberley,1,D6
+Bachelor,7,07_KIMBERLY,Kimberley,2,D10
+Bachelor,7,07_KIMBERLY,Kimberley,3,D1
+Bachelor,7,07_KIMBERLY,Kimberley,4,D5
+Bachelor,7,07_KIMBERLY,Kimberley,5,D1
+Bachelor,7,07_KINDLE,Kindle,1,R
+Bachelor,7,07_KINDLE,Kindle,4,E
+Bachelor,7,07_KINDLE,Kindle,1,D5
+Bachelor,7,07_KINDLE,Kindle,2,D10
+Bachelor,7,07_KINDLE,Kindle,3,D6
+Bachelor,7,07_KINDLE,Kindle,4,D5
+Bachelor,7,07_KRISILY,Krisily,1,R
+Bachelor,7,07_KRISILY,Krisily,7,EU
+Bachelor,7,07_KRISILY,Krisily,1,D9
+Bachelor,7,07_KRISILY,Krisily,2,D10
+Bachelor,7,07_KRISILY,Krisily,3,D6
+Bachelor,7,07_KRISILY,Krisily,4,D5
+Bachelor,7,07_KRISILY,Krisily,5,D1
+Bachelor,7,07_KRISILY,Krisily,6,D1
+Bachelor,7,07_KRISILY,Krisily,7,D1
+Bachelor,7,07_KRISTEN,Kristen,1,E
+Bachelor,7,07_KRISTEN,Kristen,1,D5
+Bachelor,7,07_KRISTINA,Kristina,1,EU
+Bachelor,7,07_KRISTINE,Kristine,1,E
+Bachelor,7,07_KRISTINE,Kristine,1,D9
+Bachelor,7,07_KYSHAWN,Kyshawn,1,E
+Bachelor,7,07_KYSHAWN,Kyshawn,1,D9
+Bachelor,7,07_MEGAN,Megan,2,EU
+Bachelor,7,07_MEGAN,Megan,1,D5
+Bachelor,7,07_MEGAN,Megan,2,D1
+Bachelor,7,07_SARAH B.,Sarah B.,4,R
+Bachelor,7,07_SARAH B.,Sarah B.,7,W
+Bachelor,7,07_SARAH B.,Sarah B.,1,D9
+Bachelor,7,07_SARAH B.,Sarah B.,2,D10
+Bachelor,7,07_SARAH B.,Sarah B.,3,D6
+Bachelor,7,07_SARAH B.,Sarah B.,4,D1
+Bachelor,7,07_SARAH B.,Sarah B.,5,D1
+Bachelor,7,07_SARAH B.,Sarah B.,6,D1
+Bachelor,7,07_SARAH B.,Sarah B.,7,D1
+Bachelor,7,07_SARAH W.,Sarah W.,1,R1
+Bachelor,7,07_SARAH W.,Sarah W.,2,R
+Bachelor,7,07_SARAH W.,Sarah W.,6,E
+Bachelor,7,07_SARAH W.,Sarah W.,1,D9
+Bachelor,7,07_SARAH W.,Sarah W.,2,D1
+Bachelor,7,07_SARAH W.,Sarah W.,3,D6
+Bachelor,7,07_SARAH W.,Sarah W.,4,D5
+Bachelor,7,07_SARAH W.,Sarah W.,5,D1
+Bachelor,7,07_SARAH W.,Sarah W.,6,D1
+Bachelor,7,07_SIOMARA,Siomara,1,E
+Bachelor,7,07_SIOMARA,Siomara,1,D9
+Bachelor,7,07_VALERIE,Valerie,1,E
+Bachelor,7,07_VALERIE,Valerie,1,D6
+Bachelorette,7,07_AMES_B,Ames Brown,4,R
+Bachelorette,7,07_AMES_B,Ames Brown,8,E
+Bachelorette,7,07_AMES_B,Ames Brown,3,D10
+Bachelorette,7,07_AMES_B,Ames Brown,4,D1
+Bachelorette,7,07_AMES_B,Ames Brown,5,D8
+Bachelorette,7,07_AMES_B,Ames Brown,6,D6
+Bachelorette,7,07_AMES_B,Ames Brown,7,D3
+Bachelorette,7,07_AMES_B,Ames Brown,8,D1
+Bachelorette,7,07_ANTHONY_S,Anthony Santucci,1,E
+Bachelorette,7,07_BEN_C,Ben Castoriano,3,R
+Bachelorette,7,07_BEN_C,Ben Castoriano,5,ED
+Bachelorette,7,07_BEN_C,Ben Castoriano,3,D1
+Bachelorette,7,07_BEN_C,Ben Castoriano,4,D10
+Bachelorette,7,07_BEN_C,Ben Castoriano,5,D2
+Bachelorette,7,07_BEN_F,Ben Flajnik,4,R
+Bachelorette,7,07_BEN_F,Ben Flajnik,5,R
+Bachelorette,7,07_BEN_F,Ben Flajnik,10,E
+Bachelorette,7,07_BEN_F,Ben Flajnik,2,D6
+Bachelorette,7,07_BEN_F,Ben Flajnik,3,D10
+Bachelorette,7,07_BEN_F,Ben Flajnik,4,D10
+Bachelorette,7,07_BEN_F,Ben Flajnik,5,D1
+Bachelorette,7,07_BEN_F,Ben Flajnik,6,D6
+Bachelorette,7,07_BEN_F,Ben Flajnik,7,D1
+Bachelorette,7,07_BEN_F,Ben Flajnik,8,D1
+Bachelorette,7,07_BEN_F,Ben Flajnik,9,D1
+Bachelorette,7,07_BEN_F,Ben Flajnik,10,D1
+Bachelorette,7,07_BENTLEY_W,Bentley Williams,2,R
+Bachelorette,7,07_BENTLEY_W,Bentley Williams,3,EQ
+Bachelorette,7,07_BENTLEY_W,Bentley Williams,2,D6
+Bachelorette,7,07_BENTLEY_W,Bentley Williams,3,D10
+Bachelorette,7,07_BLAKE_J,Blake Julian,5,R
+Bachelorette,7,07_BLAKE_J,Blake Julian,6,E
+Bachelorette,7,07_BLAKE_J,Blake Julian,2,D6
+Bachelorette,7,07_BLAKE_J,Blake Julian,3,D10
+Bachelorette,7,07_BLAKE_J,Blake Julian,4,D10
+Bachelorette,7,07_BLAKE_J,Blake Julian,5,D8
+Bachelorette,7,07_BLAKE_J,Blake Julian,6,D6
+Bachelorette,7,07_CHRIS_D,Chris Drish,3,E
+Bachelorette,7,07_CHRIS_D,Chris Drish,3,D10
+Bachelorette,7,07_CHRIS_M,Chris Malhomme,1,E
+Bachelorette,7,07_CONSTANTINE_T,Constantine Tzortzis,4,R
+Bachelorette,7,07_CONSTANTINE_T,Constantine Tzortzis,9,EQ
+Bachelorette,7,07_CONSTANTINE_T,Constantine Tzortzis,4,D1
+Bachelorette,7,07_CONSTANTINE_T,Constantine Tzortzis,5,D8
+Bachelorette,7,07_CONSTANTINE_T,Constantine Tzortzis,6,D6
+Bachelorette,7,07_CONSTANTINE_T,Constantine Tzortzis,7,D1
+Bachelorette,7,07_CONSTANTINE_T,Constantine Tzortzis,8,D1
+Bachelorette,7,07_CONSTANTINE_T,Constantine Tzortzis,9,D1
+Bachelorette,7,07_FRANK_C,Frank Carpenter,1,E
+Bachelorette,7,07_JEFF_M,Jeff Medolla,3,E
+Bachelorette,7,07_JEFF_M,Jeff Medolla,3,D10
+Bachelorette,7,07_JON_E,Jon Ellsworth,1,E
+Bachelorette,7,07_JP_R,J.P. Rosenbaum,3,R
+Bachelorette,7,07_JP_R,J.P. Rosenbaum,6,R
+Bachelorette,7,07_JP_R,J.P. Rosenbaum,7,R
+Bachelorette,7,07_JP_R,J.P. Rosenbaum,10,W
+Bachelorette,7,07_JP_R,J.P. Rosenbaum,3,D1
+Bachelorette,7,07_JP_R,J.P. Rosenbaum,4,D10
+Bachelorette,7,07_JP_R,J.P. Rosenbaum,5,D8
+Bachelorette,7,07_JP_R,J.P. Rosenbaum,6,D1
+Bachelorette,7,07_JP_R,J.P. Rosenbaum,7,D3
+Bachelorette,7,07_JP_R,J.P. Rosenbaum,8,D1
+Bachelorette,7,07_JP_R,J.P. Rosenbaum,9,D1
+Bachelorette,7,07_JP_R,J.P. Rosenbaum,10,D1
+Bachelorette,7,07_LUCAS_D,Lucas Daniels,6,R
+Bachelorette,7,07_LUCAS_D,Lucas Daniels,7,E
+Bachelorette,7,07_LUCAS_D,Lucas Daniels,2,D6
+Bachelorette,7,07_LUCAS_D,Lucas Daniels,3,D10
+Bachelorette,7,07_LUCAS_D,Lucas Daniels,4,D10
+Bachelorette,7,07_LUCAS_D,Lucas Daniels,5,D8
+Bachelorette,7,07_LUCAS_D,Lucas Daniels,6,D1
+Bachelorette,7,07_LUCAS_D,Lucas Daniels,7,D3
+Bachelorette,7,07_MATT_C,Matt Colombo,2,E
+Bachelorette,7,07_MICHAEL_B,Michael Burns,1,E
+Bachelorette,7,07_NICK_P,Nick Peterson,5,E
+Bachelorette,7,07_NICK_P,Nick Peterson,2,D6
+Bachelorette,7,07_NICK_P,Nick Peterson,3,D10
+Bachelorette,7,07_NICK_P,Nick Peterson,4,D10
+Bachelorette,7,07_NICK_P,Nick Peterson,5,D8
+Bachelorette,7,07_ROB_D,Rob Dahm,1,E
+Bachelorette,7,07_RYAN_ML,"Ryan ""Mickey"" McLean",2,R
+Bachelorette,7,07_RYAN_ML,"Ryan ""Mickey"" McLean",6,EQ
+Bachelorette,7,07_RYAN_ML,"Ryan ""Mickey"" McLean",2,D1
+Bachelorette,7,07_RYAN_ML,"Ryan ""Mickey"" McLean",4,D10
+Bachelorette,7,07_RYAN_ML,"Ryan ""Mickey"" McLean",5,D8
+Bachelorette,7,07_RYAN_ML,"Ryan ""Mickey"" McLean",6,D6
+Bachelorette,7,07_RYAN_MI,Ryan Miller,2,E
+Bachelorette,7,07_RYAN_P,Ryan Park,1,R1
+Bachelorette,7,07_RYAN_P,Ryan Park,3,R
+Bachelorette,7,07_RYAN_P,Ryan Park,6,R
+Bachelorette,7,07_RYAN_P,Ryan Park,7,ED
+Bachelorette,7,07_RYAN_P,Ryan Park,3,D10
+Bachelorette,7,07_RYAN_P,Ryan Park,4,D10
+Bachelorette,7,07_RYAN_P,Ryan Park,5,D8
+Bachelorette,7,07_RYAN_P,Ryan Park,6,D6
+Bachelorette,7,07_RYAN_P,Ryan Park,7,D1
+Bachelorette,7,07_STEPHEN_D,Stephen D'Amico,2,E
+Bachelorette,7,07_TIM_M,Tim McCormack,1,EU
+Bachelorette,7,07_WEST_L,West Lee,4,E
+Bachelorette,7,07_WEST_L,West Lee,2,D6
+Bachelorette,7,07_WEST_L,West Lee,4,D10
+Bachelorette,7,07_WILLIAM_H,William Holman,2,R
+Bachelorette,7,07_WILLIAM_H,William Holman,5,ED
+Bachelorette,7,07_WILLIAM_H,William Holman,2,D1
+Bachelorette,7,07_WILLIAM_H,William Holman,3,D10
+Bachelorette,7,07_WILLIAM_H,William Holman,4,D10
+Bachelorette,7,07_WILLIAM_H,William Holman,5,D2
+Bachelor,8,08_ALI_D,Ali D,1,E
+Bachelor,8,08_ALLIE_G,Allie G,1,E
+Bachelor,8,08_APRIL,April,1,E
+Bachelor,8,08_COLE,Cole,2,E
+Bachelor,8,08_COLE,Cole,2,D12
+Bachelor,8,08_CORTNEY,Cortney,1,E
+Bachelor,8,08_ELIZABETH,Elizabeth,2,E
+Bachelor,8,08_ELIZABETH,Elizabeth,2,D12
+Bachelor,8,08_JAIME,Jaime,1,E
+Bachelor,8,08_JEHAN,Jehan,2,R
+Bachelor,8,08_JEHAN,Jehan,4,E
+Bachelor,8,08_JEHAN,Jehan,2,D12
+Bachelor,8,08_JEHAN,Jehan,3,D5
+Bachelor,8,08_JEHAN,Jehan,4,D1
+Bachelor,8,08_JENNIFER,Jennifer,3,ED
+Bachelor,8,08_JENNIFER,Jennifer,2,D6
+Bachelor,8,08_JENNIFER,Jennifer,2,D12
+Bachelor,8,08_JENNIFER,Jennifer,3,D2
+Bachelor,8,08_KATHY,Kathy,1,E
+Bachelor,8,08_KRISTEN,Kristen,2,ED
+Bachelor,8,08_KRISTEN,Kristen,2,D1
+Bachelor,8,08_KRISTEN,Kristen,2,D12
+Bachelor,8,08_KYLE,Kyle,1,E
+Bachelor,8,08_LISA,Lisa,1,E
+Bachelor,8,08_LIZA,Liza,1,E
+Bachelor,8,08_MOANA,Moana,3,R
+Bachelor,8,08_MOANA,Moana,7,E
+Bachelor,8,08_MOANA,Moana,2,D6
+Bachelor,8,08_MOANA,Moana,2,D12
+Bachelor,8,08_MOANA,Moana,3,D5
+Bachelor,8,08_MOANA,Moana,4,D4
+Bachelor,8,08_MOANA,Moana,5,D1
+Bachelor,8,08_MOANA,Moana,6,D1
+Bachelor,8,08_MOANA,Moana,7,D1
+Bachelor,8,08_PRINCESS,Princess,1,E
+Bachelor,8,08_SARA_H,Sara H,1,E
+Bachelor,8,08_SARAH_B,Sarah B,3,R
+Bachelor,8,08_SARAH_B,Sarah B,5,E
+Bachelor,8,08_SARAH_B,Sarah B,2,D6
+Bachelor,8,08_SARAH_B,Sarah B,2,D12
+Bachelor,8,08_SARAH_B,Sarah B,3,D2
+Bachelor,8,08_SARAH_B,Sarah B,4,D4
+Bachelor,8,08_SARAH_B,Sarah B,5,D1
+Bachelor,8,08_SARAH_S,Sarah S,4,R
+Bachelor,8,08_SARAH_S,Sarah S,7,W
+Bachelor,8,08_SARAH_S,Sarah S,2,D12
+Bachelor,8,08_SARAH_S,Sarah S,3,D5
+Bachelor,8,08_SARAH_S,Sarah S,4,D1
+Bachelor,8,08_SARAH_S,Sarah S,5,D1
+Bachelor,8,08_SARAH_S,Sarah S,6,D1
+Bachelor,8,08_SARAH_S,Sarah S,7,D1
+Bachelor,8,08_SHILOH,Shiloh,3,E
+Bachelor,8,08_SHILOH,Shiloh,2,D6
+Bachelor,8,08_SHILOH,Shiloh,2,D12
+Bachelor,8,08_SHILOH,Shiloh,3,D5
+Bachelor,8,08_STEPHANIE,Stephanie,1,E
+Bachelor,8,08_SUSAN,Susan,3,R
+Bachelor,8,08_SUSAN,Susan,6,E
+Bachelor,8,08_SUSAN,Susan,2,D6
+Bachelor,8,08_SUSAN,Susan,2,D12
+Bachelor,8,08_SUSAN,Susan,3,D1
+Bachelor,8,08_SUSAN,Susan,4,D4
+Bachelor,8,08_SUSAN,Susan,5,D1
+Bachelor,8,08_SUSAN,Susan,6,D1
+Bachelor,8,08_TARA,Tara,2,R
+Bachelor,8,08_TARA,Tara,4,E
+Bachelor,8,08_TARA,Tara,2,D6
+Bachelor,8,08_TARA,Tara,2,D12
+Bachelor,8,08_TARA,Tara,3,D5
+Bachelor,8,08_TARA,Tara,4,D4
+Bachelor,8,08_VENUS,Venus,1,E
+Bachelor,8,08_YVONNE,Yvonne,2,E
+Bachelor,8,08_YVONNE,Yvonne,2,D12
+Bachelorette,8,08_AARON_M,Aaron Martell,2,E
+Bachelorette,8,08_AARON_M,Aaron Martell,2,D13
+Bachelorette,8,08_ALEJANDRO_V,Alejandro Velez,5,E
+Bachelorette,8,08_ALEJANDRO_V,Alejandro Velez,2,D13
+Bachelorette,8,08_ALEJANDRO_V,Alejandro Velez,3,D12
+Bachelorette,8,08_ALEJANDRO_V,Alejandro Velez,5,D8
+Bachelorette,8,08_ALESSANDRO_G,Alessandro Goulart,3,EU
+Bachelorette,8,08_ALESSANDRO_G,Alessandro Goulart,2,D13
+Bachelorette,8,08_ALESSANDRO_G,Alessandro Goulart,3,D12
+Bachelorette,8,08_ARIE_L,Arie Luyendyk Jr.,3,R
+Bachelorette,8,08_ARIE_L,Arie Luyendyk Jr.,10,ED
+Bachelorette,8,08_ARIE_L,Arie Luyendyk Jr.,3,D1
+Bachelorette,8,08_ARIE_L,Arie Luyendyk Jr.,4,D8
+Bachelorette,8,08_ARIE_L,Arie Luyendyk Jr.,5,D8
+Bachelorette,8,08_ARIE_L,Arie Luyendyk Jr.,6,D6
+Bachelorette,8,08_ARIE_L,Arie Luyendyk Jr.,7,D1
+Bachelorette,8,08_ARIE_L,Arie Luyendyk Jr.,8,D1
+Bachelorette,8,08_ARIE_L,Arie Luyendyk Jr.,9,D1
+Bachelorette,8,08_BRENT_R,Brent Richter,1,E
+Bachelorette,8,08_CHARLIE_G,Charlie Grogan,4,E
+Bachelorette,8,08_CHARLIE_G,Charlie Grogan,2,D13
+Bachelorette,8,08_CHARLIE_G,Charlie Grogan,3,D12
+Bachelorette,8,08_CHARLIE_G,Charlie Grogan,4,D8
+Bachelorette,8,08_CHRIS_B,Chris Bukowski,3,R
+Bachelorette,8,08_CHRIS_B,Chris Bukowski,6,R
+Bachelorette,8,08_CHRIS_B,Chris Bukowski,8,E
+Bachelorette,8,08_CHRIS_B,Chris Bukowski,2,D13
+Bachelorette,8,08_CHRIS_B,Chris Bukowski,3,D1
+Bachelorette,8,08_CHRIS_B,Chris Bukowski,4,D8
+Bachelorette,8,08_CHRIS_B,Chris Bukowski,5,D8
+Bachelorette,8,08_CHRIS_B,Chris Bukowski,6,D6
+Bachelorette,8,08_CHRIS_B,Chris Bukowski,7,D3
+Bachelorette,8,08_CHRIS_B,Chris Bukowski,8,D1
+Bachelorette,8,08_DAVID_H,David Homyk,1,E
+Bachelorette,8,08_DOUG_C,Doug Clerget,1,R1
+Bachelorette,8,08_DOUG_C,Doug Clerget,4,R
+Bachelorette,8,08_DOUG_C,Doug Clerget,7,ED
+Bachelorette,8,08_DOUG_C,Doug Clerget,3,D12
+Bachelorette,8,08_DOUG_C,Doug Clerget,4,D1
+Bachelorette,8,08_DOUG_C,Doug Clerget,5,D8
+Bachelorette,8,08_DOUG_C,Doug Clerget,6,D6
+Bachelorette,8,08_DOUG_C,Doug Clerget,7,D3
+Bachelorette,8,08_JACKSON_L,Jackson Longnecker,1,E
+Bachelorette,8,08_JEANPAUL_L,Jean-Paul LaCount,1,E
+Bachelorette,8,08_JEF_H,Jef Holm,2,R
+Bachelorette,8,08_JEF_H,Jef Holm,4,R
+Bachelorette,8,08_JEF_H,Jef Holm,5,R
+Bachelorette,8,08_JEF_H,Jef Holm,10,W
+Bachelorette,8,08_JEF_H,Jef Holm,2,D13
+Bachelorette,8,08_JEF_H,Jef Holm,3,D12
+Bachelorette,8,08_JEF_H,Jef Holm,4,D8
+Bachelorette,8,08_JEF_H,Jef Holm,5,D1
+Bachelorette,8,08_JEF_H,Jef Holm,6,D6
+Bachelorette,8,08_JEF_H,Jef Holm,7,D1
+Bachelorette,8,08_JEF_H,Jef Holm,8,D1
+Bachelorette,8,08_JEF_H,Jef Holm,9,D1
+Bachelorette,8,08_JEF_H,Jef Holm,10,D1
+Bachelorette,8,08_JOE_G,Joe Gendreau,2,ED
+Bachelorette,8,08_JOE_G,Joe Gendreau,2,D1
+Bachelorette,8,08_JOHN_W,John Wolfner,4,R
+Bachelorette,8,08_JOHN_W,John Wolfner,7,E
+Bachelorette,8,08_JOHN_W,John Wolfner,2,D13
+Bachelorette,8,08_JOHN_W,John Wolfner,3,D12
+Bachelorette,8,08_JOHN_W,John Wolfner,4,D2
+Bachelorette,8,08_JOHN_W,John Wolfner,5,D8
+Bachelorette,8,08_JOHN_W,John Wolfner,6,D6
+Bachelorette,8,08_JOHN_W,John Wolfner,7,D1
+Bachelorette,8,08_KALON_M,Kalon McMahon,5,ED
+Bachelorette,8,08_KALON_M,Kalon McMahon,2,D13
+Bachelorette,8,08_KALON_M,Kalon McMahon,4,D8
+Bachelorette,8,08_KALON_M,Kalon McMahon,5,D8
+Bachelorette,8,08_KYLE_D,Kyle Dillon,2,E
+Bachelorette,8,08_KYLE_D,Kyle Dillon,2,D13
+Bachelorette,8,08_LERONE_A,Lerone Anu,1,E
+Bachelorette,8,08_MICHAEL_N,Michael Nance,4,E
+Bachelorette,8,08_MICHAEL_N,Michael Nance,2,D13
+Bachelorette,8,08_MICHAEL_N,Michael Nance,3,D12
+Bachelorette,8,08_NATHAN_B,Nathan Baake,4,ED
+Bachelorette,8,08_NATHAN_B,Nathan Baake,2,D13
+Bachelorette,8,08_NATHAN_B,Nathan Baake,4,D2
+Bachelorette,8,08_RANDY_W,Randy Lee Woyak,1,E
+Bachelorette,8,08_RYAN_B,Ryan Bowers,2,R
+Bachelorette,8,08_RYAN_B,Ryan Bowers,6,ED
+Bachelorette,8,08_RYAN_B,Ryan Bowers,2,D1
+Bachelorette,8,08_RYAN_B,Ryan Bowers,3,D12
+Bachelorette,8,08_RYAN_B,Ryan Bowers,4,D8
+Bachelorette,8,08_RYAN_B,Ryan Bowers,5,D8
+Bachelorette,8,08_RYAN_B,Ryan Bowers,6,D1
+Bachelorette,8,08_SEAN_L,Sean Lowe,3,R
+Bachelorette,8,08_SEAN_L,Sean Lowe,5,R
+Bachelorette,8,08_SEAN_L,Sean Lowe,7,R
+Bachelorette,8,08_SEAN_L,Sean Lowe,9,E
+Bachelorette,8,08_SEAN_L,Sean Lowe,3,D12
+Bachelorette,8,08_SEAN_L,Sean Lowe,4,D8
+Bachelorette,8,08_SEAN_L,Sean Lowe,5,D1
+Bachelorette,8,08_SEAN_L,Sean Lowe,6,D6
+Bachelorette,8,08_SEAN_L,Sean Lowe,7,D3
+Bachelorette,8,08_SEAN_L,Sean Lowe,8,D1
+Bachelorette,8,08_SEAN_L,Sean Lowe,9,D1
+Bachelorette,8,08_STEVIE_A,Stevie Alberino,3,E
+Bachelorette,8,08_STEVIE_A,Stevie Alberino,2,D13
+Bachelorette,8,08_STEVIE_A,Stevie Alberino,3,D12
+Bachelorette,8,08_TONY_P,Tony Pieper,3,ED
+Bachelorette,8,08_TONY_P,Tony Pieper,2,D13
+Bachelorette,8,08_TONY_P,Tony Pieper,3,D12
+Bachelorette,8,08_TRAVIS_P,Travis Pope,6,ED
+Bachelorette,8,08_TRAVIS_P,Travis Pope,3,D12
+Bachelorette,8,08_TRAVIS_P,Travis Pope,4,D8
+Bachelorette,8,08_TRAVIS_P,Travis Pope,5,D8
+Bachelorette,8,08_TRAVIS_P,Travis Pope,6,D1
+Bachelor,9,09_AGNESE_P,Agnese Polliza,3,R
+Bachelor,9,09_AGNESE_P,Agnese Polliza,5,E
+Bachelor,9,09_AGNESE_P,Agnese Polliza,2,D5
+Bachelor,9,09_AGNESE_P,Agnese Polliza,3,D2
+Bachelor,9,09_AGNESE_P,Agnese Polliza,4,D4
+Bachelor,9,09_AGNESE_P,Agnese Polliza,5,D1
+Bachelor,9,09_ANDREA_S,Andrea Shirley,1,E
+Bachelor,9,09_APRIL_J,April Jacobs,1,E
+Bachelor,9,09_BOWE_N,Britt (Bowe) Newton,1,E
+Bachelor,9,09_CARISSA_I,Carissa Ilburg,1,E
+Bachelor,9,09_CLAUDIA_G,Claudia Gismondi,1,E
+Bachelor,9,09_COSETTA_B,Cosetta Blanca,1,E
+Bachelor,9,09_DESIREE_V,Desiree Valentin,4,E
+Bachelor,9,09_DESIREE_V,Desiree Valentin,2,D6
+Bachelor,9,09_DESIREE_V,Desiree Valentin,3,D6
+Bachelor,9,09_DESIREE_V,Desiree Valentin,4,D4
+Bachelor,9,09_ELLEN_D,Ellen DeMaio,2,E
+Bachelor,9,09_ELLEN_D,Ellen DeMaio,2,D5
+Bachelor,9,09_ELYSE_H,Elyse Hammer,1,E
+Bachelor,9,09_ERICA_R,Erica Rose,3,ED
+Bachelor,9,09_ERICA_R,Erica Rose,2,D5
+Bachelor,9,09_ERICA_R,Erica Rose,3,D2
+Bachelor,9,09_GINA_C,Gina Clark,3,E
+Bachelor,9,09_GINA_C,Gina Clark,2,D6
+Bachelor,9,09_GINA_C,Gina Clark,3,D6
+Bachelor,9,09_HEATHER_S,Heather Sneed,1,E
+Bachelor,9,09_JAMI_M,Jami Matzke,3,ED
+Bachelor,9,09_JAMI_M,Jami Matzke,2,D5
+Bachelor,9,09_JAMI_M,Jami Matzke,3,D1
+Bachelor,9,09_JEANETTE_P,Jeanette Pawula,3,R
+Bachelor,9,09_JEANETTE_P,Jeanette Pawula,4,E
+Bachelor,9,09_JEANETTE_P,Jeanette Pawula,2,D6
+Bachelor,9,09_JEANETTE_P,Jeanette Pawula,3,D6
+Bachelor,9,09_JEANETTE_P,Jeanette Pawula,4,D4
+Bachelor,9,09_JENNIFER_W,Jennifer Wilson,2,R
+Bachelor,9,09_JENNIFER_W,Jennifer Wilson,4,R
+Bachelor,9,09_JENNIFER_W,Jennifer Wilson,7,W
+Bachelor,9,09_JENNIFER_W,Jennifer Wilson,2,D6
+Bachelor,9,09_JENNIFER_W,Jennifer Wilson,3,D6
+Bachelor,9,09_JENNIFER_W,Jennifer Wilson,4,D1
+Bachelor,9,09_JENNIFER_W,Jennifer Wilson,5,D1
+Bachelor,9,09_JENNIFER_W,Jennifer Wilson,6,D1
+Bachelor,9,09_JENNIFER_W,Jennifer Wilson,7,D1
+Bachelor,9,09_JESSICA_H,Jessica Horner,1,E
+Bachelor,9,09_KIM_J,Kim Jackson,2,E
+Bachelor,9,09_KIM_J,Kim Jackson,2,D6
+Bachelor,9,09_LAURA_M,Laura Morgan,1,E
+Bachelor,9,09_LISA_B,Lisa Blank,1,R1
+Bachelor,9,09_LISA_B,Lisa Blank,2,R
+Bachelor,9,09_LISA_B,Lisa Blank,6,E
+Bachelor,9,09_LISA_B,Lisa Blank,2,D1
+Bachelor,9,09_LISA_B,Lisa Blank,3,D6
+Bachelor,9,09_LISA_B,Lisa Blank,4,D4
+Bachelor,9,09_LISA_B,Lisa Blank,5,D1
+Bachelor,9,09_LISA_B,Lisa Blank,6,D1
+Bachelor,9,09_MERI_B,Meri Barr,1,E
+Bachelor,9,09_RENEE_S,Renee Snell,1,E
+Bachelor,9,09_RITA_G,Rita Ghazal,1,E
+Bachelor,9,09_ROSELLA_F,Rosella Fratto,1,E
+Bachelor,9,09_SADIE_M,Sadie Murray,2,R
+Bachelor,9,09_SADIE_M,Sadie Murray,4,R
+Bachelor,9,09_SADIE_M,Sadie Murray,7,E
+Bachelor,9,09_SADIE_M,Sadie Murray,2,D5
+Bachelor,9,09_SADIE_M,Sadie Murray,3,D6
+Bachelor,9,09_SADIE_M,Sadie Murray,4,D1
+Bachelor,9,09_SADIE_M,Sadie Murray,5,D1
+Bachelor,9,09_SADIE_M,Sadie Murray,6,D1
+Bachelor,9,09_SADIE_M,Sadie Murray,7,D1
+Bachelor,9,09_SARAH_S,Sarah Schnare,2,E
+Bachelor,9,09_SARAH_S,Sarah Schnare,2,D6
+Bachelor,9,09_TARA_D,Tara Durr,1,E
+Bachelorette,9,09_BEN_S,Ben Scott,1,R1
+Bachelorette,9,09_BEN_S,Ben Scott,2,R
+Bachelorette,9,09_BEN_S,Ben Scott,5,ED
+Bachelorette,9,09_BEN_S,Ben Scott,2,D14
+Bachelorette,9,09_BEN_S,Ben Scott,3,D10
+Bachelorette,9,09_BEN_S,Ben Scott,4,D10
+Bachelorette,9,09_BEN_S,Ben Scott,5,D2
+Bachelorette,9,09_BRAD_M,Brad McKinzie,4,ED
+Bachelorette,9,09_BRAD_M,Brad McKinzie,3,D10
+Bachelorette,9,09_BRAD_M,Brad McKinzie,4,D1
+Bachelorette,9,09_BRANDON_A,Brandon Andreen,3,E
+Bachelorette,9,09_BRANDON_A,Brandon Andreen,2,D14
+Bachelorette,9,09_BRANDON_A,Brandon Andreen,3,D10
+Bachelorette,9,09_BRIAN_J,Brian Jarosinski,3,EF
+Bachelorette,9,09_BRIAN_J,Brian Jarosinski,2,D14
+Bachelorette,9,09_BRIAN_J,Brian Jarosinski,3,D10
+Bachelorette,9,09_BROOKS_F,Brooks Forester,2,R
+Bachelorette,9,09_BROOKS_F,Brooks Forester,5,R
+Bachelorette,9,09_BROOKS_F,Brooks Forester,9,EQ
+Bachelorette,9,09_BROOKS_F,Brooks Forester,2,D1
+Bachelorette,9,09_BROOKS_F,Brooks Forester,3,D10
+Bachelorette,9,09_BROOKS_F,Brooks Forester,4,D10
+Bachelorette,9,09_BROOKS_F,Brooks Forester,5,D7
+Bachelorette,9,09_BROOKS_F,Brooks Forester,6,D6
+Bachelorette,9,09_BROOKS_F,Brooks Forester,7,D1
+Bachelorette,9,09_BROOKS_F,Brooks Forester,8,D1
+Bachelorette,9,09_BRYDEN_V,Bryden Vukasin,1,R1
+Bachelorette,9,09_BRYDEN_V,Bryden Vukasin,2,R
+Bachelorette,9,09_BRYDEN_V,Bryden Vukasin,5,EQ
+Bachelorette,9,09_BRYDEN_V,Bryden Vukasin,2,D1
+Bachelorette,9,09_BRYDEN_V,Bryden Vukasin,3,D5
+Bachelorette,9,09_BRYDEN_V,Bryden Vukasin,4,D10
+Bachelorette,9,09_CHRIS_S,Chris Siegfried,3,R
+Bachelorette,9,09_CHRIS_S,Chris Siegfried,5,R
+Bachelorette,9,09_CHRIS_S,Chris Siegfried,10,W
+Bachelorette,9,09_CHRIS_S,Chris Siegfried,3,D10
+Bachelorette,9,09_CHRIS_S,Chris Siegfried,4,D10
+Bachelorette,9,09_CHRIS_S,Chris Siegfried,5,D1
+Bachelorette,9,09_CHRIS_S,Chris Siegfried,6,D6
+Bachelorette,9,09_CHRIS_S,Chris Siegfried,7,D1
+Bachelorette,9,09_CHRIS_S,Chris Siegfried,8,D1
+Bachelorette,9,09_CHRIS_S,Chris Siegfried,9,D1
+Bachelorette,9,09_CHRIS_S,Chris Siegfried,10,D1
+Bachelorette,9,09_DAN_C,Dan Cox,3,E
+Bachelorette,9,09_DAN_C,Dan Cox,2,D14
+Bachelorette,9,09_DAN_C,Dan Cox,3,D5
+Bachelorette,9,09_DIOGO_C,Diogo Custodio,1,E
+Bachelorette,9,09_DREW_K,Drew Kenney,1,R1
+Bachelorette,9,09_DREW_K,Drew Kenney,6,R
+Bachelorette,9,09_DREW_K,Drew Kenney,7,R
+Bachelorette,9,09_DREW_K,Drew Kenney,10,ED
+Bachelorette,9,09_DREW_K,Drew Kenney,2,D14
+Bachelorette,9,09_DREW_K,Drew Kenney,3,D10
+Bachelorette,9,09_DREW_K,Drew Kenney,4,D10
+Bachelorette,9,09_DREW_K,Drew Kenney,5,D7
+Bachelorette,9,09_DREW_K,Drew Kenney,6,D1
+Bachelorette,9,09_DREW_K,Drew Kenney,7,D2
+Bachelorette,9,09_DREW_K,Drew Kenney,8,D1
+Bachelorette,9,09_DREW_K,Drew Kenney,9,D1
+Bachelorette,9,09_DREW_K,Drew Kenney,10,D1
+Bachelorette,9,09_JAMES_C,James Case,3,R
+Bachelorette,9,09_JAMES_C,James Case,4,R
+Bachelorette,9,09_JAMES_C,James Case,6,E
+Bachelorette,9,09_JAMES_C,James Case,2,D14
+Bachelorette,9,09_JAMES_C,James Case,3,D5
+Bachelorette,9,09_JAMES_C,James Case,4,D1
+Bachelorette,9,09_JAMES_C,James Case,5,D7
+Bachelorette,9,09_JAMES_C,James Case,6,D6
+Bachelorette,9,09_JONATHAN_V,Jonathan Vollinger,1,EU
+Bachelorette,9,09_JUAN_G,Juan Pablo Galavis,6,E
+Bachelorette,9,09_JUAN_G,Juan Pablo Galavis,2,D14
+Bachelorette,9,09_JUAN_G,Juan Pablo Galavis,3,D5
+Bachelorette,9,09_JUAN_G,Juan Pablo Galavis,4,D10
+Bachelorette,9,09_JUAN_G,Juan Pablo Galavis,5,D7
+Bachelorette,9,09_JUAN_G,Juan Pablo Galavis,6,D6
+Bachelorette,9,09_KASEY_S,Kasey Stewart,3,R
+Bachelorette,9,09_KASEY_S,Kasey Stewart,6,E
+Bachelorette,9,09_KASEY_S,Kasey Stewart,2,D14
+Bachelorette,9,09_KASEY_S,Kasey Stewart,3,D1
+Bachelorette,9,09_KASEY_S,Kasey Stewart,4,D10
+Bachelorette,9,09_KASEY_S,Kasey Stewart,5,D7
+Bachelorette,9,09_KASEY_S,Kasey Stewart,6,D6
+Bachelorette,9,09_LARRY_B,Larry Burchett,1,E
+Bachelorette,9,09_MICAH_X,Micah,1,E
+Bachelorette,9,09_MICHAEL_G,Michael Garofola,1,R1
+Bachelorette,9,09_MICHAEL_G,Michael Garofola,5,R
+Bachelorette,9,09_MICHAEL_G,Michael Garofola,7,E
+Bachelorette,9,09_MICHAEL_G,Michael Garofola,2,D14
+Bachelorette,9,09_MICHAEL_G,Michael Garofola,3,D10
+Bachelorette,9,09_MICHAEL_G,Michael Garofola,4,D10
+Bachelorette,9,09_MICHAEL_G,Michael Garofola,5,D2
+Bachelorette,9,09_MICHAEL_G,Michael Garofola,6,D6
+Bachelorette,9,09_MICHAEL_G,Michael Garofola,7,D1
+Bachelorette,9,09_MIKE_X,Mike,1,E
+Bachelorette,9,09_MIKEY_T,Mikey Tenerelli,5,E
+Bachelorette,9,09_MIKEY_T,Mikey Tenerelli,2,D14
+Bachelorette,9,09_MIKEY_T,Mikey Tenerelli,3,D10
+Bachelorette,9,09_MIKEY_T,Mikey Tenerelli,4,D10
+Bachelorette,9,09_MIKEY_T,Mikey Tenerelli,5,D7
+Bachelorette,9,09_NICK_M,Nick Mucci,1,R1
+Bachelorette,9,09_NICK_M,Nick Mucci,2,E
+Bachelorette,9,09_NICK_M,Nick Mucci,2,D14
+Bachelorette,9,09_NICK_R,Nick Roy,1,E
+Bachelorette,9,09_ROBERT_G,Robert Graham,2,E
+Bachelorette,9,09_WILL_R,Will Reese,2,E
+Bachelorette,9,09_WILL_R,Will Reese,2,D14
+Bachelorette,9,09_ZACK_K,Zack Kalter,4,E
+Bachelorette,9,09_ZACK_K,Zack Kalter,2,D14
+Bachelorette,9,09_ZACK_K,Zack Kalter,3,D10
+Bachelorette,9,09_ZAK_W,Zak Waddell,1,R1
+Bachelorette,9,09_ZAK_W,Zak Waddell,4,R
+Bachelorette,9,09_ZAK_W,Zak Waddell,6,R
+Bachelorette,9,09_ZAK_W,Zak Waddell,8,E
+Bachelorette,9,09_ZAK_W,Zak Waddell,2,D14
+Bachelorette,9,09_ZAK_W,Zak Waddell,3,D5
+Bachelorette,9,09_ZAK_W,Zak Waddell,4,D10
+Bachelorette,9,09_ZAK_W,Zak Waddell,5,D7
+Bachelorette,9,09_ZAK_W,Zak Waddell,6,D1
+Bachelorette,9,09_ZAK_W,Zak Waddell,7,D2
+Bachelorette,9,09_ZAK_W,Zak Waddell,8,D1
+Bachelor,10,10_ALEXIS_Y,Alexis Young,2,E
+Bachelor,10,10_ALEXIS_Y,Alexis Young,2,D7
+Bachelor,10,10_AMANDA_H,Amanda Hackney,3,E
+Bachelor,10,10_AMANDA_H,Amanda Hackney,2,D7
+Bachelor,10,10_AMANDA_H,Amanda Hackney,3,D4
+Bachelor,10,10_AMBER_A,Amber Alchalabi,4,R
+Bachelor,10,10_AMBER_A,Amber Alchalabi,6,E
+Bachelor,10,10_AMBER_A,Amber Alchalabi,2,D7
+Bachelor,10,10_AMBER_A,Amber Alchalabi,3,D5
+Bachelor,10,10_AMBER_A,Amber Alchalabi,4,D1
+Bachelor,10,10_AMBER_A,Amber Alchalabi,5,D4
+Bachelor,10,10_AMBER_A,Amber Alchalabi,6,D1
+Bachelor,10,10_BEVIN_P,Bevin Nicole Powers,3,R
+Bachelor,10,10_BEVIN_P,Bevin Nicole Powers,8,E
+Bachelor,10,10_BEVIN_P,Bevin Nicole Powers,2,D7
+Bachelor,10,10_BEVIN_P,Bevin Nicole Powers,4,D4
+Bachelor,10,10_BEVIN_P,Bevin Nicole Powers,5,D4
+Bachelor,10,10_BEVIN_P,Bevin Nicole Powers,6,D1
+Bachelor,10,10_BEVIN_P,Bevin Nicole Powers,7,D1
+Bachelor,10,10_BEVIN_P,Bevin Nicole Powers,8,D1
+Bachelor,10,10_BLAKENEY_R,Blakeney Rowe,1,E
+Bachelor,10,10_CANDICE_D,Candice DeCost,1,E
+Bachelor,10,10_CATHERINE_W,Catherine Warren,1,E
+Bachelor,10,10_DANIELLE_I,Danielle Imwalle,7,E
+Bachelor,10,10_DANIELLE_I,Danielle Imwalle,2,D7
+Bachelor,10,10_DANIELLE_I,Danielle Imwalle,3,D4
+Bachelor,10,10_DANIELLE_I,Danielle Imwalle,4,D4
+Bachelor,10,10_DANIELLE_I,Danielle Imwalle,5,D4
+Bachelor,10,10_DANIELLE_I,Danielle Imwalle,6,D1
+Bachelor,10,10_DANIELLE_I,Danielle Imwalle,7,D1
+Bachelor,10,10_DANIELLE_V,Danielle Vallis,1,E
+Bachelor,10,10_ERIN_P,Erin Parker,3,E
+Bachelor,10,10_ERIN_P,Erin Parker,2,D7
+Bachelor,10,10_ERIN_P,Erin Parker,3,D4
+Bachelor,10,10_JACKIE_T,Jackie Topelli,1,E
+Bachelor,10,10_JEANETTE_A,Jeanette Alvarez,1,E
+Bachelor,10,10_JESSICA_D,Jessica Devallo,1,E
+Bachelor,10,10_KATE_B,Kate Brockhouse,4,E
+Bachelor,10,10_KATE_B,Kate Brockhouse,2,D7
+Bachelor,10,10_KATE_B,Kate Brockhouse,3,D4
+Bachelor,10,10_KATE_B,Kate Brockhouse,4,D4
+Bachelor,10,10_LINDA_M,Linda Malek,1,E
+Bachelor,10,10_LINDSAY_S,Lindsay Smith,1,E
+Bachelor,10,10_NICOLE_C,Nicole Clary,4,E
+Bachelor,10,10_NICOLE_C,Nicole Clary,2,D7
+Bachelor,10,10_NICOLE_C,Nicole Clary,3,D5
+Bachelor,10,10_NICOLE_C,Nicole Clary,4,D4
+Bachelor,10,10_PEYTON_W,Peyton Wright,3,ED
+Bachelor,10,10_PEYTON_W,Peyton Wright,2,D7
+Bachelor,10,10_PEYTON_W,Peyton Wright,3,D2
+Bachelor,10,10_STEPHANIE_T,Stephanie Tipper,1,R1
+Bachelor,10,10_STEPHANIE_T,Stephanie Tipper,2,R
+Bachelor,10,10_STEPHANIE_T,Stephanie Tipper,4,E
+Bachelor,10,10_STEPHANIE_T,Stephanie Tipper,2,D1
+Bachelor,10,10_STEPHANIE_T,Stephanie Tipper,3,D5
+Bachelor,10,10_STEPHANIE_T,Stephanie Tipper,4,D4
+Bachelor,10,10_STEPHANIE_W,Stephanie Wilhite,5,E
+Bachelor,10,10_STEPHANIE_W,Stephanie Wilhite,2,D7
+Bachelor,10,10_STEPHANIE_W,Stephanie Wilhite,3,D5
+Bachelor,10,10_STEPHANIE_W,Stephanie Wilhite,4,D4
+Bachelor,10,10_STEPHANIE_W,Stephanie Wilhite,5,D1
+Bachelor,10,10_SUSAN_A,Susan Anderson,2,E
+Bachelor,10,10_SUSAN_A,Susan Anderson,2,D7
+Bachelor,10,10_TESSA_H,Tessa Horst,3,R
+Bachelor,10,10_TESSA_H,Tessa Horst,8,W
+Bachelor,10,10_TESSA_H,Tessa Horst,2,D7
+Bachelor,10,10_TESSA_H,Tessa Horst,3,D2
+Bachelor,10,10_TESSA_H,Tessa Horst,4,D4
+Bachelor,10,10_TESSA_H,Tessa Horst,5,D1
+Bachelor,10,10_TESSA_H,Tessa Horst,6,D1
+Bachelor,10,10_TESSA_H,Tessa Horst,7,D1
+Bachelor,10,10_TESSA_H,Tessa Horst,8,D1
+Bachelor,10,10_TIFFANY_F,Tiffany Warren,1,E
+Bachelor,10,10_TIFFANY_W,Tiffany Forester,2,E
+Bachelor,10,10_TIFFANY_W,Tiffany Forester,2,D7
+Bachelor,10,10_TINA_W,Tina Wu,5,E
+Bachelor,10,10_TINA_W,Tina Wu,2,D7
+Bachelor,10,10_TINA_W,Tina Wu,3,D5
+Bachelor,10,10_TINA_W,Tina Wu,4,D4
+Bachelor,10,10_TINA_W,Tina Wu,5,D4
+Bachelorette,10,10_ANDREW_P,Andrew Poole,5,E
+Bachelorette,10,10_ANDREW_P,Andrew Poole,3,D12
+Bachelorette,10,10_ANDREW_P,Andrew Poole,4,D6
+Bachelorette,10,10_ANDREW_P,Andrew Poole,5,D9
+Bachelorette,10,10_BRADLEY_W,Bradley Wisk,3,E
+Bachelorette,10,10_BRADLEY_W,Bradley Wisk,2,D14
+Bachelorette,10,10_BRADLEY_W,Bradley Wisk,3,D12
+Bachelorette,10,10_BRETT_M,Brett Melnick,3,E
+Bachelorette,10,10_BRETT_M,Brett Melnick,2,D14
+Bachelorette,10,10_BRETT_M,Brett Melnick,3,D12
+Bachelorette,10,10_BRIAN_O,Brian Osborne,4,R
+Bachelorette,10,10_BRIAN_O,Brian Osborne,5,R
+Bachelorette,10,10_BRIAN_O,Brian Osborne,7,E
+Bachelorette,10,10_BRIAN_O,Brian Osborne,2,D14
+Bachelorette,10,10_BRIAN_O,Brian Osborne,3,D12
+Bachelorette,10,10_BRIAN_O,Brian Osborne,4,D6
+Bachelorette,10,10_BRIAN_O,Brian Osborne,5,D1
+Bachelorette,10,10_BRIAN_O,Brian Osborne,6,D6
+Bachelorette,10,10_BRIAN_O,Brian Osborne,7,D4
+Bachelorette,10,10_CARL_K,Carl King,2,E
+Bachelorette,10,10_CARL_K,Carl King,2,D14
+Bachelorette,10,10_CHRIS_S,Chris Soules,2,R
+Bachelorette,10,10_CHRIS_S,Chris Soules,6,R
+Bachelorette,10,10_CHRIS_S,Chris Soules,9,ED
+Bachelorette,10,10_CHRIS_S,Chris Soules,2,D1
+Bachelorette,10,10_CHRIS_S,Chris Soules,5,D9
+Bachelorette,10,10_CHRIS_S,Chris Soules,6,D6
+Bachelorette,10,10_CHRIS_S,Chris Soules,7,D4
+Bachelorette,10,10_CHRIS_S,Chris Soules,8,D1
+Bachelorette,10,10_CHRIS_S,Chris Soules,9,D1
+Bachelorette,10,10_CODY_S,Cody Sattler,6,ED
+Bachelorette,10,10_CODY_S,Cody Sattler,2,D14
+Bachelorette,10,10_CODY_S,Cody Sattler,3,D12
+Bachelorette,10,10_CODY_S,Cody Sattler,4,D6
+Bachelorette,10,10_CODY_S,Cody Sattler,5,D9
+Bachelorette,10,10_CODY_S,Cody Sattler,6,D1
+Bachelorette,10,10_CRAIG_M,Craig Muhlbauer,2,E
+Bachelorette,10,10_CRAIG_M,Craig Muhlbauer,2,D14
+Bachelorette,10,10_DYLAN_P,Dylan Petitt,4,R
+Bachelorette,10,10_DYLAN_P,Dylan Petitt,7,E
+Bachelorette,10,10_DYLAN_P,Dylan Petitt,2,D14
+Bachelorette,10,10_DYLAN_P,Dylan Petitt,4,D1
+Bachelorette,10,10_DYLAN_P,Dylan Petitt,5,D9
+Bachelorette,10,10_DYLAN_P,Dylan Petitt,6,D6
+Bachelorette,10,10_DYLAN_P,Dylan Petitt,7,D4
+Bachelorette,10,10_EMIL_S,Emil Schaffroth,1,E
+Bachelorette,10,10_ERIC_H,Eric Hill,2,R
+Bachelorette,10,10_ERIC_H,Eric Hill,4,EU
+Bachelorette,10,10_ERIC_H,Eric Hill,2,D1
+Bachelorette,10,10_ERIC_H,Eric Hill,3,D12
+Bachelorette,10,10_ERIC_H,Eric Hill,4,D6
+Bachelorette,10,10_JASON_L,Jason Leep,1,E
+Bachelorette,10,10_JJ_O,J.J. O'Brien,3,R
+Bachelorette,10,10_JJ_O,J.J. O'Brien,5,R
+Bachelorette,10,10_JJ_O,J.J. O'Brien,6,E
+Bachelorette,10,10_JJ_O,J.J. O'Brien,3,D1
+Bachelorette,10,10_JJ_O,J.J. O'Brien,5,D9
+Bachelorette,10,10_JJ_O,J.J. O'Brien,6,D6
+Bachelorette,10,10_JOSH_B,Josh Bauer,1,E
+Bachelorette,10,10_JOSH_M,Josh Murray,3,R
+Bachelorette,10,10_JOSH_M,Josh Murray,5,R
+Bachelorette,10,10_JOSH_M,Josh Murray,10,W
+Bachelorette,10,10_JOSH_M,Josh Murray,2,D14
+Bachelorette,10,10_JOSH_M,Josh Murray,3,D12
+Bachelorette,10,10_JOSH_M,Josh Murray,5,D1
+Bachelorette,10,10_JOSH_M,Josh Murray,6,D6
+Bachelorette,10,10_JOSH_M,Josh Murray,7,D1
+Bachelorette,10,10_JOSH_M,Josh Murray,8,D1
+Bachelorette,10,10_JOSH_M,Josh Murray,9,D1
+Bachelorette,10,10_JOSH_M,Josh Murray,10,D1
+Bachelorette,10,10_MARCUS_G,Marcus Grodd,2,R
+Bachelorette,10,10_MARCUS_G,Marcus Grodd,4,R
+Bachelorette,10,10_MARCUS_G,Marcus Grodd,8,E
+Bachelorette,10,10_MARCUS_G,Marcus Grodd,2,D14
+Bachelorette,10,10_MARCUS_G,Marcus Grodd,3,D12
+Bachelorette,10,10_MARCUS_G,Marcus Grodd,4,D1
+Bachelorette,10,10_MARCUS_G,Marcus Grodd,5,D9
+Bachelorette,10,10_MARCUS_G,Marcus Grodd,6,D6
+Bachelorette,10,10_MARCUS_G,Marcus Grodd,7,D1
+Bachelorette,10,10_MARCUS_G,Marcus Grodd,8,D1
+Bachelorette,10,10_MARQUEL_M,Marquel Martin,5,E
+Bachelorette,10,10_MARQUEL_M,Marquel Martin,2,D14
+Bachelorette,10,10_MARQUEL_M,Marquel Martin,3,D12
+Bachelorette,10,10_MARQUEL_M,Marquel Martin,4,D6
+Bachelorette,10,10_MARQUEL_M,Marquel Martin,5,D9
+Bachelorette,10,10_MIKE_C,Mike Campanelli,1,E
+Bachelorette,10,10_NICK_S,Nick Sutter,2,E
+Bachelorette,10,10_NICK_S,Nick Sutter,2,D14
+Bachelorette,10,10_NICK_V,Nick Viall,1,R1
+Bachelorette,10,10_NICK_V,Nick Viall,3,R
+Bachelorette,10,10_NICK_V,Nick Viall,6,R
+Bachelorette,10,10_NICK_V,Nick Viall,7,R
+Bachelorette,10,10_NICK_V,Nick Viall,10,EU
+Bachelorette,10,10_NICK_V,Nick Viall,3,D1
+Bachelorette,10,10_NICK_V,Nick Viall,4,D6
+Bachelorette,10,10_NICK_V,Nick Viall,5,D9
+Bachelorette,10,10_NICK_V,Nick Viall,6,D1
+Bachelorette,10,10_NICK_V,Nick Viall,7,D4
+Bachelorette,10,10_NICK_V,Nick Viall,8,D1
+Bachelorette,10,10_NICK_V,Nick Viall,9,D1
+Bachelorette,10,10_NICK_V,Nick Viall,10,D1
+Bachelorette,10,10_PATRICK_J,Patrick Jagodzinski,5,E
+Bachelorette,10,10_PATRICK_J,Patrick Jagodzinski,2,D14
+Bachelorette,10,10_PATRICK_J,Patrick Jagodzinski,3,D12
+Bachelorette,10,10_PATRICK_J,Patrick Jagodzinski,5,D9
+Bachelorette,10,10_RON_W,Ron Worrell,3,EQ
+Bachelorette,10,10_RON_W,Ron Worrell,2,D14
+Bachelorette,10,10_RON_W,Ron Worrell,3,D12
+Bachelorette,10,10_RUDIE_D,Rudie Dane,1,E
+Bachelorette,10,10_STEVEN_W,Steven Woolworth,1,E
+Bachelorette,10,10_TASOS_H,Tasos Hernandez,4,E
+Bachelorette,10,10_TASOS_H,Tasos Hernandez,2,D14
+Bachelorette,10,10_TASOS_H,Tasos Hernandez,3,D12
+Bachelor,11,11_BETTINA_B,Bettina Bell,4,R
+Bachelor,11,11_BETTINA_B,Bettina Bell,7,E
+Bachelor,11,11_BETTINA_B,Bettina Bell,2,D7
+Bachelor,11,11_BETTINA_B,Bettina Bell,3,D5
+Bachelor,11,11_BETTINA_B,Bettina Bell,4,D6
+Bachelor,11,11_BETTINA_B,Bettina Bell,5,D1
+Bachelor,11,11_BETTINA_B,Bettina Bell,6,D1
+Bachelor,11,11_BETTINA_B,Bettina Bell,7,D1
+Bachelor,11,11_DEANNA_P,Deanna Pappas,2,R
+Bachelor,11,11_DEANNA_P,Deanna Pappas,4,R
+Bachelor,11,11_DEANNA_P,Deanna Pappas,8,E
+Bachelor,11,11_DEANNA_P,Deanna Pappas,2,D7
+Bachelor,11,11_DEANNA_P,Deanna Pappas,3,D6
+Bachelor,11,11_DEANNA_P,Deanna Pappas,4,D2
+Bachelor,11,11_DEANNA_P,Deanna Pappas,5,D4
+Bachelor,11,11_DEANNA_P,Deanna Pappas,6,D1
+Bachelor,11,11_DEANNA_P,Deanna Pappas,7,D1
+Bachelor,11,11_DEANNA_P,Deanna Pappas,8,D1
+Bachelor,11,11_ERIN_G,Erin Gardner,2,E
+Bachelor,11,11_ERIN_G,Erin Gardner,2,D7
+Bachelor,11,11_HILARY_R,Hillary Reisinger,3,R
+Bachelor,11,11_HILARY_R,Hillary Reisinger,5,E
+Bachelor,11,11_HILARY_R,Hillary Reisinger,2,D7
+Bachelor,11,11_HILARY_R,Hillary Reisinger,3,D1
+Bachelor,11,11_HILARY_R,Hillary Reisinger,4,D6
+Bachelor,11,11_HILARY_R,Hillary Reisinger,5,D4
+Bachelor,11,11_JADE_B,Jade Beazley,4,ED
+Bachelor,11,11_JADE_B,Jade Beazley,2,D7
+Bachelor,11,11_JADE_B,Jade Beazley,3,D5
+Bachelor,11,11_JADE_B,Jade Beazley,4,D2
+Bachelor,11,11_JENNI_C,Jenni Croft,1,R1
+Bachelor,11,11_JENNI_C,Jenni Croft,4,R
+Bachelor,11,11_JENNI_C,Jenni Croft,8,E
+Bachelor,11,11_JENNI_C,Jenni Croft,2,D7
+Bachelor,11,11_JENNI_C,Jenni Croft,3,D6
+Bachelor,11,11_JENNI_C,Jenni Croft,4,D1
+Bachelor,11,11_JENNI_C,Jenni Croft,5,D4
+Bachelor,11,11_JENNI_C,Jenni Croft,6,D1
+Bachelor,11,11_JENNI_C,Jenni Croft,7,D1
+Bachelor,11,11_JENNI_C,Jenni Croft,8,D1
+Bachelor,11,11_JESSICA_K,Jessica Kiss,1,E
+Bachelor,11,11_JULI_G,Juli Gilliam,1,E
+Bachelor,11,11_KIM_O,Kim Orville,1,E
+Bachelor,11,11_KRISTY_K,Kristy Katzmann,3,R
+Bachelor,11,11_KRISTY_K,Kristy Katzmann,5,E
+Bachelor,11,11_KRISTY_K,Kristy Katzmann,2,D7
+Bachelor,11,11_KRISTY_K,Kristy Katzmann,3,D5
+Bachelor,11,11_KRISTY_K,Kristy Katzmann,4,D6
+Bachelor,11,11_KRISTY_K,Kristy Katzmann,5,D4
+Bachelor,11,11_LINDSEY_H,Lindsey Hawkins,3,E
+Bachelor,11,11_LINDSEY_H,Lindsey Hawkins,2,D7
+Bachelor,11,11_LINDSEY_H,Lindsey Hawkins,3,D6
+Bachelor,11,11_LORI_L,Lori Langley,1,E
+Bachelor,11,11_MALLORY_S,Mallory Simons,2,E
+Bachelor,11,11_MALLORY_S,Mallory Simons,2,D7
+Bachelor,11,11_MCCARTEN_D,McCarten Delaney,4,E
+Bachelor,11,11_MCCARTEN_D,McCarten Delaney,2,D7
+Bachelor,11,11_MCCARTEN_D,McCarten Delaney,3,D6
+Bachelor,11,11_MCCARTEN_D,McCarten Delaney,4,D6
+Bachelor,11,11_MELISSA_B,Melissa Buschel,1,E
+Bachelor,11,11_MICHELE_L,Michele Leavy,2,EQ
+Bachelor,11,11_MORGAN_B,Morgan Becker,1,E
+Bachelor,11,11_NATALIE_V,Natalie Velasco,1,E
+Bachelor,11,11_REGINA_D,Regina Doringa,1,E
+Bachelor,11,11_SARAH_N,Sarah Newlon,2,R
+Bachelor,11,11_SARAH_N,Sarah Newlon,3,E
+Bachelor,11,11_SARAH_N,Sarah Newlon,2,D7
+Bachelor,11,11_SARAH_N,Sarah Newlon,3,D6
+Bachelor,11,11_SHEENA_S,Sheena Stewart,6,E
+Bachelor,11,11_SHEENA_S,Sheena Stewart,2,D7
+Bachelor,11,11_SHEENA_S,Sheena Stewart,3,D5
+Bachelor,11,11_SHEENA_S,Sheena Stewart,4,D6
+Bachelor,11,11_SHEENA_S,Sheena Stewart,5,D1
+Bachelor,11,11_SHEENA_S,Sheena Stewart,6,D1
+Bachelor,11,11_SOLISA_S,Solisa Shoop,3,E
+Bachelor,11,11_SOLISA_S,Solisa Shoop,2,D7
+Bachelor,11,11_SOLISA_S,Solisa Shoop,3,D5
+Bachelor,11,11_STEPHY_K,"Estefania ""Stephy"" Kootz",3,R
+Bachelor,11,11_STEPHY_K,"Estefania ""Stephy"" Kootz",4,E
+Bachelor,11,11_STEPHY_K,"Estefania ""Stephy"" Kootz",2,D7
+Bachelor,11,11_STEPHY_K,"Estefania ""Stephy"" Kootz",3,D6
+Bachelor,11,11_STEPHY_K,"Estefania ""Stephy"" Kootz",4,D6
+Bachelor,11,11_SUSAN_S,Susan Stein,1,E
+Bachelor,11,11_TAUNI_N,Tauni Nessler,1,E
+Bachelorette,11,11_BEN_H,Ben Higgins,3,R
+Bachelorette,11,11_BEN_H,Ben Higgins,5,R
+Bachelorette,11,11_BEN_H,Ben Higgins,8,E
+Bachelorette,11,11_BEN_H,Ben Higgins,2,D8
+Bachelorette,11,11_BEN_H,Ben Higgins,3,D6
+Bachelorette,11,11_BEN_H,Ben Higgins,4,D5
+Bachelorette,11,11_BEN_H,Ben Higgins,5,D1
+Bachelorette,11,11_BEN_H,Ben Higgins,6,D5
+Bachelorette,11,11_BEN_H,Ben Higgins,7,D1
+Bachelorette,11,11_BEN_H,Ben Higgins,8,D1
+Bachelorette,11,11_BEN_Z,Ben Zorn,2,R
+Bachelorette,11,11_BEN_Z,Ben Zorn,3,R
+Bachelorette,11,11_BEN_Z,Ben Zorn,6,E
+Bachelorette,11,11_BEN_Z,Ben Zorn,2,D8
+Bachelorette,11,11_BEN_Z,Ben Zorn,3,D1
+Bachelorette,11,11_BEN_Z,Ben Zorn,4,D8
+Bachelorette,11,11_BEN_Z,Ben Zorn,5,D9
+Bachelorette,11,11_BEN_Z,Ben Zorn,6,D5
+Bachelorette,11,11_BRADLEY_C,Bradley Cox,1,E
+Bachelorette,11,11_BRADY_T,Brady Toops,1,EQ
+Bachelorette,11,11_CHRIS_S,Chris Strandburg,4,R
+Bachelorette,11,11_CHRIS_S,Chris Strandburg,7,ED
+Bachelorette,11,11_CHRIS_S,Chris Strandburg,2,D7
+Bachelorette,11,11_CHRIS_S,Chris Strandburg,3,D6
+Bachelorette,11,11_CHRIS_S,Chris Strandburg,4,D5
+Bachelorette,11,11_CHRIS_S,Chris Strandburg,5,D9
+Bachelorette,11,11_CHRIS_S,Chris Strandburg,6,D5
+Bachelorette,11,11_CHRIS_S,Chris Strandburg,7,D1
+Bachelorette,11,11_CLINT_A,Clint Arlis,2,R
+Bachelorette,11,11_CLINT_A,Clint Arlis,3,EU
+Bachelorette,11,11_CLINT_A,Clint Arlis,2,D1
+Bachelorette,11,11_CLINT_A,Clint Arlis,3,D6
+Bachelorette,11,11_COREY_S,Corey Stansell,4,E
+Bachelorette,11,11_COREY_S,Corey Stansell,2,D8
+Bachelorette,11,11_COREY_S,Corey Stansell,4,D8
+Bachelorette,11,11_CORY_S,Cory Shivar,2,E
+Bachelorette,11,11_DANIEL_F,Daniel Finney,2,E
+Bachelorette,11,11_DANIEL_F,Daniel Finney,2,D8
+Bachelorette,11,11_DAVID_X,David,1,E
+Bachelorette,11,11_IAN_T,Ian Thomson,5,EQ
+Bachelorette,11,11_IAN_T,Ian Thomson,2,D7
+Bachelorette,11,11_IAN_T,Ian Thomson,4,D5
+Bachelorette,11,11_IAN_T,Ian Thomson,5,D9
+Bachelorette,11,11_JARED_H,Jared Haibon,4,R
+Bachelorette,11,11_JARED_H,Jared Haibon,6,R
+Bachelorette,11,11_JARED_H,Jared Haibon,7,E
+Bachelorette,11,11_JARED_H,Jared Haibon,2,D8
+Bachelorette,11,11_JARED_H,Jared Haibon,3,D6
+Bachelorette,11,11_JARED_H,Jared Haibon,4,D1
+Bachelorette,11,11_JARED_H,Jared Haibon,5,D9
+Bachelorette,11,11_JARED_H,Jared Haibon,6,D5
+Bachelorette,11,11_JARED_H,Jared Haibon,7,D1
+Bachelorette,11,11_JARED_H,Jared Haibon,8,D1
+Bachelorette,11,11_JJ_L,J.J. Lane III,2,R
+Bachelorette,11,11_JJ_L,J.J. Lane III,6,ED
+Bachelorette,11,11_JJ_L,J.J. Lane III,2,D7
+Bachelorette,11,11_JJ_L,J.J. Lane III,3,D6
+Bachelorette,11,11_JJ_L,J.J. Lane III,4,D8
+Bachelorette,11,11_JJ_L,J.J. Lane III,5,D9
+Bachelorette,11,11_JJ_L,J.J. Lane III,6,D2
+Bachelorette,11,11_JOE_B,Joe Bailey,6,R
+Bachelorette,11,11_JOE_B,Joe Bailey,7,ED
+Bachelorette,11,11_JOE_B,Joe Bailey,2,D7
+Bachelorette,11,11_JOE_B,Joe Bailey,3,D6
+Bachelorette,11,11_JOE_B,Joe Bailey,4,D5
+Bachelorette,11,11_JOE_B,Joe Bailey,6,D2
+Bachelorette,11,11_JOE_B,Joe Bailey,7,D3
+Bachelorette,11,11_JONATHAN_H,Jonathan Holloway,4,E
+Bachelorette,11,11_JONATHAN_H,Jonathan Holloway,2,D7
+Bachelorette,11,11_JONATHAN_H,Jonathan Holloway,3,D6
+Bachelorette,11,11_JONATHAN_H,Jonathan Holloway,4,D8
+Bachelorette,11,11_JOSH_S,Josh Seiter,1,E
+Bachelorette,11,11_JOSHUA_A,Joshua Albers,5,E
+Bachelorette,11,11_JOSHUA_A,Joshua Albers,2,D7
+Bachelorette,11,11_JOSHUA_A,Joshua Albers,3,D6
+Bachelorette,11,11_JOSHUA_A,Joshua Albers,4,D5
+Bachelorette,11,11_JOSHUA_A,Joshua Albers,5,D9
+Bachelorette,11,11_JUSTIN_R,Justin Reich,4,R
+Bachelorette,11,11_JUSTIN_R,Justin Reich,5,E
+Bachelorette,11,11_JUSTIN_R,Justin Reich,2,D8
+Bachelorette,11,11_JUSTIN_R,Justin Reich,4,D8
+Bachelorette,11,11_JUSTIN_R,Justin Reich,5,D9
+Bachelorette,11,11_KUPAH_J,Kupah James,2,EU
+Bachelorette,11,11_KUPAH_J,Kupah James,2,D8
+Bachelorette,11,11_NICK_V,Nick Viall,5,R
+Bachelorette,11,11_NICK_V,Nick Viall,6,R
+Bachelorette,11,11_NICK_V,Nick Viall,9,E
+Bachelorette,11,11_NICK_V,Nick Viall,5,D9
+Bachelorette,11,11_NICK_V,Nick Viall,6,D1
+Bachelorette,11,11_NICK_V,Nick Viall,7,D3
+Bachelorette,11,11_NICK_V,Nick Viall,8,D1
+Bachelorette,11,11_NICK_V,Nick Viall,9,D1
+Bachelorette,11,11_RYAN_B,Ryan Beckett,4,E
+Bachelorette,11,11_RYAN_B,Ryan Beckett,3,D6
+Bachelorette,11,11_RYAN_B,Ryan Beckett,4,D8
+Bachelorette,11,11_RYAN_M,Ryan McDill,1,EF
+Bachelorette,11,11_SHAWN_B,Shawn Booth,1,R1
+Bachelorette,11,11_SHAWN_B,Shawn Booth,3,R
+Bachelorette,11,11_SHAWN_B,Shawn Booth,5,R
+Bachelorette,11,11_SHAWN_B,Shawn Booth,9,W
+Bachelorette,11,11_SHAWN_B,Shawn Booth,3,D6
+Bachelorette,11,11_SHAWN_B,Shawn Booth,4,D8
+Bachelorette,11,11_SHAWN_B,Shawn Booth,5,D1
+Bachelorette,11,11_SHAWN_B,Shawn Booth,7,D3
+Bachelorette,11,11_SHAWN_B,Shawn Booth,8,D1
+Bachelorette,11,11_SHAWN_B,Shawn Booth,9,D1
+Bachelorette,11,11_SHAWN_E,Shawn Evans,1,E
+Bachelorette,11,11_TANNER_T,Tanner Tolbert,6,E
+Bachelorette,11,11_TANNER_T,Tanner Tolbert,2,D8
+Bachelorette,11,11_TANNER_T,Tanner Tolbert,3,D6
+Bachelorette,11,11_TANNER_T,Tanner Tolbert,4,D8
+Bachelorette,11,11_TANNER_T,Tanner Tolbert,5,D9
+Bachelorette,11,11_TANNER_T,Tanner Tolbert,6,D5
+Bachelorette,11,11_TONY_H,Tony Harris,3,EQ
+Bachelorette,11,11_TONY_H,Tony Harris,2,D7
+Bachelorette,11,11_TONY_H,Tony Harris,3,D6
+Bachelor,12,12_ALYSSA_G,Alyssa Gill,1,E
+Bachelor,12,12_AMANDA_P,Amanda Petterman,1,E
+Bachelor,12,12_AMANDA_R,Amanda Rantuccio,1,R1
+Bachelor,12,12_AMANDA_R,Amanda Rantuccio,4,R
+Bachelor,12,12_AMANDA_R,Amanda Rantuccio,7,E
+Bachelor,12,12_AMANDA_R,Amanda Rantuccio,2,D8
+Bachelor,12,12_AMANDA_R,Amanda Rantuccio,3,D10
+Bachelor,12,12_AMANDA_R,Amanda Rantuccio,4,D1
+Bachelor,12,12_AMANDA_R,Amanda Rantuccio,5,D4
+Bachelor,12,12_AMANDA_R,Amanda Rantuccio,6,D1
+Bachelor,12,12_AMANDA_R,Amanda Rantuccio,7,D1
+Bachelor,12,12_AMY_R,Amy,3,E
+Bachelor,12,12_AMY_R,Amy,2,D7
+Bachelor,12,12_AMY_R,Amy,3,D10
+Bachelor,12,12_ASHLEE_W,Ashlee Williss,2,R
+Bachelor,12,12_ASHLEE_W,Ashlee Williss,4,E
+Bachelor,12,12_ASHLEE_W,Ashlee Williss,2,D8
+Bachelor,12,12_ASHLEE_W,Ashlee Williss,3,D10
+Bachelor,12,12_ASHLEE_W,Ashlee Williss,4,D6
+Bachelor,12,12_CARRI_P,Carri Perrier,2,E
+Bachelor,12,12_CARRI_P,Carri Perrier,2,D7
+Bachelor,12,12_CHELSEA_W,Chelsea Wanstrath,2,R
+Bachelor,12,12_CHELSEA_W,Chelsea Wanstrath,4,R
+Bachelor,12,12_CHELSEA_W,Chelsea Wanstrath,8,E
+Bachelor,12,12_CHELSEA_W,Chelsea Wanstrath,2,D7
+Bachelor,12,12_CHELSEA_W,Chelsea Wanstrath,3,D10
+Bachelor,12,12_CHELSEA_W,Chelsea Wanstrath,4,D6
+Bachelor,12,12_CHELSEA_W,Chelsea Wanstrath,5,D1
+Bachelor,12,12_CHELSEA_W,Chelsea Wanstrath,6,D1
+Bachelor,12,12_CHELSEA_W,Chelsea Wanstrath,7,D1
+Bachelor,12,12_CHELSEA_W,Chelsea Wanstrath,8,D1
+Bachelor,12,12_DENISE_H,Denise Hawthorne,1,E
+Bachelor,12,12_DEVON_A,Devon Antin,1,E
+Bachelor,12,12_ERIN_H,Erin Harper,2,E
+Bachelor,12,12_ERIN_H,Erin Harper,2,D8
+Bachelor,12,12_ERIN_S,Erin Storm,3,E
+Bachelor,12,12_ERIN_S,Erin Storm,2,D7
+Bachelor,12,12_ERIN_S,Erin Storm,3,D10
+Bachelor,12,12_HOLLY_D,Holly Durst,3,R
+Bachelor,12,12_HOLLY_D,Holly Durst,4,ED
+Bachelor,12,12_HOLLY_D,Holly Durst,2,D8
+Bachelor,12,12_HOLLY_D,Holly Durst,3,D1
+Bachelor,12,12_HOLLY_D,Holly Durst,4,D2
+Bachelor,12,12_KELLY_D,Kelly Duncan,4,E
+Bachelor,12,12_KELLY_D,Kelly Duncan,2,D7
+Bachelor,12,12_KELLY_D,Kelly Duncan,3,D10
+Bachelor,12,12_KELLY_D,Kelly Duncan,4,D6
+Bachelor,12,12_KRISTINE_H,Kristine Heffelfinger,3,E
+Bachelor,12,12_KRISTINE_H,Kristine Heffelfinger,2,D8
+Bachelor,12,12_KRISTINE_H,Kristine Heffelfinger,3,D10
+Bachelor,12,12_LESLEY_G,Lesley Geyer,1,E
+Bachelor,12,12_MARSHANA_R,Marshana Ritchie,4,R
+Bachelor,12,12_MARSHANA_R,Marshana Ritchie,5,E
+Bachelor,12,12_MARSHANA_R,Marshana Ritchie,2,D8
+Bachelor,12,12_MARSHANA_R,Marshana Ritchie,3,D10
+Bachelor,12,12_MARSHANA_R,Marshana Ritchie,4,D2
+Bachelor,12,12_MARSHANA_R,Marshana Ritchie,5,D4
+Bachelor,12,12_MICHELE_R,Michele Romero,1,E
+Bachelor,12,12_MICHELLE_P,Michelle Procopio,2,E
+Bachelor,12,12_MICHELLE_P,Michelle Procopio,2,D8
+Bachelor,12,12_NOELLE_D,Noelle Drake,6,E
+Bachelor,12,12_NOELLE_D,Noelle Drake,2,D8
+Bachelor,12,12_NOELLE_D,Noelle Drake,3,D10
+Bachelor,12,12_NOELLE_D,Noelle Drake,4,D6
+Bachelor,12,12_NOELLE_D,Noelle Drake,5,D1
+Bachelor,12,12_NOELLE_D,Noelle Drake,6,D1
+Bachelor,12,12_REBECCA_L,Rebecca LeBlanc,1,E
+Bachelor,12,12_ROBIN_C,Robin Canfield,3,R
+Bachelor,12,12_ROBIN_C,Robin Canfield,5,E
+Bachelor,12,12_ROBIN_C,Robin Canfield,2,D7
+Bachelor,12,12_ROBIN_C,Robin Canfield,3,D10
+Bachelor,12,12_ROBIN_C,Robin Canfield,4,D6
+Bachelor,12,12_ROBIN_C,Robin Canfield,5,D4
+Bachelor,12,12_SHAYNE_L,Shayne Lamas,3,R
+Bachelor,12,12_SHAYNE_L,Shayne Lamas,8,W
+Bachelor,12,12_SHAYNE_L,Shayne Lamas,2,D7
+Bachelor,12,12_SHAYNE_L,Shayne Lamas,3,D1
+Bachelor,12,12_SHAYNE_L,Shayne Lamas,4,D6
+Bachelor,12,12_SHAYNE_L,Shayne Lamas,5,D4
+Bachelor,12,12_SHAYNE_L,Shayne Lamas,6,D1
+Bachelor,12,12_SHAYNE_L,Shayne Lamas,7,D1
+Bachelor,12,12_SHAYNE_L,Shayne Lamas,8,D1
+Bachelor,12,12_STACEY_E,Stacey Elza,1,E
+Bachelor,12,12_TAMARA_S,Tamara Sketz,1,E
+Bachelor,12,12_TIFFANY_T,Tiffany Thornburg,1,E
+Bachelorette,12,12_ALEX_W,Alex Woytkiw,4,R
+Bachelorette,12,12_ALEX_W,Alex Woytkiw,7,ED
+Bachelorette,12,12_ALEX_W,Alex Woytkiw,2,D6
+Bachelorette,12,12_ALEX_W,Alex Woytkiw,3,D12
+Bachelorette,12,12_ALEX_W,Alex Woytkiw,4,D2
+Bachelorette,12,12_ALEX_W,Alex Woytkiw,5,D9
+Bachelorette,12,12_ALEX_W,Alex Woytkiw,6,D5
+Bachelorette,12,12_ALEX_W,Alex Woytkiw,7,D1
+Bachelorette,12,12_ALI_Z,Ali Zahiri,3,E
+Bachelorette,12,12_ALI_Z,Ali Zahiri,2,D10
+Bachelorette,12,12_ALI_Z,Ali Zahiri,3,D12
+Bachelorette,12,12_BRANDON_H,Brandon Howell,2,E
+Bachelorette,12,12_CHAD_J,Chad Johnson,4,ED
+Bachelorette,12,12_CHAD_J,Chad Johnson,2,D6
+Bachelorette,12,12_CHAD_J,Chad Johnson,3,D12
+Bachelorette,12,12_CHAD_J,Chad Johnson,4,D2
+Bachelorette,12,12_CHASE_M,Chase McNary,3,R
+Bachelorette,12,12_CHASE_M,Chase McNary,6,R
+Bachelorette,12,12_CHASE_M,Chase McNary,9,ED
+Bachelorette,12,12_CHASE_M,Chase McNary,3,D1
+Bachelorette,12,12_CHASE_M,Chase McNary,4,D11
+Bachelorette,12,12_CHASE_M,Chase McNary,5,D9
+Bachelorette,12,12_CHASE_M,Chase McNary,6,D2
+Bachelorette,12,12_CHASE_M,Chase McNary,7,D3
+Bachelorette,12,12_CHASE_M,Chase McNary,8,D1
+Bachelorette,12,12_CHASE_M,Chase McNary,9,D1
+Bachelorette,12,12_CHRISTIAN_B,Christian Bishop,3,E
+Bachelorette,12,12_CHRISTIAN_B,Christian Bishop,2,D6
+Bachelorette,12,12_CHRISTIAN_B,Christian Bishop,3,D12
+Bachelorette,12,12_COLEY_K,Coley Knust,1,E
+Bachelorette,12,12_DANIEL_M,Daniel Maguire,4,E
+Bachelorette,12,12_DANIEL_M,Daniel Maguire,2,D10
+Bachelorette,12,12_DANIEL_M,Daniel Maguire,3,D12
+Bachelorette,12,12_DANIEL_M,Daniel Maguire,4,D11
+Bachelorette,12,12_DEREK_P,Derek Peth,2,R
+Bachelorette,12,12_DEREK_P,Derek Peth,5,R
+Bachelorette,12,12_DEREK_P,Derek Peth,6,ED
+Bachelorette,12,12_DEREK_P,Derek Peth,2,D1
+Bachelorette,12,12_DEREK_P,Derek Peth,4,D11
+Bachelorette,12,12_DEREK_P,Derek Peth,5,D1
+Bachelorette,12,12_DEREK_P,Derek Peth,6,D2
+Bachelorette,12,12_EVAN_B,Evan Bass,3,R
+Bachelorette,12,12_EVAN_B,Evan Bass,5,E
+Bachelorette,12,12_EVAN_B,Evan Bass,2,D10
+Bachelorette,12,12_EVAN_B,Evan Bass,3,D12
+Bachelorette,12,12_EVAN_B,Evan Bass,4,D11
+Bachelorette,12,12_EVAN_B,Evan Bass,5,D9
+Bachelorette,12,12_GRANT_K,Grant Kemp,5,E
+Bachelorette,12,12_GRANT_K,Grant Kemp,2,D10
+Bachelorette,12,12_GRANT_K,Grant Kemp,3,D12
+Bachelorette,12,12_GRANT_K,Grant Kemp,4,D11
+Bachelorette,12,12_GRANT_K,Grant Kemp,5,D9
+Bachelorette,12,12_JAKE_P,Jake Patton,1,E
+Bachelorette,12,12_JAMES_F,James Fuertes,4,E
+Bachelorette,12,12_JAMES_F,James Fuertes,2,D10
+Bachelorette,12,12_JAMES_F,James Fuertes,3,D12
+Bachelorette,12,12_JAMES_F,James Fuertes,4,D11
+Bachelorette,12,12_JAMES_S,James Spadafore,2,E
+Bachelorette,12,12_JAMES_T,James Taylor,2,R
+Bachelorette,12,12_JAMES_T,James Taylor,3,R
+Bachelorette,12,12_JAMES_T,James Taylor,7,E
+Bachelorette,12,12_JAMES_T,James Taylor,2,D6
+Bachelorette,12,12_JAMES_T,James Taylor,3,D1
+Bachelorette,12,12_JAMES_T,James Taylor,4,D11
+Bachelorette,12,12_JAMES_T,James Taylor,5,D9
+Bachelorette,12,12_JAMES_T,James Taylor,6,D5
+Bachelorette,12,12_JAMES_T,James Taylor,7,D3
+Bachelorette,12,12_JONATHAN_H,Jonathan Hamilton,1,E
+Bachelorette,12,12_JORDAN_R,Jordan Rodgers,1,R1
+Bachelorette,12,12_JORDAN_R,Jordan Rodgers,4,R
+Bachelorette,12,12_JORDAN_R,Jordan Rodgers,5,R
+Bachelorette,12,12_JORDAN_R,Jordan Rodgers,10,W
+Bachelorette,12,12_JORDAN_R,Jordan Rodgers,2,D6
+Bachelorette,12,12_JORDAN_R,Jordan Rodgers,3,D12
+Bachelorette,12,12_JORDAN_R,Jordan Rodgers,4,D11
+Bachelorette,12,12_JORDAN_R,Jordan Rodgers,5,D1
+Bachelorette,12,12_JORDAN_R,Jordan Rodgers,6,D5
+Bachelorette,12,12_JORDAN_R,Jordan Rodgers,7,D1
+Bachelorette,12,12_JORDAN_R,Jordan Rodgers,8,D1
+Bachelorette,12,12_JORDAN_R,Jordan Rodgers,9,D1
+Bachelorette,12,12_JORDAN_R,Jordan Rodgers,10,D1
+Bachelorette,12,12_LUKE_P,Luke Pell,4,R
+Bachelorette,12,12_LUKE_P,Luke Pell,6,R
+Bachelorette,12,12_LUKE_P,Luke Pell,8,E
+Bachelorette,12,12_LUKE_P,Luke Pell,2,D10
+Bachelorette,12,12_LUKE_P,Luke Pell,4,D1
+Bachelorette,12,12_LUKE_P,Luke Pell,5,D9
+Bachelorette,12,12_LUKE_P,Luke Pell,6,D5
+Bachelorette,12,12_LUKE_P,Luke Pell,7,D1
+Bachelorette,12,12_LUKE_P,Luke Pell,8,D1
+Bachelorette,12,12_NICK_B,Nick Benvenutti,3,E
+Bachelorette,12,12_NICK_B,Nick Benvenutti,2,D6
+Bachelorette,12,12_NICK_B,Nick Benvenutti,3,D12
+Bachelorette,12,12_NICK_S,Nick Sharp,1,E
+Bachelorette,12,12_PETER_M,Peter Medina,1,E
+Bachelorette,12,12_ROBBY_H,Robby Hayes,5,R
+Bachelorette,12,12_ROBBY_H,Robby Hayes,7,R
+Bachelorette,12,12_ROBBY_H,Robby Hayes,10,E
+Bachelorette,12,12_ROBBY_H,Robby Hayes,2,D10
+Bachelorette,12,12_ROBBY_H,Robby Hayes,4,D11
+Bachelorette,12,12_ROBBY_H,Robby Hayes,5,D9
+Bachelorette,12,12_ROBBY_H,Robby Hayes,6,D5
+Bachelorette,12,12_ROBBY_H,Robby Hayes,7,D3
+Bachelorette,12,12_ROBBY_H,Robby Hayes,8,D1
+Bachelorette,12,12_ROBBY_H,Robby Hayes,9,D1
+Bachelorette,12,12_ROBBY_H,Robby Hayes,10,D1
+Bachelorette,12,12_SAL_D,Sal DeJulio,1,E
+Bachelorette,12,12_VINCENT_V,"Vincent ""Vinny"" Ventiera",5,E
+Bachelorette,12,12_VINCENT_V,"Vincent ""Vinny"" Ventiera",2,D10
+Bachelorette,12,12_VINCENT_V,"Vincent ""Vinny"" Ventiera",3,D12
+Bachelorette,12,12_VINCENT_V,"Vincent ""Vinny"" Ventiera",4,D11
+Bachelorette,12,12_VINCENT_V,"Vincent ""Vinny"" Ventiera",5,D9
+Bachelorette,12,12_WELLS_A,Wells Adams,2,R
+Bachelorette,12,12_WELLS_A,Wells Adams,6,ED
+Bachelorette,12,12_WELLS_A,Wells Adams,2,D10
+Bachelorette,12,12_WELLS_A,Wells Adams,3,D12
+Bachelorette,12,12_WELLS_A,Wells Adams,4,D11
+Bachelorette,12,12_WELLS_A,Wells Adams,5,D9
+Bachelorette,12,12_WELLS_A,Wells Adams,6,D1
+Bachelorette,12,12_WILL_H,Will Haduch,2,E
+Bachelorette,12,12_WILL_H,Will Haduch,2,D10
+Bachelor,13,13_ANN_L,Ann Lueders,1,E
+Bachelor,13,13_DOMINIQUE_C,Dominique Carta,1,E
+Bachelor,13,13_EMILY_H,Emily Hillis,1,E
+Bachelor,13,13_ERICA_D,Erica DeSimone,3,E
+Bachelor,13,13_ERICA_D,Erica DeSimone,2,D8
+Bachelor,13,13_ERICA_D,Erica DeSimone,3,D8
+Bachelor,13,13_JACKIE_H,Jackie Hickey,1,E
+Bachelor,13,13_JILLIAN_H,Jillian Harris,2,R
+Bachelor,13,13_JILLIAN_H,Jillian Harris,3,R
+Bachelor,13,13_JILLIAN_H,Jillian Harris,7,E
+Bachelor,13,13_JILLIAN_H,Jillian Harris,2,D1
+Bachelor,13,13_JILLIAN_H,Jillian Harris,3,D8
+Bachelor,13,13_JILLIAN_H,Jillian Harris,4,D6
+Bachelor,13,13_JILLIAN_H,Jillian Harris,5,D3
+Bachelor,13,13_JILLIAN_H,Jillian Harris,6,D1
+Bachelor,13,13_JILLIAN_H,Jillian Harris,7,D1
+Bachelor,13,13_JULIE_D,Julie Dermotta,1,E
+Bachelor,13,13_KARI_F,Kari Fajen,3,E
+Bachelor,13,13_KARI_F,Kari Fajen,2,D8
+Bachelor,13,13_LAUREN_W,Lauren Wanger,4,E
+Bachelor,13,13_LAUREN_W,Lauren Wanger,2,D8
+Bachelor,13,13_LAUREN_W,Lauren Wanger,4,D6
+Bachelor,13,13_LISA_G,Lisa Gonzalez,2,EQ
+Bachelor,13,13_MEGAN_P,Megan Parris,1,R
+Bachelor,13,13_MEGAN_P,Megan Parris,4,E
+Bachelor,13,13_MEGAN_P,Megan Parris,3,D8
+Bachelor,13,13_MEGAN_P,Megan Parris,4,D6
+Bachelor,13,13_MELISSA_R,Melissa Rycroft,2,R
+Bachelor,13,13_MELISSA_R,Melissa Rycroft,8,W
+Bachelor,13,13_MELISSA_R,Melissa Rycroft,2,D1
+Bachelor,13,13_MELISSA_R,Melissa Rycroft,3,D8
+Bachelor,13,13_MELISSA_R,Melissa Rycroft,4,D6
+Bachelor,13,13_MELISSA_R,Melissa Rycroft,5,D1
+Bachelor,13,13_MELISSA_R,Melissa Rycroft,6,D1
+Bachelor,13,13_MELISSA_R,Melissa Rycroft,7,D1
+Bachelor,13,13_MELISSA_R,Melissa Rycroft,8,D1
+Bachelor,13,13_MOLLY_M,Molly Malaney,2,R
+Bachelor,13,13_MOLLY_M,Molly Malaney,4,R
+Bachelor,13,13_MOLLY_M,Molly Malaney,8,E
+Bachelor,13,13_MOLLY_M,Molly Malaney,2,D8
+Bachelor,13,13_MOLLY_M,Molly Malaney,4,D1
+Bachelor,13,13_MOLLY_M,Molly Malaney,5,D3
+Bachelor,13,13_MOLLY_M,Molly Malaney,6,D1
+Bachelor,13,13_MOLLY_M,Molly Malaney,7,D1
+Bachelor,13,13_MOLLY_M,Molly Malaney,8,D1
+Bachelor,13,13_NAOMI_C,Naomi Rose Crespo,4,R
+Bachelor,13,13_NAOMI_C,Naomi Rose Crespo,6,E
+Bachelor,13,13_NAOMI_C,Naomi Rose Crespo,2,D8
+Bachelor,13,13_NAOMI_C,Naomi Rose Crespo,3,D8
+Bachelor,13,13_NAOMI_C,Naomi Rose Crespo,4,D6
+Bachelor,13,13_NAOMI_C,Naomi Rose Crespo,5,D1
+Bachelor,13,13_NAOMI_C,Naomi Rose Crespo,6,D1
+Bachelor,13,13_NATALIE_G,Natalie Getz,3,ED
+Bachelor,13,13_NATALIE_G,Natalie Getz,2,D8
+Bachelor,13,13_NATALIE_G,Natalie Getz,3,D1
+Bachelor,13,13_NICOLE_M,Nicole Mah,1,E
+Bachelor,13,13_NIKKI_K,"Nicole ""Nikki"" Kaapke",1,R1
+Bachelor,13,13_NIKKI_K,"Nicole ""Nikki"" Kaapke",4,ED
+Bachelor,13,13_NIKKI_K,"Nicole ""Nikki"" Kaapke",2,D8
+Bachelor,13,13_NIKKI_K,"Nicole ""Nikki"" Kaapke",3,D8
+Bachelor,13,13_NIKKI_K,"Nicole ""Nikki"" Kaapke",4,D2
+Bachelor,13,13_RAQUEL_M,Raquel Medeiros,2,E
+Bachelor,13,13_RENEE_S,Renee Simlak,1,E
+Bachelor,13,13_SHANNON_B,Shannon Bair,4,E
+Bachelor,13,13_SHANNON_B,Shannon Bair,3,D8
+Bachelor,13,13_SHANNON_B,Shannon Bair,4,D6
+Bachelor,13,13_SHARON_S,Sharon Staebell,2,E
+Bachelor,13,13_SHARON_S,Sharon Staebell,2,D8
+Bachelor,13,13_SHELBY_G,Shelby Gillespie,1,E
+Bachelor,13,13_STACIA_M,Stacia Mann,1,E
+Bachelor,13,13_STEPHANIE_H,Stephanie Hogan,3,R
+Bachelor,13,13_STEPHANIE_H,Stephanie Hogan,4,R
+Bachelor,13,13_STEPHANIE_H,Stephanie Hogan,5,E
+Bachelor,13,13_STEPHANIE_H,Stephanie Hogan,3,D1
+Bachelor,13,13_STEPHANIE_H,Stephanie Hogan,4,D2
+Bachelor,13,13_STEPHANIE_H,Stephanie Hogan,5,D3
+Bachelor,13,13_TREASURE_M,Treasure Morgan,1,E
+Bachelorette,13,13_ADAM_G,Adam Gottschalk,7,ED
+Bachelorette,13,13_ADAM_G,Adam Gottschalk,2,D10
+Bachelorette,13,13_ADAM_G,Adam Gottschalk,3,D8
+Bachelorette,13,13_ADAM_G,Adam Gottschalk,4,D13
+Bachelorette,13,13_ADAM_G,Adam Gottschalk,5,D9
+Bachelorette,13,13_ADAM_G,Adam Gottschalk,6,D7
+Bachelorette,13,13_ADAM_G,Adam Gottschalk,7,D3
+Bachelorette,13,13_ALEX_B,Alex Bordyukov,3,R
+Bachelorette,13,13_ALEX_B,Alex Bordyukov,6,E
+Bachelorette,13,13_ALEX_B,Alex Bordyukov,2,D10
+Bachelorette,13,13_ALEX_B,Alex Bordyukov,3,D6
+Bachelorette,13,13_ALEX_B,Alex Bordyukov,4,D13
+Bachelorette,13,13_ALEX_B,Alex Bordyukov,5,D9
+Bachelorette,13,13_ALEX_B,Alex Bordyukov,6,D7
+Bachelorette,13,13_ANTHONY_B,Anthony Battle,3,R
+Bachelorette,13,13_ANTHONY_B,Anthony Battle,5,E
+Bachelorette,13,13_ANTHONY_B,Anthony Battle,3,D1
+Bachelorette,13,13_ANTHONY_B,Anthony Battle,4,D13
+Bachelorette,13,13_ANTHONY_B,Anthony Battle,5,D9
+Bachelorette,13,13_BLAKE_E,Blake Elarbee,2,E
+Bachelorette,13,13_BLAKE_E,Blake Elarbee,2,D8
+Bachelorette,13,13_BLAKE_K,Blake Killpack,1,E
+Bachelorette,13,13_BRADY_E,Brady Ervin,3,E
+Bachelorette,13,13_BRADY_E,Brady Ervin,3,D8
+Bachelorette,13,13_BRYAN_A,Bryan Abasolo,1,R1
+Bachelorette,13,13_BRYAN_A,Bryan Abasolo,4,R
+Bachelorette,13,13_BRYAN_A,Bryan Abasolo,5,R
+Bachelorette,13,13_BRYAN_A,Bryan Abasolo,7,R
+Bachelorette,13,13_BRYAN_A,Bryan Abasolo,10,W
+Bachelorette,13,13_BRYAN_A,Bryan Abasolo,3,D6
+Bachelorette,13,13_BRYAN_A,Bryan Abasolo,4,D13
+Bachelorette,13,13_BRYAN_A,Bryan Abasolo,5,D1
+Bachelorette,13,13_BRYAN_A,Bryan Abasolo,6,D7
+Bachelorette,13,13_BRYAN_A,Bryan Abasolo,7,D1
+Bachelorette,13,13_BRYAN_A,Bryan Abasolo,8,D1
+Bachelorette,13,13_BRYAN_A,Bryan Abasolo,9,D1
+Bachelorette,13,13_BRYAN_A,Bryan Abasolo,10,D1
+Bachelorette,13,13_BRYCE_P,Bryce Powers,3,E
+Bachelorette,13,13_BRYCE_P,Bryce Powers,3,D8
+Bachelorette,13,13_DEAN_U,Dean Unglert,2,R
+Bachelorette,13,13_DEAN_U,Dean Unglert,4,R
+Bachelorette,13,13_DEAN_U,Dean Unglert,7,R
+Bachelorette,13,13_DEAN_U,Dean Unglert,8,E
+Bachelorette,13,13_DEAN_U,Dean Unglert,2,D8
+Bachelorette,13,13_DEAN_U,Dean Unglert,3,D8
+Bachelorette,13,13_DEAN_U,Dean Unglert,4,D1
+Bachelorette,13,13_DEAN_U,Dean Unglert,5,D9
+Bachelorette,13,13_DEAN_U,Dean Unglert,6,D7
+Bachelorette,13,13_DEAN_U,Dean Unglert,7,D1
+Bachelorette,13,13_DEAN_U,Dean Unglert,8,D1
+Bachelorette,13,13_DEMARIO_J,DeMario Jackson,2,EU
+Bachelorette,13,13_DEMARIO_J,DeMario Jackson,2,D10
+Bachelorette,13,13_DIGGY_M,"Kenneth ""Diggy"" Moreland",3,E
+Bachelorette,13,13_DIGGY_M,"Kenneth ""Diggy"" Moreland",2,D10
+Bachelorette,13,13_ERIC_B,Eric Bigger,3,R
+Bachelorette,13,13_ERIC_B,Eric Bigger,6,R
+Bachelorette,13,13_ERIC_B,Eric Bigger,7,R
+Bachelorette,13,13_ERIC_B,Eric Bigger,9,E
+Bachelorette,13,13_ERIC_B,Eric Bigger,2,D10
+Bachelorette,13,13_ERIC_B,Eric Bigger,3,D8
+Bachelorette,13,13_ERIC_B,Eric Bigger,4,D13
+Bachelorette,13,13_ERIC_B,Eric Bigger,5,D9
+Bachelorette,13,13_ERIC_B,Eric Bigger,6,D1
+Bachelorette,13,13_ERIC_B,Eric Bigger,7,D3
+Bachelorette,13,13_ERIC_B,Eric Bigger,8,D1
+Bachelorette,13,13_ERIC_B,Eric Bigger,9,D1
+Bachelorette,13,13_FRED_J,Fred Johnson,3,ED
+Bachelorette,13,13_FRED_J,Fred Johnson,2,D8
+Bachelorette,13,13_FRED_J,Fred Johnson,3,D6
+Bachelorette,13,13_GRANT_H,Grant Hubsher,1,E
+Bachelorette,13,13_IGGY_R,"Ignacio ""Iggy"" Rodriguez",4,E
+Bachelorette,13,13_IGGY_R,"Ignacio ""Iggy"" Rodriguez",2,D8
+Bachelorette,13,13_IGGY_R,"Ignacio ""Iggy"" Rodriguez",4,D13
+Bachelorette,13,13_JACK_S,Jack Stone,4,ED
+Bachelorette,13,13_JACK_S,Jack Stone,2,D8
+Bachelorette,13,13_JACK_S,Jack Stone,3,D8
+Bachelorette,13,13_JACK_S,Jack Stone,4,D1
+Bachelorette,13,13_JAMEY_K,Jamey Kocan,2,E
+Bachelorette,13,13_JAMEY_K,Jamey Kocan,2,D10
+Bachelorette,13,13_JEDIDIAH_B,Jedidiah Ballard,1,E
+Bachelorette,13,13_JONATHAN_T,Jonathan Treece,4,E
+Bachelorette,13,13_JONATHAN_T,Jonathan Treece,2,D8
+Bachelorette,13,13_JONATHAN_T,Jonathan Treece,3,D6
+Bachelorette,13,13_JONATHAN_T,Jonathan Treece,4,D13
+Bachelorette,13,13_JOSIAH_G,Josiah Graham,2,R
+Bachelorette,13,13_JOSIAH_G,Josiah Graham,5,E
+Bachelorette,13,13_JOSIAH_G,Josiah Graham,2,D10
+Bachelorette,13,13_JOSIAH_G,Josiah Graham,4,D13
+Bachelorette,13,13_JOSIAH_G,Josiah Graham,5,D9
+Bachelorette,13,13_KENNY_L,Kenny Layne,5,R
+Bachelorette,13,13_KENNY_L,Kenny Layne,6,ED
+Bachelorette,13,13_KENNY_L,Kenny Layne,2,D8
+Bachelorette,13,13_KENNY_L,Kenny Layne,3,D8
+Bachelorette,13,13_KENNY_L,Kenny Layne,4,D13
+Bachelorette,13,13_KENNY_L,Kenny Layne,5,D2
+Bachelorette,13,13_KENNY_L,Kenny Layne,6,D7
+Bachelorette,13,13_KYLE_S,Kyle Sherwood,1,E
+Bachelorette,13,13_LEE_G,Lee Garrett,5,ED
+Bachelorette,13,13_LEE_G,Lee Garrett,2,D10
+Bachelorette,13,13_LEE_G,Lee Garrett,3,D8
+Bachelorette,13,13_LEE_G,Lee Garrett,4,D13
+Bachelorette,13,13_LEE_G,Lee Garrett,5,D2
+Bachelorette,13,13_LUCAS_Y,Lucas Yancey,2,E
+Bachelorette,13,13_LUCAS_Y,Lucas Yancey,2,D8
+Bachelorette,13,13_MATT_M,"Matthew ""Matt"" Munson",7,ED
+Bachelorette,13,13_MATT_M,"Matthew ""Matt"" Munson",2,D10
+Bachelorette,13,13_MATT_M,"Matthew ""Matt"" Munson",4,D13
+Bachelorette,13,13_MATT_M,"Matthew ""Matt"" Munson",5,D9
+Bachelorette,13,13_MATT_M,"Matthew ""Matt"" Munson",6,D7
+Bachelorette,13,13_MATT_M,"Matthew ""Matt"" Munson",7,D3
+Bachelorette,13,13_MICHAEL_B,Michael Black,1,E
+Bachelorette,13,13_MILTON_L,Milton LaCroix,1,E
+Bachelorette,13,13_MOHIT_S,Mohit Sehgal,1,E
+Bachelorette,13,13_PETER_K,Peter Kraus,2,R
+Bachelorette,13,13_PETER_K,Peter Kraus,6,R
+Bachelorette,13,13_PETER_K,Peter Kraus,7,R
+Bachelorette,13,13_PETER_K,Peter Kraus,10,E
+Bachelorette,13,13_PETER_K,Peter Kraus,2,D1
+Bachelorette,13,13_PETER_K,Peter Kraus,3,D6
+Bachelorette,13,13_PETER_K,Peter Kraus,4,D13
+Bachelorette,13,13_PETER_K,Peter Kraus,5,D9
+Bachelorette,13,13_PETER_K,Peter Kraus,6,D7
+Bachelorette,13,13_PETER_K,Peter Kraus,7,D1
+Bachelorette,13,13_PETER_K,Peter Kraus,8,D1
+Bachelorette,13,13_PETER_K,Peter Kraus,9,D1
+Bachelorette,13,13_PETER_K,Peter Kraus,10,D1
+Bachelorette,13,13_ROB_H,"Robert ""Rob"" Howard",1,E
+Bachelorette,13,13_WILL_G,Will Gaskins,5,R
+Bachelorette,13,13_WILL_G,Will Gaskins,6,ED
+Bachelorette,13,13_WILL_G,Will Gaskins,2,D10
+Bachelorette,13,13_WILL_G,Will Gaskins,3,D6
+Bachelorette,13,13_WILL_G,Will Gaskins,4,D13
+Bachelorette,13,13_WILL_G,Will Gaskins,5,D9
+Bachelorette,13,13_WILL_G,Will Gaskins,6,D1
+Bachelor,14,14_ALI_F,Ali Fedotowsky,2,R
+Bachelor,14,14_ALI_F,Ali Fedotowsky,6,E
+Bachelor,14,14_ALI_F,Ali Fedotowsky,2,D1
+Bachelor,14,14_ALI_F,Ali Fedotowsky,3,D8
+Bachelor,14,14_ALI_F,Ali Fedotowsky,4,D6
+Bachelor,14,14_ALI_F,Ali Fedotowsky,5,D1
+Bachelor,14,14_ALI_F,Ali Fedotowsky,6,D1
+Bachelor,14,14_ASHLEIGH_H,Ashleigh Hunt,4,E
+Bachelor,14,14_ASHLEIGH_H,Ashleigh Hunt,2,D6
+Bachelor,14,14_ASHLEIGH_H,Ashleigh Hunt,3,D8
+Bachelor,14,14_ASHLEIGH_H,Ashleigh Hunt,4,D6
+Bachelor,14,14_ASHLEY_E,Ashley Elmore,2,E
+Bachelor,14,14_ASHLEY_E,Ashley Elmore,2,D5
+Bachelor,14,14_CAITLYN_M,Caitlyn McCabe,1,E
+Bachelor,14,14_CHANNY_C,Channy Choch,1,E
+Bachelor,14,14_CORRIE_A,Corrie Adamson,5,E
+Bachelor,14,14_CORRIE_A,Corrie Adamson,2,D6
+Bachelor,14,14_CORRIE_A,Corrie Adamson,3,D8
+Bachelor,14,14_CORRIE_A,Corrie Adamson,4,D6
+Bachelor,14,14_CORRIE_A,Corrie Adamson,5,D1
+Bachelor,14,14_CRISTINA_M,Christina McCasland,2,E
+Bachelor,14,14_CRISTINA_M,Christina McCasland,2,D6
+Bachelor,14,14_ELIZABETH_KI,Elizabeth Kitt,2,R
+Bachelor,14,14_ELIZABETH_KI,Elizabeth Kitt,3,E
+Bachelor,14,14_ELIZABETH_KI,Elizabeth Kitt,2,D5
+Bachelor,14,14_ELIZABETH_KI,Elizabeth Kitt,3,D8
+Bachelor,14,14_ELIZABETH_KR,Elizabeth Kreft,1,E
+Bachelor,14,14_ELLA_N,Ella Nolan,3,R
+Bachelor,14,14_ELLA_N,Ella Nolan,4,ED
+Bachelor,14,14_ELLA_N,Ella Nolan,3,D1
+Bachelor,14,14_ELLA_N,Ella Nolan,4,D2
+Bachelor,14,14_EMILY_H,Emily Harkins,1,E
+Bachelor,14,14_GIA_A,Gia Allemand,4,R
+Bachelor,14,14_GIA_A,Gia Allemand,7,EQ
+Bachelor,14,14_GIA_A,Gia Allemand,2,D6
+Bachelor,14,14_GIA_A,Gia Allemand,4,D1
+Bachelor,14,14_GIA_A,Gia Allemand,5,D2
+Bachelor,14,14_GIA_A,Gia Allemand,6,D1
+Bachelor,14,14_GIA_A,Gia Allemand,7,D1
+Bachelor,14,14_JESSIE_S,Jessie Sulidis,4,E
+Bachelor,14,14_JESSIE_S,Jessie Sulidis,2,D5
+Bachelor,14,14_JESSIE_S,Jessie Sulidis,3,D8
+Bachelor,14,14_JESSIE_S,Jessie Sulidis,4,D6
+Bachelor,14,14_KATHRYN_S,Kathryn Sherlock,4,ED
+Bachelor,14,14_KATHRYN_S,Kathryn Sherlock,2,D5
+Bachelor,14,14_KATHRYN_S,Kathryn Sherlock,3,D8
+Bachelor,14,14_KATHRYN_S,Kathryn Sherlock,4,D2
+Bachelor,14,14_KIMBERLY_S,Kimberly Sullivan,1,E
+Bachelor,14,14_KIRSTEN_P,Kirsten Pittman,1,E
+Bachelor,14,14_LEX_M,"Alexa ""Lex"" McAllister",1,E
+Bachelor,14,14_MICHELLE_K,Michelle Kujawa,3,ED
+Bachelor,14,14_MICHELLE_K,Michelle Kujawa,3,D8
+Bachelor,14,14_ROZLYN_P,Rozlyn Papa,2,EF
+Bachelor,14,14_ROZLYN_P,Rozlyn Papa,2,D6
+Bachelor,14,14_SHEILA_L,Sheila Marie Lidner,1,E
+Bachelor,14,14_STEPHANIE_M,Stephanie Mueller,1,E
+Bachelor,14,14_TENLEY_M,Tenley Molzahn,1,R1
+Bachelor,14,14_TENLEY_M,Tenley Molzahn,4,R
+Bachelor,14,14_TENLEY_M,Tenley Molzahn,8,E
+Bachelor,14,14_TENLEY_M,Tenley Molzahn,3,D8
+Bachelor,14,14_TENLEY_M,Tenley Molzahn,4,D6
+Bachelor,14,14_TENLEY_M,Tenley Molzahn,5,D1
+Bachelor,14,14_TENLEY_M,Tenley Molzahn,6,D1
+Bachelor,14,14_TENLEY_M,Tenley Molzahn,7,D1
+Bachelor,14,14_TENLEY_M,Tenley Molzahn,8,D1
+Bachelor,14,14_TIANA_K,Tiana Kruzel,1,E
+Bachelor,14,14_VALISHIA_S,Valishia Savage,3,E
+Bachelor,14,14_VALISHIA_S,Valishia Savage,2,D6
+Bachelor,14,14_VIENNA_G,Vienna Girardi,3,R
+Bachelor,14,14_VIENNA_G,Vienna Girardi,8,W
+Bachelor,14,14_VIENNA_G,Vienna Girardi,2,D5
+Bachelor,14,14_VIENNA_G,Vienna Girardi,3,D1
+Bachelor,14,14_VIENNA_G,Vienna Girardi,4,D6
+Bachelor,14,14_VIENNA_G,Vienna Girardi,5,D2
+Bachelor,14,14_VIENNA_G,Vienna Girardi,6,D1
+Bachelor,14,14_VIENNA_G,Vienna Girardi,7,D1
+Bachelor,14,14_VIENNA_G,Vienna Girardi,8,D1
+Bachelor,15,15_ALLI_T,Alli Travis,6,ED
+Bachelor,15,15_ALLI_T,Alli Travis,2,D15
+Bachelor,15,15_ALLI_T,Alli Travis,3,D12
+Bachelor,15,15_ALLI_T,Alli Travis,4,D9
+Bachelor,15,15_ALLI_T,Alli Travis,5,D8
+Bachelor,15,15_ALLI_T,Alli Travis,6,D1
+Bachelor,15,15_ASHLEY_H,Ashley Hebert,2,R
+Bachelor,15,15_ASHLEY_H,Ashley Hebert,5,R
+Bachelor,15,15_ASHLEY_H,Ashley Hebert,7,R
+Bachelor,15,15_ASHLEY_H,Ashley Hebert,9,E
+Bachelor,15,15_ASHLEY_H,Ashley Hebert,2,D1
+Bachelor,15,15_ASHLEY_H,Ashley Hebert,3,D12
+Bachelor,15,15_ASHLEY_H,Ashley Hebert,4,D9
+Bachelor,15,15_ASHLEY_H,Ashley Hebert,5,D2
+Bachelor,15,15_ASHLEY_H,Ashley Hebert,6,D6
+Bachelor,15,15_ASHLEY_H,Ashley Hebert,7,D3
+Bachelor,15,15_ASHLEY_H,Ashley Hebert,8,D1
+Bachelor,15,15_ASHLEY_H,Ashley Hebert,9,D1
+Bachelor,15,15_ASHLEY_S,Ashley Spivey,1,R1
+Bachelor,15,15_ASHLEY_S,Ashley Spivey,3,R
+Bachelor,15,15_ASHLEY_S,Ashley Spivey,5,ED
+Bachelor,15,15_ASHLEY_S,Ashley Spivey,3,D1
+Bachelor,15,15_ASHLEY_S,Ashley Spivey,4,D9
+Bachelor,15,15_ASHLEY_S,Ashley Spivey,5,D2
+Bachelor,15,15_BRITNEE_X,Britnee,1,E
+Bachelor,15,15_BRITT_B,Britt Billmaier,4,R
+Bachelor,15,15_BRITT_B,Britt Billmaier,7,ED
+Bachelor,15,15_BRITT_B,Britt Billmaier,2,D15
+Bachelor,15,15_BRITT_B,Britt Billmaier,3,D12
+Bachelor,15,15_BRITT_B,Britt Billmaier,4,D9
+Bachelor,15,15_BRITT_B,Britt Billmaier,5,D8
+Bachelor,15,15_BRITT_B,Britt Billmaier,6,D6
+Bachelor,15,15_BRITT_B,Britt Billmaier,7,D1
+Bachelor,15,15_CHANTAL_O,Chantal O'Brien,4,R
+Bachelor,15,15_CHANTAL_O,Chantal O'Brien,6,R
+Bachelor,15,15_CHANTAL_O,Chantal O'Brien,10,E
+Bachelor,15,15_CHANTAL_O,Chantal O'Brien,2,D15
+Bachelor,15,15_CHANTAL_O,Chantal O'Brien,3,D12
+Bachelor,15,15_CHANTAL_O,Chantal O'Brien,4,D1
+Bachelor,15,15_CHANTAL_O,Chantal O'Brien,5,D8
+Bachelor,15,15_CHANTAL_O,Chantal O'Brien,6,D1
+Bachelor,15,15_CHANTAL_O,Chantal O'Brien,7,D3
+Bachelor,15,15_CHANTAL_O,Chantal O'Brien,8,D1
+Bachelor,15,15_CHANTAL_O,Chantal O'Brien,9,D1
+Bachelor,15,15_CHANTAL_O,Chantal O'Brien,10,D1
+Bachelor,15,15_CRISTY_C,Cristy Caserta,1,E
+Bachelor,15,15_EMILY_M,Emily Maynard,2,R
+Bachelor,15,15_EMILY_M,Emily Maynard,3,R
+Bachelor,15,15_EMILY_M,Emily Maynard,5,R
+Bachelor,15,15_EMILY_M,Emily Maynard,10,W
+Bachelor,15,15_EMILY_M,Emily Maynard,2,D15
+Bachelor,15,15_EMILY_M,Emily Maynard,3,D1
+Bachelor,15,15_EMILY_M,Emily Maynard,5,D8
+Bachelor,15,15_EMILY_M,Emily Maynard,6,D6
+Bachelor,15,15_EMILY_M,Emily Maynard,7,D1
+Bachelor,15,15_EMILY_M,Emily Maynard,8,D1
+Bachelor,15,15_EMILY_M,Emily Maynard,9,D1
+Bachelor,15,15_EMILY_M,Emily Maynard,10,D1
+Bachelor,15,15_JACKIE_G,Jackie Gordon,2,R
+Bachelor,15,15_JACKIE_G,Jackie Gordon,6,E
+Bachelor,15,15_JACKIE_G,Jackie Gordon,2,D1
+Bachelor,15,15_JACKIE_G,Jackie Gordon,4,D9
+Bachelor,15,15_JACKIE_G,Jackie Gordon,5,D8
+Bachelor,15,15_JACKIE_G,Jackie Gordon,6,D6
+Bachelor,15,15_JESSICA_A,"Jessica ""J"" Adams",1,E
+Bachelor,15,15_JILL_R,Jill Ruskowski,1,E
+Bachelor,15,15_KELTIE_C,Keltie Colleen,2,E
+Bachelor,15,15_KELTIE_C,Keltie Colleen,2,D15
+Bachelor,15,15_KIMBERLY_C,Kimberly Coon,3,E
+Bachelor,15,15_KIMBERLY_C,Kimberly Coon,2,D15
+Bachelor,15,15_KIMBERLY_C,Kimberly Coon,3,D12
+Bachelor,15,15_LACEY_G,Lacey Garbelman,1,E
+Bachelor,15,15_LAUREN_M,Lauren Moore,1,E
+Bachelor,15,15_LINDSAY_H,Lindsay Hill,4,E
+Bachelor,15,15_LINDSAY_H,Lindsay Hill,3,D12
+Bachelor,15,15_LINDSAY_H,Lindsay Hill,4,D9
+Bachelor,15,15_LISA_M,Lisa Morrisey,5,E
+Bachelor,15,15_LISA_M,Lisa Morrisey,2,D15
+Bachelor,15,15_LISA_M,Lisa Morrisey,3,D12
+Bachelor,15,15_LISA_M,Lisa Morrisey,4,D9
+Bachelor,15,15_LISA_M,Lisa Morrisey,5,D8
+Bachelor,15,15_LISA_P,Lisa Pastrich,1,E
+Bachelor,15,15_MADISON_G,Madison Garton,3,EQ
+Bachelor,15,15_MADISON_G,Madison Garton,2,D15
+Bachelor,15,15_MARISSA_M,Marissa May,5,E
+Bachelor,15,15_MARISSA_M,Marissa May,2,D15
+Bachelor,15,15_MARISSA_M,Marissa May,3,D12
+Bachelor,15,15_MARISSA_M,Marissa May,5,D8
+Bachelor,15,15_MEGHAN_M,Meghan Merritt,4,E
+Bachelor,15,15_MEGHAN_M,Meghan Merritt,2,D15
+Bachelor,15,15_MEGHAN_M,Meghan Merritt,4,D9
+Bachelor,15,15_MELISSA_S,Melissa Schreiber,2,E
+Bachelor,15,15_MELISSA_S,Melissa Schreiber,2,D15
+Bachelor,15,15_MICHELLE_M,Michelle Money,2,R
+Bachelor,15,15_MICHELLE_M,Michelle Money,4,R
+Bachelor,15,15_MICHELLE_M,Michelle Money,7,E
+Bachelor,15,15_MICHELLE_M,Michelle Money,2,D15
+Bachelor,15,15_MICHELLE_M,Michelle Money,3,D12
+Bachelor,15,15_MICHELLE_M,Michelle Money,4,D1
+Bachelor,15,15_MICHELLE_M,Michelle Money,5,D8
+Bachelor,15,15_MICHELLE_M,Michelle Money,6,D6
+Bachelor,15,15_MICHELLE_M,Michelle Money,7,D3
+Bachelor,15,15_RAICHEL_G,Raichel Goodyear,2,E
+Bachelor,15,15_RAICHEL_G,Raichel Goodyear,2,D15
+Bachelor,15,15_REBECCA_X,Rebecca,1,E
+Bachelor,15,15_RENEE_H,Renee Halpin,1,E
+Bachelor,15,15_SARAH_L,Sarah Ledtke,1,E
+Bachelor,15,15_SARAH_P,Sarah Powell,3,E
+Bachelor,15,15_SARAH_P,Sarah Powell,3,D12
+Bachelor,15,15_SHAWNTEL_N,Shawntel Newton,3,R
+Bachelor,15,15_SHAWNTEL_N,Shawntel Newton,5,R
+Bachelor,15,15_SHAWNTEL_N,Shawntel Newton,8,E
+Bachelor,15,15_SHAWNTEL_N,Shawntel Newton,2,D15
+Bachelor,15,15_SHAWNTEL_N,Shawntel Newton,3,D12
+Bachelor,15,15_SHAWNTEL_N,Shawntel Newton,5,D1
+Bachelor,15,15_SHAWNTEL_N,Shawntel Newton,6,D6
+Bachelor,15,15_SHAWNTEL_N,Shawntel Newton,7,D1
+Bachelor,15,15_SHAWNTEL_N,Shawntel Newton,8,D1
+Bachelor,15,15_STACEY_Q,Stacey Quirpel,4,E
+Bachelor,15,15_STACEY_Q,Stacey Quirpel,2,D15
+Bachelor,15,15_STACEY_Q,Stacey Quirpel,3,D12
+Bachelor,15,15_STACEY_Q,Stacey Quirpel,4,D9
+Bachelor,16,16_AMBER_B,Amber Bacon,1,E
+Bachelor,16,16_AMBER_T,Amber Tierney,1,E
+Bachelor,16,16_ANNA_S,Anna Snowball,1,E
+Bachelor,16,16_BLAKELEY_J,Blakeley Jones,2,R
+Bachelor,16,16_BLAKELEY_J,Blakeley Jones,6,ED
+Bachelor,16,16_BLAKELEY_J,Blakeley Jones,2,D12
+Bachelor,16,16_BLAKELEY_J,Blakeley Jones,3,D11
+Bachelor,16,16_BLAKELEY_J,Blakeley Jones,4,D8
+Bachelor,16,16_BLAKELEY_J,Blakeley Jones,5,D9
+Bachelor,16,16_BLAKELEY_J,Blakeley Jones,6,D2
+Bachelor,16,16_BRITTNEY_S,Brittney Schreiner,3,EQ
+Bachelor,16,16_BRITTNEY_S,Brittney Schreiner,2,D12
+Bachelor,16,16_CASEY_S,Casey Shteamer,6,EF
+Bachelor,16,16_CASEY_S,Casey Shteamer,3,D11
+Bachelor,16,16_CASEY_S,Casey Shteamer,4,D8
+Bachelor,16,16_CASEY_S,Casey Shteamer,5,D9
+Bachelor,16,16_CASEY_S,Casey Shteamer,6,D6
+Bachelor,16,16_COURTNEY_R,Courtney Robertson,2,R
+Bachelor,16,16_COURTNEY_R,Courtney Robertson,4,R
+Bachelor,16,16_COURTNEY_R,Courtney Robertson,10,W
+Bachelor,16,16_COURTNEY_R,Courtney Robertson,2,D1
+Bachelor,16,16_COURTNEY_R,Courtney Robertson,4,D8
+Bachelor,16,16_COURTNEY_R,Courtney Robertson,5,D9
+Bachelor,16,16_COURTNEY_R,Courtney Robertson,6,D6
+Bachelor,16,16_COURTNEY_R,Courtney Robertson,7,D1
+Bachelor,16,16_COURTNEY_R,Courtney Robertson,8,D1
+Bachelor,16,16_COURTNEY_R,Courtney Robertson,9,D1
+Bachelor,16,16_COURTNEY_R,Courtney Robertson,10,D1
+Bachelor,16,16_DIANNA_M,Dianna Martinez,1,E
+Bachelor,16,16_ELYSE_M,Elyse Myers,5,ED
+Bachelor,16,16_ELYSE_M,Elyse Myers,3,D11
+Bachelor,16,16_ELYSE_M,Elyse Myers,5,D1
+Bachelor,16,16_EMILY_O,Emily O'Brien,3,R
+Bachelor,16,16_EMILY_O,Emily O'Brien,7,E
+Bachelor,16,16_EMILY_O,Emily O'Brien,2,D12
+Bachelor,16,16_EMILY_O,Emily O'Brien,3,D1
+Bachelor,16,16_EMILY_O,Emily O'Brien,5,D9
+Bachelor,16,16_EMILY_O,Emily O'Brien,6,D6
+Bachelor,16,16_EMILY_O,Emily O'Brien,7,D1
+Bachelor,16,16_ERIKA_U,Erika Uhlig,3,E
+Bachelor,16,16_ERIKA_U,Erika Uhlig,3,D11
+Bachelor,16,16_HOLLY_J,Holly Johnson,1,E
+Bachelor,16,16_JACLYN_S,Jaclyn Swartz,3,E
+Bachelor,16,16_JACLYN_S,Jaclyn Swartz,2,D12
+Bachelor,16,16_JACLYN_S,Jaclyn Swartz,3,D11
+Bachelor,16,16_JAMIE_O,Jamie Otis,6,E
+Bachelor,16,16_JAMIE_O,Jamie Otis,2,D12
+Bachelor,16,16_JAMIE_O,Jamie Otis,3,D11
+Bachelor,16,16_JAMIE_O,Jamie Otis,4,D8
+Bachelor,16,16_JAMIE_O,Jamie Otis,5,D9
+Bachelor,16,16_JAMIE_O,Jamie Otis,6,D6
+Bachelor,16,16_JENNA_B,Jenna Burke,2,E
+Bachelor,16,16_JENNA_B,Jenna Burke,2,D12
+Bachelor,16,16_JENNIFER_F,Jennifer Fritsch,4,R
+Bachelor,16,16_JENNIFER_F,Jennifer Fritsch,5,E
+Bachelor,16,16_JENNIFER_F,Jennifer Fritsch,2,D12
+Bachelor,16,16_JENNIFER_F,Jennifer Fritsch,4,D1
+Bachelor,16,16_JENNIFER_F,Jennifer Fritsch,5,D9
+Bachelor,16,16_KACIE_B,Kacie Boguskie,2,R
+Bachelor,16,16_KACIE_B,Kacie Boguskie,5,R
+Bachelor,16,16_KACIE_B,Kacie Boguskie,6,R
+Bachelor,16,16_KACIE_B,Kacie Boguskie,7,R
+Bachelor,16,16_KACIE_B,Kacie Boguskie,8,E
+Bachelor,16,16_KACIE_B,Kacie Boguskie,2,D1
+Bachelor,16,16_KACIE_B,Kacie Boguskie,3,D11
+Bachelor,16,16_KACIE_B,Kacie Boguskie,4,D8
+Bachelor,16,16_KACIE_B,Kacie Boguskie,5,D9
+Bachelor,16,16_KACIE_B,Kacie Boguskie,6,D1
+Bachelor,16,16_KACIE_B,Kacie Boguskie,7,D3
+Bachelor,16,16_KACIE_B,Kacie Boguskie,8,D1
+Bachelor,16,16_LINDZI_C,Lindzi Cox,1,R1
+Bachelor,16,16_LINDZI_C,Lindzi Cox,3,R
+Bachelor,16,16_LINDZI_C,Lindzi Cox,6,R
+Bachelor,16,16_LINDZI_C,Lindzi Cox,10,E
+Bachelor,16,16_LINDZI_C,Lindzi Cox,3,D1
+Bachelor,16,16_LINDZI_C,Lindzi Cox,4,D8
+Bachelor,16,16_LINDZI_C,Lindzi Cox,5,D9
+Bachelor,16,16_LINDZI_C,Lindzi Cox,6,D6
+Bachelor,16,16_LINDZI_C,Lindzi Cox,7,D1
+Bachelor,16,16_LINDZI_C,Lindzi Cox,8,D1
+Bachelor,16,16_LINDZI_C,Lindzi Cox,9,D1
+Bachelor,16,16_LINDZI_C,Lindzi Cox,10,D1
+Bachelor,16,16_LYNDSIE_J,Lyndsie James,1,E
+Bachelor,16,16_MONICA_S,Monica Spannbauer,4,E
+Bachelor,16,16_MONICA_S,Monica Spannbauer,2,D12
+Bachelor,16,16_MONICA_S,Monica Spannbauer,3,D11
+Bachelor,16,16_NICKI_S,Nicki Sterling,5,R
+Bachelor,16,16_NICKI_S,Nicki Sterling,9,E
+Bachelor,16,16_NICKI_S,Nicki Sterling,2,D12
+Bachelor,16,16_NICKI_S,Nicki Sterling,3,D11
+Bachelor,16,16_NICKI_S,Nicki Sterling,4,D8
+Bachelor,16,16_NICKI_S,Nicki Sterling,5,D1
+Bachelor,16,16_NICKI_S,Nicki Sterling,6,D6
+Bachelor,16,16_NICKI_S,Nicki Sterling,7,D3
+Bachelor,16,16_NICKI_S,Nicki Sterling,8,D1
+Bachelor,16,16_NICKI_S,Nicki Sterling,9,D1
+Bachelor,16,16_RACHEL_T,Rachel Truehart,3,R
+Bachelor,16,16_RACHEL_T,Rachel Truehart,4,R
+Bachelor,16,16_RACHEL_T,Rachel Truehart,6,R
+Bachelor,16,16_RACHEL_T,Rachel Truehart,7,E
+Bachelor,16,16_RACHEL_T,Rachel Truehart,2,D12
+Bachelor,16,16_RACHEL_T,Rachel Truehart,3,D11
+Bachelor,16,16_RACHEL_T,Rachel Truehart,4,D1
+Bachelor,16,16_RACHEL_T,Rachel Truehart,5,D9
+Bachelor,16,16_RACHEL_T,Rachel Truehart,6,D2
+Bachelor,16,16_RACHEL_T,Rachel Truehart,7,D3
+Bachelor,16,16_SAMANTHA_L,Samantha Levey,4,EQ
+Bachelor,16,16_SAMANTHA_L,Samantha Levey,2,D12
+Bachelor,16,16_SAMANTHA_L,Samantha Levey,3,D11
+Bachelor,16,16_SAMANTHA_L,Samantha Levey,4,D8
+Bachelor,16,16_SHAWN_R,Shawn Reynolds,2,E
+Bachelor,16,16_SHAWN_R,Shawn Reynolds,2,D12
+Bachelor,16,16_SHIRA_A,Shira Astrof,1,E
+Bachelor,17,17_AMANDA_M,Amanda Meyer,4,E
+Bachelor,17,17_AMANDA_M,Amanda Meyer,2,D13
+Bachelor,17,17_AMANDA_M,Amanda Meyer,3,D12
+Bachelor,17,17_AMANDA_M,Amanda Meyer,4,D8
+Bachelor,17,17_ASHLEE_F,AshLee Frazier,1,R1
+Bachelor,17,17_ASHLEE_F,AshLee Frazier,3,R
+Bachelor,17,17_ASHLEE_F,AshLee Frazier,9,E
+Bachelor,17,17_ASHLEE_F,AshLee Frazier,3,D1
+Bachelor,17,17_ASHLEE_F,AshLee Frazier,4,D8
+Bachelor,17,17_ASHLEE_F,AshLee Frazier,5,D8
+Bachelor,17,17_ASHLEE_F,AshLee Frazier,6,D7
+Bachelor,17,17_ASHLEE_F,AshLee Frazier,7,D1
+Bachelor,17,17_ASHLEE_F,AshLee Frazier,8,D1
+Bachelor,17,17_ASHLEE_F,AshLee Frazier,9,D1
+Bachelor,17,17_ASHLEY_H,Ashley Harper,1,E
+Bachelor,17,17_ASHLEY_P,Ashley Palenkas,1,E
+Bachelor,17,17_BROOKE_B,Brooke Burchette,1,R1
+Bachelor,17,17_BROOKE_B,Brooke Burchette,2,E
+Bachelor,17,17_BROOKE_B,Brooke Burchette,2,D13
+Bachelor,17,17_CATHERINE_G,Catherine Giudici,1,R1
+Bachelor,17,17_CATHERINE_G,Catherine Giudici,6,R
+Bachelor,17,17_CATHERINE_G,Catherine Giudici,10,W
+Bachelor,17,17_CATHERINE_G,Catherine Giudici,2,D13
+Bachelor,17,17_CATHERINE_G,Catherine Giudici,3,D12
+Bachelor,17,17_CATHERINE_G,Catherine Giudici,4,D8
+Bachelor,17,17_CATHERINE_G,Catherine Giudici,5,D8
+Bachelor,17,17_CATHERINE_G,Catherine Giudici,6,D1
+Bachelor,17,17_CATHERINE_G,Catherine Giudici,7,D3
+Bachelor,17,17_CATHERINE_G,Catherine Giudici,8,D1
+Bachelor,17,17_CATHERINE_G,Catherine Giudici,9,D1
+Bachelor,17,17_CATHERINE_G,Catherine Giudici,10,D1
+Bachelor,17,17_DANIELLA_M,Daniella McBride,5,R
+Bachelor,17,17_DANIELLA_M,Daniella McBride,6,E
+Bachelor,17,17_DANIELLA_M,Daniella McBride,2,D13
+Bachelor,17,17_DANIELLA_M,Daniella McBride,3,D12
+Bachelor,17,17_DANIELLA_M,Daniella McBride,5,D8
+Bachelor,17,17_DANIELLA_M,Daniella McBride,6,D7
+Bachelor,17,17_DESIREE_H,Desiree Hartsock,1,R1
+Bachelor,17,17_DESIREE_H,Desiree Hartsock,2,R
+Bachelor,17,17_DESIREE_H,Desiree Hartsock,6,R
+Bachelor,17,17_DESIREE_H,Desiree Hartsock,8,E
+Bachelor,17,17_DESIREE_H,Desiree Hartsock,2,D1
+Bachelor,17,17_DESIREE_H,Desiree Hartsock,3,D12
+Bachelor,17,17_DESIREE_H,Desiree Hartsock,5,D8
+Bachelor,17,17_DESIREE_H,Desiree Hartsock,6,D1
+Bachelor,17,17_DESIREE_H,Desiree Hartsock,7,D3
+Bachelor,17,17_DESIREE_H,Desiree Hartsock,8,D1
+Bachelor,17,17_DIANA_W,Diana Weeks Willardson,1,R1
+Bachelor,17,17_DIANA_W,Diana Weeks Willardson,2,E
+Bachelor,17,17_DIANA_W,Diana Weeks Willardson,2,D13
+Bachelor,17,17_JACKIE_P,Jackie Parr,1,R1
+Bachelor,17,17_JACKIE_P,Jackie Parr,5,ED
+Bachelor,17,17_JACKIE_P,Jackie Parr,3,D12
+Bachelor,17,17_JACKIE_P,Jackie Parr,4,D8
+Bachelor,17,17_JACKIE_P,Jackie Parr,5,D2
+Bachelor,17,17_KACIE_B,Kacie Boguskie,2,R
+Bachelor,17,17_KACIE_B,Kacie Boguskie,3,E
+Bachelor,17,17_KACIE_B,Kacie Boguskie,2,D13
+Bachelor,17,17_KACIE_B,Kacie Boguskie,3,D12
+Bachelor,17,17_KATIE_L,Katie Levans,1,R1
+Bachelor,17,17_KATIE_L,Katie Levans,2,EQ
+Bachelor,17,17_KATIE_L,Katie Levans,2,D13
+Bachelor,17,17_KELLY_D,Kelly Dutton,1,E
+Bachelor,17,17_KERIANN_M,Keriann Miranda,1,E
+Bachelor,17,17_KRISTY_K,Kristy Kaminski,3,E
+Bachelor,17,17_KRISTY_K,Kristy Kaminski,2,D13
+Bachelor,17,17_KRISTY_K,Kristy Kaminski,3,D12
+Bachelor,17,17_LACEY_L,Lacey Latka,1,E
+Bachelor,17,17_LAUREN_M,Lauren Marchetti,1,E
+Bachelor,17,17_LESLEY_M,Lesley Murphy,3,R
+Bachelor,17,17_LESLEY_M,Lesley Murphy,6,R
+Bachelor,17,17_LESLEY_M,Lesley Murphy,7,E
+Bachelor,17,17_LESLEY_M,Lesley Murphy,2,D13
+Bachelor,17,17_LESLEY_M,Lesley Murphy,3,D1
+Bachelor,17,17_LESLEY_M,Lesley Murphy,5,D8
+Bachelor,17,17_LESLEY_M,Lesley Murphy,6,D7
+Bachelor,17,17_LESLEY_M,Lesley Murphy,7,D1
+Bachelor,17,17_LESLIE_H,Leslie Hughes,1,R1
+Bachelor,17,17_LESLIE_H,Leslie Hughes,4,ED
+Bachelor,17,17_LESLIE_H,Leslie Hughes,3,D12
+Bachelor,17,17_LESLIE_H,Leslie Hughes,4,D1
+Bachelor,17,17_LINDSAY_Y,Lindsay Yenter,3,R
+Bachelor,17,17_LINDSAY_Y,Lindsay Yenter,5,R
+Bachelor,17,17_LINDSAY_Y,Lindsay Yenter,7,R
+Bachelor,17,17_LINDSAY_Y,Lindsay Yenter,10,E
+Bachelor,17,17_LINDSAY_Y,Lindsay Yenter,3,D12
+Bachelor,17,17_LINDSAY_Y,Lindsay Yenter,4,D8
+Bachelor,17,17_LINDSAY_Y,Lindsay Yenter,5,D1
+Bachelor,17,17_LINDSAY_Y,Lindsay Yenter,6,D7
+Bachelor,17,17_LINDSAY_Y,Lindsay Yenter,7,D3
+Bachelor,17,17_LINDSAY_Y,Lindsay Yenter,8,D1
+Bachelor,17,17_LINDSAY_Y,Lindsay Yenter,9,D1
+Bachelor,17,17_LINDSAY_Y,Lindsay Yenter,10,D1
+Bachelor,17,17_PAIGE_V,Paige Vigil,1,E
+Bachelor,17,17_ROBYN_H,Robyn Howard,1,R1
+Bachelor,17,17_ROBYN_H,Robyn Howard,5,E
+Bachelor,17,17_ROBYN_H,Robyn Howard,2,D13
+Bachelor,17,17_ROBYN_H,Robyn Howard,3,D12
+Bachelor,17,17_ROBYN_H,Robyn Howard,4,D8
+Bachelor,17,17_ROBYN_H,Robyn Howard,5,D8
+Bachelor,17,17_SARAH_H,Sarah Herron,1,R1
+Bachelor,17,17_SARAH_H,Sarah Herron,2,R
+Bachelor,17,17_SARAH_H,Sarah Herron,6,EU
+Bachelor,17,17_SARAH_H,Sarah Herron,2,D1
+Bachelor,17,17_SARAH_H,Sarah Herron,4,D8
+Bachelor,17,17_SARAH_H,Sarah Herron,5,D8
+Bachelor,17,17_SARAH_H,Sarah Herron,6,D7
+Bachelor,17,17_SELMA_A,Selma Alameri,1,R1
+Bachelor,17,17_SELMA_A,Selma Alameri,4,R
+Bachelor,17,17_SELMA_A,Selma Alameri,6,E
+Bachelor,17,17_SELMA_A,Selma Alameri,2,D13
+Bachelor,17,17_SELMA_A,Selma Alameri,4,D1
+Bachelor,17,17_SELMA_A,Selma Alameri,5,D8
+Bachelor,17,17_SELMA_A,Selma Alameri,6,D7
+Bachelor,17,17_TARYN_D,Taryn Renee Daniels,3,E
+Bachelor,17,17_TARYN_D,Taryn Renee Daniels,2,D13
+Bachelor,17,17_TARYN_D,Taryn Renee Daniels,3,D12
+Bachelor,17,17_TIERRA_L,Tierra LiCausi,1,R1
+Bachelor,17,17_TIERRA_L,Tierra LiCausi,4,R
+Bachelor,17,17_TIERRA_L,Tierra LiCausi,5,R
+Bachelor,17,17_TIERRA_L,Tierra LiCausi,7,EU
+Bachelor,17,17_TIERRA_L,Tierra LiCausi,2,D13
+Bachelor,17,17_TIERRA_L,Tierra LiCausi,3,D12
+Bachelor,17,17_TIERRA_L,Tierra LiCausi,4,D8
+Bachelor,17,17_TIERRA_L,Tierra LiCausi,5,D2
+Bachelor,17,17_TIERRA_L,Tierra LiCausi,6,D7
+Bachelor,18,18_ALEXIS_M,Alexis Morgado,1,E
+Bachelor,18,18_ALLI_R,Alli Restko,5,E
+Bachelor,18,18_ALLI_R,Alli Restko,2,D13
+Bachelor,18,18_ALLI_R,Alli Restko,3,D10
+Bachelor,18,18_ALLI_R,Alli Restko,4,D6
+Bachelor,18,18_ALLI_R,Alli Restko,5,D9
+Bachelor,18,18_AMY_J,Amy Jokinen,1,E
+Bachelor,18,18_AMY_L,Amy Long,2,E
+Bachelor,18,18_ANDI_D,Andi Dorfman,4,R
+Bachelor,18,18_ANDI_D,Andi Dorfman,6,R
+Bachelor,18,18_ANDI_D,Andi Dorfman,7,R
+Bachelor,18,18_ANDI_D,Andi Dorfman,9,EQ
+Bachelor,18,18_ANDI_D,Andi Dorfman,2,D13
+Bachelor,18,18_ANDI_D,Andi Dorfman,3,D10
+Bachelor,18,18_ANDI_D,Andi Dorfman,4,D6
+Bachelor,18,18_ANDI_D,Andi Dorfman,5,D9
+Bachelor,18,18_ANDI_D,Andi Dorfman,6,D1
+Bachelor,18,18_ANDI_D,Andi Dorfman,7,D4
+Bachelor,18,18_ANDI_D,Andi Dorfman,8,D1
+Bachelor,18,18_ANDI_D,Andi Dorfman,9,D1
+Bachelor,18,18_ASHLEY_P,Ashley Poe,1,E
+Bachelor,18,18_CASSANDRA_F,Cassandra Ferguson,3,R
+Bachelor,18,18_CASSANDRA_F,Cassandra Ferguson,6,ED
+Bachelor,18,18_CASSANDRA_F,Cassandra Ferguson,2,D13
+Bachelor,18,18_CASSANDRA_F,Cassandra Ferguson,3,D1
+Bachelor,18,18_CASSANDRA_F,Cassandra Ferguson,4,D6
+Bachelor,18,18_CASSANDRA_F,Cassandra Ferguson,5,D9
+Bachelor,18,18_CASSANDRA_F,Cassandra Ferguson,6,D6
+Bachelor,18,18_CHANTEL_F,Chantel Forrest,2,E
+Bachelor,18,18_CHANTEL_F,Chantel Forrest,2,D13
+Bachelor,18,18_CHELSIE_W,Chelsie Webster,3,R
+Bachelor,18,18_CHELSIE_W,Chelsie Webster,7,E
+Bachelor,18,18_CHELSIE_W,Chelsie Webster,2,D13
+Bachelor,18,18_CHELSIE_W,Chelsie Webster,3,D1
+Bachelor,18,18_CHELSIE_W,Chelsie Webster,4,D6
+Bachelor,18,18_CHELSIE_W,Chelsie Webster,5,D9
+Bachelor,18,18_CHELSIE_W,Chelsie Webster,6,D6
+Bachelor,18,18_CHELSIE_W,Chelsie Webster,7,D4
+Bachelor,18,18_CHRISTINE_L,Christine Llano,1,E
+Bachelor,18,18_CHRISTY_H,Christy Hansen,3,E
+Bachelor,18,18_CHRISTY_H,Christy Hansen,2,D13
+Bachelor,18,18_CHRISTY_H,Christy Hansen,3,D10
+Bachelor,18,18_CLARE_C,Clare Crawley,2,R
+Bachelor,18,18_CLARE_C,Clare Crawley,5,R
+Bachelor,18,18_CLARE_C,Clare Crawley,6,R
+Bachelor,18,18_CLARE_C,Clare Crawley,10,E
+Bachelor,18,18_CLARE_C,Clare Crawley,2,D1
+Bachelor,18,18_CLARE_C,Clare Crawley,4,D6
+Bachelor,18,18_CLARE_C,Clare Crawley,5,D9
+Bachelor,18,18_CLARE_C,Clare Crawley,6,D1
+Bachelor,18,18_CLARE_C,Clare Crawley,7,D4
+Bachelor,18,18_CLARE_C,Clare Crawley,8,D1
+Bachelor,18,18_CLARE_C,Clare Crawley,9,D1
+Bachelor,18,18_CLARE_C,Clare Crawley,10,D1
+Bachelor,18,18_DANIELLE_R,Danielle Ronco,5,E
+Bachelor,18,18_DANIELLE_R,Danielle Ronco,3,D10
+Bachelor,18,18_DANIELLE_R,Danielle Ronco,4,D6
+Bachelor,18,18_DANIELLE_R,Danielle Ronco,5,D9
+Bachelor,18,18_ELISE_M,Elise Mosca,4,E
+Bachelor,18,18_ELISE_M,Elise Mosca,2,D13
+Bachelor,18,18_ELISE_M,Elise Mosca,4,D6
+Bachelor,18,18_KAT_H,Kat Hurd,2,R
+Bachelor,18,18_KAT_H,Kat Hurd,6,E
+Bachelor,18,18_KAT_H,Kat Hurd,2,D1
+Bachelor,18,18_KAT_H,Kat Hurd,4,D6
+Bachelor,18,18_KAT_H,Kat Hurd,5,D9
+Bachelor,18,18_KAT_H,Kat Hurd,6,D6
+Bachelor,18,18_KELLY_T,Kelly Travis,2,R
+Bachelor,18,18_KELLY_T,Kelly Travis,5,E
+Bachelor,18,18_KELLY_T,Kelly Travis,2,D13
+Bachelor,18,18_KELLY_T,Kelly Travis,3,D10
+Bachelor,18,18_KELLY_T,Kelly Travis,4,D6
+Bachelor,18,18_KELLY_T,Kelly Travis,5,D9
+Bachelor,18,18_KYLIE_L,Kylie Lewis,1,E
+Bachelor,18,18_LACY_F,Lacy Faddoul,1,E
+Bachelor,18,18_LAUREN_H,Lauren Higginson,1,E
+Bachelor,18,18_LAUREN_S,Lauren Solomon,4,E
+Bachelor,18,18_LAUREN_S,Lauren Solomon,2,D13
+Bachelor,18,18_LAUREN_S,Lauren Solomon,3,D10
+Bachelor,18,18_LAUREN_S,Lauren Solomon,4,D6
+Bachelor,18,18_LUCY_A,"Lucinda ""Lucy"" Aragon",3,E
+Bachelor,18,18_LUCY_A,"Lucinda ""Lucy"" Aragon",2,D13
+Bachelor,18,18_LUCY_A,"Lucinda ""Lucy"" Aragon",3,D10
+Bachelor,18,18_MAGGIE_G,Maggie Gantt,1,E
+Bachelor,18,18_NIKKI_F,Nikki Ferrell,3,R
+Bachelor,18,18_NIKKI_F,Nikki Ferrell,4,R
+Bachelor,18,18_NIKKI_F,Nikki Ferrell,5,R
+Bachelor,18,18_NIKKI_F,Nikki Ferrell,10,W
+Bachelor,18,18_NIKKI_F,Nikki Ferrell,2,D13
+Bachelor,18,18_NIKKI_F,Nikki Ferrell,3,D10
+Bachelor,18,18_NIKKI_F,Nikki Ferrell,4,D6
+Bachelor,18,18_NIKKI_F,Nikki Ferrell,5,D1
+Bachelor,18,18_NIKKI_F,Nikki Ferrell,6,D6
+Bachelor,18,18_NIKKI_F,Nikki Ferrell,7,D1
+Bachelor,18,18_NIKKI_F,Nikki Ferrell,8,D1
+Bachelor,18,18_NIKKI_F,Nikki Ferrell,9,D1
+Bachelor,18,18_NIKKI_F,Nikki Ferrell,10,D1
+Bachelor,18,18_RENEE_O,Renee Oteri,5,R
+Bachelor,18,18_RENEE_O,Renee Oteri,8,E
+Bachelor,18,18_RENEE_O,Renee Oteri,2,D13
+Bachelor,18,18_RENEE_O,Renee Oteri,3,D10
+Bachelor,18,18_RENEE_O,Renee Oteri,4,D6
+Bachelor,18,18_RENEE_O,Renee Oteri,5,D1
+Bachelor,18,18_RENEE_O,Renee Oteri,6,D6
+Bachelor,18,18_RENEE_O,Renee Oteri,7,D4
+Bachelor,18,18_RENEE_O,Renee Oteri,8,D1
+Bachelor,18,18_SHARLEEN_J,Sharleen Joynt,1,R1
+Bachelor,18,18_SHARLEEN_J,Sharleen Joynt,4,R
+Bachelor,18,18_SHARLEEN_J,Sharleen Joynt,6,R
+Bachelor,18,18_SHARLEEN_J,Sharleen Joynt,7,EQ
+Bachelor,18,18_SHARLEEN_J,Sharleen Joynt,3,D10
+Bachelor,18,18_SHARLEEN_J,Sharleen Joynt,4,D1
+Bachelor,18,18_SHARLEEN_J,Sharleen Joynt,5,D9
+Bachelor,18,18_SHARLEEN_J,Sharleen Joynt,6,D6
+Bachelor,18,18_SHARLEEN_J,Sharleen Joynt,7,D1
+Bachelor,18,18_VALERIE_E,Valerie Eredia,1,E
+Bachelor,18,18_VICTORIA_L,Victoria Lima,2,EU
+Bachelor,18,18_VICTORIA_L,Victoria Lima,2,D13
+Bachelor,19,19_ALISSA_G,Alissa Giambrone,2,E
+Bachelor,19,19_ALISSA_G,Alissa Giambrone,2,D11
+Bachelor,19,19_AMANDA_G,Amanda Goerlitz,1,E
+Bachelor,19,19_AMBER_J,Amber James,3,E
+Bachelor,19,19_AMBER_J,Amber James,2,D11
+Bachelor,19,19_AMBER_J,Amber James,3,D12
+Bachelor,19,19_ASHLEY_I,Ashley Iaconetti,6,ED
+Bachelor,19,19_ASHLEY_I,Ashley Iaconetti,2,D6
+Bachelor,19,19_ASHLEY_I,Ashley Iaconetti,4,D8
+Bachelor,19,19_ASHLEY_I,Ashley Iaconetti,5,D9
+Bachelor,19,19_ASHLEY_I,Ashley Iaconetti,6,D2
+Bachelor,19,19_ASHLEY_S,Ashley Salter,4,E
+Bachelor,19,19_ASHLEY_S,Ashley Salter,2,D11
+Bachelor,19,19_ASHLEY_S,Ashley Salter,3,D12
+Bachelor,19,19_ASHLEY_S,Ashley Salter,4,D8
+Bachelor,19,19_BECCA_T,Becca Tilley,3,R
+Bachelor,19,19_BECCA_T,Becca Tilley,6,R
+Bachelor,19,19_BECCA_T,Becca Tilley,10,E
+Bachelor,19,19_BECCA_T,Becca Tilley,2,D11
+Bachelor,19,19_BECCA_T,Becca Tilley,3,D12
+Bachelor,19,19_BECCA_T,Becca Tilley,4,D6
+Bachelor,19,19_BECCA_T,Becca Tilley,5,D9
+Bachelor,19,19_BECCA_T,Becca Tilley,6,D1
+Bachelor,19,19_BECCA_T,Becca Tilley,7,D1
+Bachelor,19,19_BECCA_T,Becca Tilley,8,D1
+Bachelor,19,19_BECCA_T,Becca Tilley,9,D1
+Bachelor,19,19_BECCA_T,Becca Tilley,10,D1
+Bachelor,19,19_BO_S,Bo Stanley,1,E
+Bachelor,19,19_BRITT_N,Britt Nilsson,1,R1
+Bachelor,19,19_BRITT_N,Britt Nilsson,5,R
+Bachelor,19,19_BRITT_N,Britt Nilsson,6,R
+Bachelor,19,19_BRITT_N,Britt Nilsson,7,E
+Bachelor,19,19_BRITT_N,Britt Nilsson,2,D11
+Bachelor,19,19_BRITT_N,Britt Nilsson,3,D12
+Bachelor,19,19_BRITT_N,Britt Nilsson,4,D6
+Bachelor,19,19_BRITT_N,Britt Nilsson,5,D1
+Bachelor,19,19_BRITT_N,Britt Nilsson,6,D6
+Bachelor,19,19_BRITT_N,Britt Nilsson,7,D3
+Bachelor,19,19_BRITTANY_F,Brittany Fetkin,1,E
+Bachelor,19,19_CARLY_W,Carly Waddell,5,R
+Bachelor,19,19_CARLY_W,Carly Waddell,7,E
+Bachelor,19,19_CARLY_W,Carly Waddell,3,D12
+Bachelor,19,19_CARLY_W,Carly Waddell,4,D6
+Bachelor,19,19_CARLY_W,Carly Waddell,5,D1
+Bachelor,19,19_CARLY_W,Carly Waddell,6,D6
+Bachelor,19,19_CARLY_W,Carly Waddell,7,D3
+Bachelor,19,19_JADE_R,Jade Roper,4,R
+Bachelor,19,19_JADE_R,Jade Roper,8,E
+Bachelor,19,19_JADE_R,Jade Roper,2,D6
+Bachelor,19,19_JADE_R,Jade Roper,4,D1
+Bachelor,19,19_JADE_R,Jade Roper,5,D9
+Bachelor,19,19_JADE_R,Jade Roper,6,D6
+Bachelor,19,19_JADE_R,Jade Roper,7,D1
+Bachelor,19,19_JADE_R,Jade Roper,8,D1
+Bachelor,19,19_JILLIAN_A,Jillian Anderson,4,ED
+Bachelor,19,19_JILLIAN_A,Jillian Anderson,2,D11
+Bachelor,19,19_JILLIAN_A,Jillian Anderson,3,D12
+Bachelor,19,19_JILLIAN_A,Jillian Anderson,4,D6
+Bachelor,19,19_JORDAN_B,Jordan Branch,2,E
+Bachelor,19,19_JUELIA_K,Juelia Kinney,4,E
+Bachelor,19,19_JUELIA_K,Juelia Kinney,2,D11
+Bachelor,19,19_JUELIA_K,Juelia Kinney,3,D12
+Bachelor,19,19_JUELIA_K,Juelia Kinney,4,D8
+Bachelor,19,19_KAITLYN_B,Kaitlyn Bristowe,2,R
+Bachelor,19,19_KAITLYN_B,Kaitlyn Bristowe,3,R
+Bachelor,19,19_KAITLYN_B,Kaitlyn Bristowe,4,R
+Bachelor,19,19_KAITLYN_B,Kaitlyn Bristowe,7,R
+Bachelor,19,19_KAITLYN_B,Kaitlyn Bristowe,9,E
+Bachelor,19,19_KAITLYN_B,Kaitlyn Bristowe,2,D11
+Bachelor,19,19_KAITLYN_B,Kaitlyn Bristowe,3,D1
+Bachelor,19,19_KAITLYN_B,Kaitlyn Bristowe,4,D8
+Bachelor,19,19_KAITLYN_B,Kaitlyn Bristowe,5,D9
+Bachelor,19,19_KAITLYN_B,Kaitlyn Bristowe,6,D6
+Bachelor,19,19_KAITLYN_B,Kaitlyn Bristowe,7,D3
+Bachelor,19,19_KAITLYN_B,Kaitlyn Bristowe,8,D1
+Bachelor,19,19_KAITLYN_B,Kaitlyn Bristowe,9,D1
+Bachelor,19,19_KARA_W,Kara Wilson,1,E
+Bachelor,19,19_KELSEY_P,Kelsey Poe,6,ED
+Bachelor,19,19_KELSEY_P,Kelsey Poe,2,D11
+Bachelor,19,19_KELSEY_P,Kelsey Poe,3,D12
+Bachelor,19,19_KELSEY_P,Kelsey Poe,4,D8
+Bachelor,19,19_KELSEY_P,Kelsey Poe,5,D9
+Bachelor,19,19_KELSEY_P,Kelsey Poe,6,D2
+Bachelor,19,19_KIMBERLY_S,Kimberly Sherbach,1,E
+Bachelor,19,19_KIMBERLY_S,Kimberly Sherbach,2,D6
+Bachelor,19,19_MACKENZIE_D,Mackenzie Deonigi,2,R
+Bachelor,19,19_MACKENZIE_D,Mackenzie Deonigi,5,E
+Bachelor,19,19_MACKENZIE_D,Mackenzie Deonigi,2,D6
+Bachelor,19,19_MACKENZIE_D,Mackenzie Deonigi,3,D12
+Bachelor,19,19_MACKENZIE_D,Mackenzie Deonigi,4,D8
+Bachelor,19,19_MACKENZIE_D,Mackenzie Deonigi,5,D9
+Bachelor,19,19_MEGAN_B,Megan Bell,2,R
+Bachelor,19,19_MEGAN_B,Megan Bell,6,EQ
+Bachelor,19,19_MEGAN_B,Megan Bell,2,D1
+Bachelor,19,19_MEGAN_B,Megan Bell,4,D8
+Bachelor,19,19_MEGAN_B,Megan Bell,5,D9
+Bachelor,19,19_MEGAN_B,Megan Bell,6,D6
+Bachelor,19,19_MICHELLE_D,Michelle Davis,1,E
+Bachelor,19,19_NICOLE_M,Nicole Meacham,1,E
+Bachelor,19,19_NIKKI_D,Nikki Delventhal,4,E
+Bachelor,19,19_NIKKI_D,Nikki Delventhal,3,D12
+Bachelor,19,19_NIKKI_D,Nikki Delventhal,4,D6
+Bachelor,19,19_REEGAN_C,Reegan Cornwell,1,E
+Bachelor,19,19_SAMANTHA_S,Samantha Steffen,5,E
+Bachelor,19,19_SAMANTHA_S,Samantha Steffen,3,D12
+Bachelor,19,19_SAMANTHA_S,Samantha Steffen,4,D8
+Bachelor,19,19_SAMANTHA_S,Samantha Steffen,5,D9
+Bachelor,19,19_TANDRA_S,Tandra Steiner,2,E
+Bachelor,19,19_TANDRA_S,Tandra Steiner,2,D6
+Bachelor,19,19_TARA_E,Tara Eddings,2,E
+Bachelor,19,19_TARA_E,Tara Eddings,2,D6
+Bachelor,19,19_TRACY_D,Tracy Darakis,3,E
+Bachelor,19,19_TRACY_D,Tracy Darakis,2,D11
+Bachelor,19,19_TRACY_D,Tracy Darakis,3,D12
+Bachelor,19,19_TRINA_S,Trina Scherenberg,3,E
+Bachelor,19,19_TRINA_S,Trina Scherenberg,2,D11
+Bachelor,19,19_WHITNEY_B,Whitney Bischoff,3,R
+Bachelor,19,19_WHITNEY_B,Whitney Bischoff,5,R
+Bachelor,19,19_WHITNEY_B,Whitney Bischoff,10,W
+Bachelor,19,19_WHITNEY_B,Whitney Bischoff,3,D1
+Bachelor,19,19_WHITNEY_B,Whitney Bischoff,4,D6
+Bachelor,19,19_WHITNEY_B,Whitney Bischoff,5,D9
+Bachelor,19,19_WHITNEY_B,Whitney Bischoff,6,D6
+Bachelor,19,19_WHITNEY_B,Whitney Bischoff,7,D1
+Bachelor,19,19_WHITNEY_B,Whitney Bischoff,8,D1
+Bachelor,19,19_WHITNEY_B,Whitney Bischoff,9,D1
+Bachelor,19,19_WHITNEY_B,Whitney Bischoff,10,D1
+Bachelor,20,20_AMANDA_S,Amanda Stanton,5,R
+Bachelor,20,20_AMANDA_S,Amanda Stanton,6,R
+Bachelor,20,20_AMANDA_S,Amanda Stanton,7,R
+Bachelor,20,20_AMANDA_S,Amanda Stanton,8,E
+Bachelor,20,20_AMANDA_S,Amanda Stanton,2,D6
+Bachelor,20,20_AMANDA_S,Amanda Stanton,3,D12
+Bachelor,20,20_AMANDA_S,Amanda Stanton,4,D12
+Bachelor,20,20_AMANDA_S,Amanda Stanton,5,D1
+Bachelor,20,20_AMANDA_S,Amanda Stanton,6,D7
+Bachelor,20,20_AMANDA_S,Amanda Stanton,7,D3
+Bachelor,20,20_AMANDA_S,Amanda Stanton,8,D1
+Bachelor,20,20_AMBER_J,Amber James,3,R
+Bachelor,20,20_AMBER_J,Amber James,4,E
+Bachelor,20,20_AMBER_J,Amber James,2,D10
+Bachelor,20,20_AMBER_J,Amber James,3,D12
+Bachelor,20,20_AMBER_J,Amber James,4,D12
+Bachelor,20,20_BECCA_T,Becca Tilley,4,R
+Bachelor,20,20_BECCA_T,Becca Tilley,7,E
+Bachelor,20,20_BECCA_T,Becca Tilley,2,D10
+Bachelor,20,20_BECCA_T,Becca Tilley,4,D1
+Bachelor,20,20_BECCA_T,Becca Tilley,5,D9
+Bachelor,20,20_BECCA_T,Becca Tilley,6,D7
+Bachelor,20,20_BECCA_T,Becca Tilley,7,D3
+Bachelor,20,20_BREANNE_R,Breanne Rice,1,E
+Bachelor,20,20_CAILA_Q,Caila Quinn,2,R
+Bachelor,20,20_CAILA_Q,Caila Quinn,6,R
+Bachelor,20,20_CAILA_Q,Caila Quinn,9,EU
+Bachelor,20,20_CAILA_Q,Caila Quinn,2,D1
+Bachelor,20,20_CAILA_Q,Caila Quinn,4,D12
+Bachelor,20,20_CAILA_Q,Caila Quinn,5,D9
+Bachelor,20,20_CAILA_Q,Caila Quinn,6,D1
+Bachelor,20,20_CAILA_Q,Caila Quinn,7,D3
+Bachelor,20,20_CAILA_Q,Caila Quinn,8,D1
+Bachelor,20,20_CAILA_Q,Caila Quinn,9,D1
+Bachelor,20,20_EMILY_F,Emily Ferguson,6,R
+Bachelor,20,20_EMILY_F,Emily Ferguson,7,ED
+Bachelor,20,20_EMILY_F,Emily Ferguson,2,D6
+Bachelor,20,20_EMILY_F,Emily Ferguson,3,D12
+Bachelor,20,20_EMILY_F,Emily Ferguson,4,D12
+Bachelor,20,20_EMILY_F,Emily Ferguson,5,D9
+Bachelor,20,20_EMILY_F,Emily Ferguson,6,D2
+Bachelor,20,20_EMILY_F,Emily Ferguson,7,D1
+Bachelor,20,20_HAYLEY_F,Haley Ferguson,4,ED
+Bachelor,20,20_HAYLEY_F,Haley Ferguson,2,D6
+Bachelor,20,20_HAYLEY_F,Haley Ferguson,3,D12
+Bachelor,20,20_HAYLEY_F,Haley Ferguson,4,D12
+Bachelor,20,20_IZZY_G,"Isabel ""Izzy"" Goodkind",1,E
+Bachelor,20,20_JACKIE_D,"Jacqueline ""Jackie"" Dion",2,E
+Bachelor,20,20_JACKIE_D,"Jacqueline ""Jackie"" Dion",2,D10
+Bachelor,20,20_JAMI_L,Jami Letain,3,E
+Bachelor,20,20_JAMI_L,Jami Letain,3,D12
+Bachelor,20,20_JENNIFER_S,Jennifer Saviano,5,E
+Bachelor,20,20_JENNIFER_S,Jennifer Saviano,2,D10
+Bachelor,20,20_JENNIFER_S,Jennifer Saviano,3,D12
+Bachelor,20,20_JENNIFER_S,Jennifer Saviano,4,D12
+Bachelor,20,20_JENNIFER_S,Jennifer Saviano,5,D9
+Bachelor,20,20_JESSICA_M,Jessica Moser,1,E
+Bachelor,20,20_JOJO_F,"Joelle ""JoJo"" Fletcher",2,R
+Bachelor,20,20_JOJO_F,"Joelle ""JoJo"" Fletcher",4,R
+Bachelor,20,20_JOJO_F,"Joelle ""JoJo"" Fletcher",10,E
+Bachelor,20,20_JOJO_F,"Joelle ""JoJo"" Fletcher",2,D10
+Bachelor,20,20_JOJO_F,"Joelle ""JoJo"" Fletcher",4,D1
+Bachelor,20,20_JOJO_F,"Joelle ""JoJo"" Fletcher",5,D9
+Bachelor,20,20_JOJO_F,"Joelle ""JoJo"" Fletcher",6,D7
+Bachelor,20,20_JOJO_F,"Joelle ""JoJo"" Fletcher",7,D1
+Bachelor,20,20_JOJO_F,"Joelle ""JoJo"" Fletcher",8,D1
+Bachelor,20,20_JOJO_F,"Joelle ""JoJo"" Fletcher",9,D1
+Bachelor,20,20_JOJO_F,"Joelle ""JoJo"" Fletcher",10,D1
+Bachelor,20,20_JUBILEE_S,Jubilee Sharpe,3,R
+Bachelor,20,20_JUBILEE_S,Jubilee Sharpe,5,ED
+Bachelor,20,20_JUBILEE_S,Jubilee Sharpe,2,D10
+Bachelor,20,20_JUBILEE_S,Jubilee Sharpe,3,D1
+Bachelor,20,20_JUBILEE_S,Jubilee Sharpe,4,D12
+Bachelor,20,20_JUBILEE_S,Jubilee Sharpe,5,D9
+Bachelor,20,20_LACE_M,Lace Morris,3,EQ
+Bachelor,20,20_LACE_M,Lace Morris,2,D10
+Bachelor,20,20_LACE_M,Lace Morris,3,D12
+Bachelor,20,20_LAURA_E,Laura Esselman,1,E
+Bachelor,20,20_LAUREN_B,Lauren Bushnell,3,R
+Bachelor,20,20_LAUREN_B,Lauren Bushnell,4,R
+Bachelor,20,20_LAUREN_B,Lauren Bushnell,10,W
+Bachelor,20,20_LAUREN_B,Lauren Bushnell,3,D1
+Bachelor,20,20_LAUREN_B,Lauren Bushnell,4,D12
+Bachelor,20,20_LAUREN_B,Lauren Bushnell,5,D9
+Bachelor,20,20_LAUREN_B,Lauren Bushnell,6,D7
+Bachelor,20,20_LAUREN_B,Lauren Bushnell,7,D1
+Bachelor,20,20_LAUREN_B,Lauren Bushnell,8,D1
+Bachelor,20,20_LAUREN_B,Lauren Bushnell,9,D1
+Bachelor,20,20_LAUREN_B,Lauren Bushnell,10,D1
+Bachelor,20,20_LAUREN_H,Lauren Himle,5,R
+Bachelor,20,20_LAUREN_H,Lauren Himle,6,E
+Bachelor,20,20_LAUREN_H,Lauren Himle,2,D10
+Bachelor,20,20_LAUREN_H,Lauren Himle,3,D12
+Bachelor,20,20_LAUREN_H,Lauren Himle,4,D12
+Bachelor,20,20_LAUREN_H,Lauren Himle,5,D1
+Bachelor,20,20_LAUREN_H,Lauren Himle,6,D7
+Bachelor,20,20_LAUREN_R,Lauren Russell,1,E
+Bachelor,20,20_LB_B,"Lauren ""LB"" Barr",2,EQ
+Bachelor,20,20_LB_B,"Lauren ""LB"" Barr",2,D10
+Bachelor,20,20_LEAH_B,Leah Block,6,EU
+Bachelor,20,20_LEAH_B,Leah Block,3,D12
+Bachelor,20,20_LEAH_B,Leah Block,4,D12
+Bachelor,20,20_LEAH_B,Leah Block,5,D9
+Bachelor,20,20_LEAH_B,Leah Block,6,D7
+Bachelor,20,20_MAEGAN_M,Maegan Miller,1,E
+Bachelor,20,20_MANDI_K,"Amanda ""Mandi"" Kremer",2,E
+Bachelor,20,20_MANDI_K,"Amanda ""Mandi"" Kremer",2,D10
+Bachelor,20,20_OLIVIA_C,Olivia Caridi,1,R1
+Bachelor,20,20_OLIVIA_C,Olivia Caridi,2,R
+Bachelor,20,20_OLIVIA_C,Olivia Caridi,5,R
+Bachelor,20,20_OLIVIA_C,Olivia Caridi,6,ED
+Bachelor,20,20_OLIVIA_C,Olivia Caridi,2,D6
+Bachelor,20,20_OLIVIA_C,Olivia Caridi,3,D12
+Bachelor,20,20_OLIVIA_C,Olivia Caridi,4,D12
+Bachelor,20,20_OLIVIA_C,Olivia Caridi,5,D9
+Bachelor,20,20_OLIVIA_C,Olivia Caridi,6,D2
+Bachelor,20,20_RACHEL_T,Rachel Tchen,4,E
+Bachelor,20,20_RACHEL_T,Rachel Tchen,3,D12
+Bachelor,20,20_RACHEL_T,Rachel Tchen,4,D12
+Bachelor,20,20_SAMANTHA_P,Samantha Passmore,2,E
+Bachelor,20,20_SAMANTHA_P,Samantha Passmore,2,D6
+Bachelor,20,20_SHUSHANNA_M,Shushanna Mkrtychyan,3,E
+Bachelor,20,20_SHUSHANNA_M,Shushanna Mkrtychyan,2,D6
+Bachelor,20,20_SHUSHANNA_M,Shushanna Mkrtychyan,3,D12
+Bachelor,20,20_TIARA_S,Tiara Soleim,1,E
+Bachelor,21,21_ALEXIS_W,Alexis Waters,5,E
+Bachelor,21,21_ALEXIS_W,Alexis Waters,2,D12
+Bachelor,21,21_ALEXIS_W,Alexis Waters,3,D7
+Bachelor,21,21_ALEXIS_W,Alexis Waters,4,D13
+Bachelor,21,21_ALEXIS_W,Alexis Waters,5,D10
+Bachelor,21,21_ANGELA_A,Angela Amezcua,1,E
+Bachelor,21,21_ASTRID_L,Astrid Loch,4,E
+Bachelor,21,21_ASTRID_L,Astrid Loch,2,D6
+Bachelor,21,21_ASTRID_L,Astrid Loch,3,D7
+Bachelor,21,21_ASTRID_L,Astrid Loch,4,D13
+Bachelor,21,21_BRIANA_G,Briana Guertler,1,E
+Bachelor,21,21_BRITTANY_F,Brittany Farrar,3,E
+Bachelor,21,21_BRITTANY_F,Brittany Farrar,2,D12
+Bachelor,21,21_BRITTANY_F,Brittany Farrar,3,D7
+Bachelor,21,21_CHRISTEN_W,Christen Whitney,2,R
+Bachelor,21,21_CHRISTEN_W,Christen Whitney,3,E
+Bachelor,21,21_CHRISTEN_W,Christen Whitney,2,D6
+Bachelor,21,21_CHRISTEN_W,Christen Whitney,3,D7
+Bachelor,21,21_CORRINE_O,Corinne Olympios,2,R
+Bachelor,21,21_CORRINE_O,Corinne Olympios,5,R
+Bachelor,21,21_CORRINE_O,Corinne Olympios,8,E
+Bachelor,21,21_CORRINE_O,Corinne Olympios,2,D12
+Bachelor,21,21_CORRINE_O,Corinne Olympios,3,D7
+Bachelor,21,21_CORRINE_O,Corinne Olympios,4,D13
+Bachelor,21,21_CORRINE_O,Corinne Olympios,5,D2
+Bachelor,21,21_CORRINE_O,Corinne Olympios,6,D6
+Bachelor,21,21_CORRINE_O,Corinne Olympios,7,D3
+Bachelor,21,21_CORRINE_O,Corinne Olympios,8,D1
+Bachelor,21,21_DANIELLE_L,Danielle Lombard,3,R
+Bachelor,21,21_DANIELLE_L,Danielle Lombard,4,R
+Bachelor,21,21_DANIELLE_L,Danielle Lombard,6,ED
+Bachelor,21,21_DANIELLE_L,Danielle Lombard,2,D12
+Bachelor,21,21_DANIELLE_L,Danielle Lombard,3,D7
+Bachelor,21,21_DANIELLE_L,Danielle Lombard,4,D1
+Bachelor,21,21_DANIELLE_L,Danielle Lombard,5,D10
+Bachelor,21,21_DANIELLE_L,Danielle Lombard,6,D2
+Bachelor,21,21_DANIELLE_M,Danielle Maltby,2,R
+Bachelor,21,21_DANIELLE_M,Danielle Maltby,7,ED
+Bachelor,21,21_DANIELLE_M,Danielle Maltby,2,D1
+Bachelor,21,21_DANIELLE_M,Danielle Maltby,4,D13
+Bachelor,21,21_DANIELLE_M,Danielle Maltby,5,D10
+Bachelor,21,21_DANIELLE_M,Danielle Maltby,6,D6
+Bachelor,21,21_DANIELLE_M,Danielle Maltby,7,D1
+Bachelor,21,21_DOMINIQUE_A,Dominique Alexis,3,ED
+Bachelor,21,21_DOMINIQUE_A,Dominique Alexis,3,D7
+Bachelor,21,21_ELIZABETH_W,Elizabeth Whitelaw,2,E
+Bachelor,21,21_ELIZABETH_W,Elizabeth Whitelaw,2,D12
+Bachelor,21,21_HAILEY_M,Hailey Merkt,2,E
+Bachelor,21,21_HAILEY_M,Hailey Merkt,2,D12
+Bachelor,21,21_IDA_D,Ida Marie DeLosSantos,1,E
+Bachelor,21,21_JAIMI_K,Jaimi King,5,E
+Bachelor,21,21_JAIMI_K,Jaimi King,2,D6
+Bachelor,21,21_JAIMI_K,Jaimi King,3,D7
+Bachelor,21,21_JAIMI_K,Jaimi King,4,D13
+Bachelor,21,21_JAIMI_K,Jaimi King,5,D10
+Bachelor,21,21_JASMINE_B,Jasmine Brown,1,E
+Bachelor,21,21_JASMINE_G,Jasmine Goode,6,ED
+Bachelor,21,21_JASMINE_G,Jasmine Goode,2,D12
+Bachelor,21,21_JASMINE_G,Jasmine Goode,3,D7
+Bachelor,21,21_JASMINE_G,Jasmine Goode,4,D13
+Bachelor,21,21_JASMINE_G,Jasmine Goode,5,D10
+Bachelor,21,21_JASMINE_G,Jasmine Goode,6,D6
+Bachelor,21,21_JOSEPHINE_T,Josephine Tutman,5,E
+Bachelor,21,21_JOSEPHINE_T,Josephine Tutman,2,D6
+Bachelor,21,21_JOSEPHINE_T,Josephine Tutman,4,D13
+Bachelor,21,21_JOSEPHINE_T,Josephine Tutman,5,D10
+Bachelor,21,21_KRISTINA_S,Kristina Schulman,4,R
+Bachelor,21,21_KRISTINA_S,Kristina Schulman,5,R
+Bachelor,21,21_KRISTINA_S,Kristina Schulman,6,R
+Bachelor,21,21_KRISTINA_S,Kristina Schulman,7,EQ
+Bachelor,21,21_KRISTINA_S,Kristina Schulman,2,D6
+Bachelor,21,21_KRISTINA_S,Kristina Schulman,3,D7
+Bachelor,21,21_KRISTINA_S,Kristina Schulman,4,D13
+Bachelor,21,21_KRISTINA_S,Kristina Schulman,5,D10
+Bachelor,21,21_KRISTINA_S,Kristina Schulman,6,D1
+Bachelor,21,21_KRISTINA_S,Kristina Schulman,7,D3
+Bachelor,21,21_LACEY_M,Lacey Mark,2,E
+Bachelor,21,21_LACEY_M,Lacey Mark,2,D12
+Bachelor,21,21_LAUREN_H,Lauren Hussey,1,E
+Bachelor,21,21_LIZ_S,"Elizabeth ""Liz"" Sandoz",2,ED
+Bachelor,21,21_LIZ_S,"Elizabeth ""Liz"" Sandoz",2,D6
+Bachelor,21,21_MICHELLE_R,Michelle Ramkissoon,1,E
+Bachelor,21,21_OLIVIA_B,Olivia Burnette,1,E
+Bachelor,21,21_RACHEL_L,Rachel Lindsay,1,R1
+Bachelor,21,21_RACHEL_L,Rachel Lindsay,3,R
+Bachelor,21,21_RACHEL_L,Rachel Lindsay,5,R
+Bachelor,21,21_RACHEL_L,Rachel Lindsay,9,E
+Bachelor,21,21_RACHEL_L,Rachel Lindsay,3,D7
+Bachelor,21,21_RACHEL_L,Rachel Lindsay,4,D13
+Bachelor,21,21_RACHEL_L,Rachel Lindsay,5,D1
+Bachelor,21,21_RACHEL_L,Rachel Lindsay,6,D6
+Bachelor,21,21_RACHEL_L,Rachel Lindsay,7,D1
+Bachelor,21,21_RACHEL_L,Rachel Lindsay,8,D1
+Bachelor,21,21_RACHEL_L,Rachel Lindsay,9,D1
+Bachelor,21,21_RAVEN_G,Raven Gates,4,R
+Bachelor,21,21_RAVEN_G,Raven Gates,6,R
+Bachelor,21,21_RAVEN_G,Raven Gates,7,R
+Bachelor,21,21_RAVEN_G,Raven Gates,10,E
+Bachelor,21,21_RAVEN_G,Raven Gates,2,D12
+Bachelor,21,21_RAVEN_G,Raven Gates,4,D1
+Bachelor,21,21_RAVEN_G,Raven Gates,5,D10
+Bachelor,21,21_RAVEN_G,Raven Gates,6,D6
+Bachelor,21,21_RAVEN_G,Raven Gates,7,D3
+Bachelor,21,21_RAVEN_G,Raven Gates,8,D1
+Bachelor,21,21_RAVEN_G,Raven Gates,9,D1
+Bachelor,21,21_RAVEN_G,Raven Gates,10,D1
+Bachelor,21,21_SARAH_V,Sarah Vendal,4,E
+Bachelor,21,21_SARAH_V,Sarah Vendal,2,D12
+Bachelor,21,21_SARAH_V,Sarah Vendal,3,D7
+Bachelor,21,21_SARAH_V,Sarah Vendal,4,D13
+Bachelor,21,21_SUSANNAH_M,Susannah Milan,1,E
+Bachelor,21,21_TAYLOR_N,Taylor Nolan,5,ED
+Bachelor,21,21_TAYLOR_N,Taylor Nolan,2,D12
+Bachelor,21,21_TAYLOR_N,Taylor Nolan,3,D7
+Bachelor,21,21_TAYLOR_N,Taylor Nolan,4,D13
+Bachelor,21,21_TAYLOR_N,Taylor Nolan,5,D2
+Bachelor,21,21_VANESSA_G,Vanessa Grimaldi,3,R
+Bachelor,21,21_VANESSA_G,Vanessa Grimaldi,10,W
+Bachelor,21,21_VANESSA_G,Vanessa Grimaldi,2,D12
+Bachelor,21,21_VANESSA_G,Vanessa Grimaldi,3,D1
+Bachelor,21,21_VANESSA_G,Vanessa Grimaldi,4,D13
+Bachelor,21,21_VANESSA_G,Vanessa Grimaldi,5,D10
+Bachelor,21,21_VANESSA_G,Vanessa Grimaldi,6,D6
+Bachelor,21,21_VANESSA_G,Vanessa Grimaldi,7,D1
+Bachelor,21,21_VANESSA_G,Vanessa Grimaldi,8,D1
+Bachelor,21,21_VANESSA_G,Vanessa Grimaldi,9,D1
+Bachelor,21,21_VANESSA_G,Vanessa Grimaldi,10,D1
+Bachelor,21,21_WHITNEY_F,Whitney Fransway,6,ED
+Bachelor,21,21_WHITNEY_F,Whitney Fransway,3,D7
+Bachelor,21,21_WHITNEY_F,Whitney Fransway,4,D13
+Bachelor,21,21_WHITNEY_F,Whitney Fransway,5,D10
+Bachelor,21,21_WHITNEY_F,Whitney Fransway,6,D2

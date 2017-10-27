@@ -1,0 +1,35 @@
+Show,Season,Start Date,Lead Full Name,Occupation,Hometown,Age,Proposal,Still Together
+Bachelor,1,2002-03-25,Alex Michel,Management Consultant,"Charlottesville, Virginia",31,FALSE,FALSE
+Bachelor,2,2002-09-25,Aaron Buerge,Banker,"Springfield, Missouri",28,TRUE,FALSE
+Bachelor,3,2003-03-24,Andrew Firestone,Winery Co-Owner,"Santa Barbara, California",28,TRUE,FALSE
+Bachelor,4,2003-09-24,Bob Guiney,Mortgage Broker,"Ferndale, Michigan",32,FALSE,FALSE
+Bachelor,5,2004-04-07,Jesse Palmer,Former Pro Football Player,"Toronto, Ontario",25,FALSE,FALSE
+Bachelor,6,2004-09-22,Byron Velvick,Professional Fisherman,"Tampa, Florida",40,TRUE,FALSE
+Bachelor,7,2005-03-28,Charlie O'Connell,Actor,"Los Angeles, California",29,FALSE,FALSE
+Bachelor,8,2006-01-09,Travis Lane Stork,Medical doctor,"Fort Collins, Colorado",34,FALSE,FALSE
+Bachelor,9,2006-10-02,Lorenzo Borghese,Cosmetics Entrepreneur,"Millburn, New Jersey",34,FALSE,FALSE
+Bachelor,10,2007-04-02,Andrew Baldwin,Naval officer,"Lancaster, Pennsylvania",30,TRUE,FALSE
+Bachelor,11,2007-09-24,Brad Womack,Bar Owner,"Livingston, Texas",35,FALSE,FALSE
+Bachelor,12,2008-03-17,Matt Grant,Global Financier,"London, United Kingdom",28,TRUE,FALSE
+Bachelor,13,2009-01-05,Jason Mesnick,Account Executive,"Cleveland, Ohio",32,TRUE,TRUE
+Bachelor,14,2010-01-04,Jake Pavelka,Commercial Pilot,"Denton, Texas",32,TRUE,FALSE
+Bachelor,15,2011-01-03,Brad Womack,Bar Owner,"Livingston, Texas",38,TRUE,FALSE
+Bachelor,16,2012-01-02,Ben Flajnik,Wine Maker,"Sonoma, California",29,TRUE,FALSE
+Bachelor,17,2013-01-07,Sean Lowe,Insurance Agent,"Irving, Texas",29,TRUE,TRUE
+Bachelor,18,2014-01-06,Juan Pablo Galavis,Former Pro Soccer Player,"Barquisimeto, Venezuela",32,FALSE,FALSE
+Bachelor,19,2015-01-05,Chris Soules,Farmer,"Lamont, Iowa",33,TRUE,FALSE
+Bachelor,20,2016-01-04,Ben Higgins,Software Salesman,"Warsaw, Indiana",26,TRUE,FALSE
+Bachelor,21,2017-01-02,Nick Viall,Software Sales Executive,"Waukesha, Wisconsin",36,TRUE,FALSE
+Bachelorette,1,2003-01-08,Trista Rehn,Physical therapist,"Miami, Florida",29,TRUE,TRUE
+Bachelorette,2,2004-01-14,Meredith Phillips,Model/ Makeup Artist,"West Hollywood, California",29,TRUE,FALSE
+Bachelorette,3,2005-01-10,Jen Schefft,Publicist,"Chicago, Illinois",28,TRUE,FALSE
+Bachelorette,4,2008-05-19,DeAnna Pappas,Realtor,"Newnan, Georgia",26,TRUE,FALSE
+Bachelorette,5,2009-05-18,Jillian Harris,Interior Designer,"Peace River, Alberta",29,TRUE,FALSE
+Bachelorette,6,2010-05-24,Ali Fedotowsky,Advertising Account Manager,"Williamstown, Massachusetts",25,TRUE,FALSE
+Bachelorette,7,2011-05-23,Ashley Hebert,Dental Student,"Madawaska, Maine",26,TRUE,TRUE
+Bachelorette,8,2012-05-14,Emily Maynard,Children's Hospital Event Planner,"Morgantown, West Virginia",26,TRUE,FALSE
+Bachelorette,9,2013-05-27,Desiree Hartsock,Bridal Stylist,"Northglenn, Colorado",27,TRUE,TRUE
+Bachelorette,10,2014-05-19,Andi Dorfman,Assistant District Attorney,"Buckhead, Georgia",27,TRUE,FALSE
+Bachelorette,11,2015-05-18,Kaitlyn Bristowe,Dance Instructor,"Leduc, Alberta",30,TRUE,TRUE
+Bachelorette,12,2016-05-23,"Joelle ""JoJo"" Fletcher",Real Estate Developer,"Dallas, Texas",25,TRUE,TRUE
+Bachelorette,13,2017-05-22,Rachel Lindsay,Attorney,"Dallas, Texas",31,TRUE,TRUE

@@ -1,0 +1,889 @@
+show,season,unique_id,full_name,age,hometown,occupation
+Bachelor,1,01_ALEXA_X,Alexa,27,"Beverly Hills, California",Special Ed. Teacher
+Bachelor,1,01_AMANDA_M,Amanda Marsh,23,"Chanute, Kansas",Event Planner
+Bachelor,1,01_AMBER_X,Amber,29,"Los Angeles, California",Business Development Director
+Bachelor,1,01_AMY_X,Amy,28,"New York, New York",Production Coordinator
+Bachelor,1,01_ANGELA_X,Angela,25,"Avondale, Arizona",Hooters Waitress
+Bachelor,1,01_ANGELIQUE_X,Angelique,27,"Burbank, California",Actress
+Bachelor,1,01_CATHY_G,Cathy Grimes,22,"Terra Haute, Indiana",Graduate Student
+Bachelor,1,01_CHRISTINA_X,Christina,28,"Bonita, California",Attorney
+Bachelor,1,01_DANIELA_X,Daniela,30,"Seattle, Washington",Neuropsychologist
+Bachelor,1,01_DENISE_X,Denise,30,"Honolulu, Hawaii",Doctor
+Bachelor,1,01_JACKIE_X,Jackie,22,"Pittsburgh, Pennsylvania",Bar Manager
+Bachelor,1,01_JILL_X,Jill,31,"Chicago, Illinois",Retail Manager
+Bachelor,1,01_KATIE_X,Katie,23,"Malden, Massachusetts",Power Tool Sales Rep.
+Bachelor,1,01_KIM_X,Kim,24,"Tempe, Arizona",Nanny
+Bachelor,1,01_KRISTINA_X,Kristina,27,"Los Angeles, California",Advertising Executive
+Bachelor,1,01_LANEASE_A,LaNease Adams,23,"Los Angeles, California",Actress
+Bachelor,1,01_LISA_X,Lisa,29,"Dallas, Texas",Attorney
+Bachelor,1,01_MELISSA_X,Melissa,25,"Tempe, Arizona",Photographer
+Bachelor,1,01_PAULA_X,Paula,24,"Swansea, Massachusetts",Insurance Representative
+Bachelor,1,01_RACHEL_X,Rachel,29,"Eastchester, New York",6th Grade Teacher
+Bachelor,1,01_RHONDA_X,Rhonda,28,"Woodward, Oklahoma",Commercial Real Estate Agent
+Bachelor,1,01_SHANNON_O,Shannon Oliver,24,"Dallas, Texas",Financial Management Consultant
+Bachelor,1,01_TINA_X,Tina,27,"Plano, Texas",Graduate Student
+Bachelor,1,01_TRISTA_R,Trista Rehn,29,"Miami, Florida",Miami Heat Dancer
+Bachelor,1,01_WENDI_X,Wendi,26,"Dallas, Texas",Technology Specialist
+Bachelorette,1,01_BILLY_X,Billy,28,"Hermosa Beach, California",Firefighter
+Bachelorette,1,01_BOB_G,Bob Guiney,31,"Ferndale, Michigan",Mortgage Broker
+Bachelorette,1,01_BRIAN_C,Brian C.,28,"Dallas, Texas",Mortgage Broker
+Bachelorette,1,01_BRIAN_H,Brian H.,30,"Cleveland, Ohio",National Sales Manager
+Bachelorette,1,01_BRIAN_K,Brian K.,31,"San Francisco, California",Breast Implant Sales
+Bachelorette,1,01_BRIAN_S,Brian S.,28,"Dallas, Texas",Sales Engineer
+Bachelorette,1,01_BROOK_X,Brook,29,"Dallas, Texas",Rodeo Cowboy
+Bachelorette,1,01_CHARLIE_M,Charlie Maher,28,"Hermosa Beach, California",Financial Analyst
+Bachelorette,1,01_CHRIS_X,Chris,35,"Sugarloaf, Pennsylvania",V.P. of Auto Parts Company
+Bachelorette,1,01_DUANE_X,Duane,28,"Chisago City, Minnesota",Flight Instructor
+Bachelorette,1,01_ERIC_X,Eric,33,"St. Louis, Missouri",Commercial Pilot
+Bachelorette,1,01_GREG_T,Greg T.,28,"Manhattan, New York",Importer
+Bachelorette,1,01_GREGG_H,Gregg H.,34,"Freehold, New Jersey",Marble Company Owner
+Bachelorette,1,01_JACK_X,Jack,27,"Pepper Pike, Ohio",Firefighter
+Bachelorette,1,01_JAMIE_B,Jamie Blyth,27,"Chicago, Illinois",Professional Basketball Player
+Bachelorette,1,01_JEFF_X,Jeff,25,"San Diego, California",Professional Football Player
+Bachelorette,1,01_JOSH_X,Josh,31,"Boca Raton, Florida",Radio Advertising Executive
+Bachelorette,1,01_MATT_X,Matt,42,"Marina Del Rey, California",Gym Owner
+Bachelorette,1,01_MIKE_X,Mike,24,"Cincinnati, Ohio",Sales and Consulting
+Bachelorette,1,01_PAUL_X,Paul,26,"Honolulu, Hawaii",Telecommunications
+Bachelorette,1,01_PETER_X,Peter,25,"Long Island, New York",Construction Business Owner
+Bachelorette,1,01_ROB_X,Rob,29,"Dallas, Texas",Computer Programmer
+Bachelorette,1,01_RUSS_X,Russ,30,"San Rafael, California",Writer
+Bachelorette,1,01_RYAN_S,Ryan Sutter,29,"Vail, Colorado",Firefighter
+Bachelorette,1,01_WAYNE_X,Wayne,37,"Sacramento, California",Commercial Pilot
+Bachelor,2,02_AMBER_X,Amber,26,"Chapel Hill, North Carolina",Psychologist
+Bachelor,2,02_ANGELA_X,Angela,27,"Kansas City, Missouri",Registered Nurse
+Bachelor,2,02_ANINDITA_X,Anindita,27,"New York, New York",Attorney
+Bachelor,2,02_BROOKE_S,Brooke Smith,22,"Albertville, Alabama",College Student
+Bachelor,2,02_CAMILLE_X,Camille,29,"Los Angeles, California",Actress
+Bachelor,2,02_CARI_X,Cari,29,"Granite City, Illinois",3rd Grade Teacher
+Bachelor,2,02_CHRISTI_X,Christi Weible,23,"Boise, Idaho",Assistant Financial Advisor
+Bachelor,2,02_CHRISTY_X,Christy,24,"Avondale, Arizona",Radiological Technologist
+Bachelor,2,02_DANA_X,Dana,24,"Beverly Hills, California",Radio Sales
+Bachelor,2,02_ERIN_P,Erin (Pennsylvania),25,"Westchester, Pennsylvania",Publications Quality Control
+Bachelor,2,02_ERIN_T,Erin (Texas),24,"Houston, Texas",Interior Designer
+Bachelor,2,02_FATIMA_X,Fatima,22,"Long Beach, California",College Student
+Bachelor,2,02_FRANCES_X,Frances,30,"San Francisco, California",Strategic Planning Analyst
+Bachelor,2,02_GWEN_G,Gwen Gioia,31,"Philadelphia, Pennsylvania",Executive Recruiter
+Bachelor,2,02_HAYLEY_X,Hayley,28,"Lake Oswego, Oregon",Retail Manager
+Bachelor,2,02_HEATHER_X,Heather,24,"Walnut Creek, California",Marriage Therapy Trainee
+Bachelor,2,02_HEATHER_C,Heather Cranford,30,"Dallas, Texas",Flight Attendant
+Bachelor,2,02_HELENE_E,Helene Eksterowicz,27,"Gloucester, New Jersey",School Psychologist
+Bachelor,2,02_KYLA_X,Kyla,22,"Midvale, Utah",Airline Supervisor
+Bachelor,2,02_LIANGY_X,Liangy,30,"Coral Gables, Florida",Paralegal
+Bachelor,2,02_LORI_X,Lori,26,"Dallas, Texas",Former NBA Cheerleader
+Bachelor,2,02_MERILEE_X,Merrilee,28,"Forked River, New Jersey",1st Grade Teacher
+Bachelor,2,02_SHANNON_X,Shannon,26,"Long Island, New York",Graphic Artist
+Bachelor,2,02_SUZANNE_X,Suzanne,33,"Redondo Beach, California",Flight Attendant
+Bachelor,2,02_SUZI_X,Suzi,28,"Richmond, Virginia",Communications Specialist
+Bachelorette,2,02_AARON_X,Aaron,32,"Sacramento, California",Title and Escrow Sales
+Bachelorette,2,02_ANDY_C,Andy Chang,33,"Dallas, Texas",Dentist
+Bachelorette,2,02_ANSELM_C,Anselm Clinard,32,"Venice, California",Art Designer
+Bachelorette,2,02_BRAD_X,Brad,29,"Grand Rapids, Michigan",Pharmaceutical Sales Rep
+Bachelorette,2,02_BRIAN_X,Brian,31,"Quincy, Massachusetts",Attorney
+Bachelorette,2,02_CHAD_X,Chad,31,"Buffalo, New York",Pharmaceutical Sales Rep
+Bachelorette,2,02_CHRIS_X,Chris,31,"Boston, Massachusetts",Accountant
+Bachelorette,2,02_CORY_H,Cory Higgins,24,"Long Beach Island, New Jersey",Small Business Owner
+Bachelorette,2,02_DAMON_X,Damon,28,"Cardiff, California",Arena Football Player
+Bachelorette,2,02_ELIOT_X,Eliot,25,"Mountain View, California",Options Trader
+Bachelorette,2,02_HAROLD_H,Harold Hersh,29,"Rock Island, Illinois",Professional Hockey Player
+Bachelorette,2,02_IAN_M,Ian McKee,29,"New York, New York",Equity Research Sales
+Bachelorette,2,02_JEFF_O,Jeff O'Quinn,30,"Macon, Georgia",Pharmaceutical Sales Rep
+Bachelorette,2,02_JUSTIN_X,Justin,25,"Orlando, Florida",Professional Baseball Player
+Bachelorette,2,02_KEITH_X,Keith,31,"Baltimore, Maryland",Financial Analyst
+Bachelorette,2,02_LANNY_X,Lanny,26,"Aubrey, Texas",Stallion and Breeding Manager
+Bachelorette,2,02_MARCUS_X,Marcus,26,"Los Angeles, California",Personal Trainer
+Bachelorette,2,02_MATTHEW_H,Matthew Hickl,28,"Friendswood, Texas",Pharmaceutical Sales Rep
+Bachelorette,2,02_RICK_X,Rick,29,"San Diego, California",Business Manager
+Bachelorette,2,02_ROBERT_X,Robert,32,"El Segundo, California",Alliance Development
+Bachelorette,2,02_RYAN_M,Ryan M.,30,"Santa Barbara, California",Financial Advisor
+Bachelorette,2,02_RYAN_R,Ryan R.,29,"Wynola, California",Sales/Marketing
+Bachelorette,2,02_SEAN_X,Sean,31,"Wall, New Jersey",CPA
+Bachelorette,2,02_TODD_X,Todd,36,"San Francisco, California",Options Trader
+Bachelorette,2,02_TREVER_X,Trever,35,"North Wales, Pennsylvania",Restaurateur
+Bachelor,3,03_AMBER_X,Amber,23,"Atlanta, Georgia",Sales / Account Executive
+Bachelor,3,03_AMY_G,Amy G,24,"New York, New York",Graphic Designer
+Bachelor,3,03_AMY_P,Amy P,29,"Charleston, South Carolina",Massage Therapist
+Bachelor,3,03_ANGELA_X,Angela,25,"Williamsville, New York",Looking to start my career in education
+Bachelor,3,03_ANNE_MICHELLE_X,Anne-Michelle,25,"Burbank, California",Bartender / Actress
+Bachelor,3,03_AUDREE_X,Audree,26,"Las Vegas, Nevada",Hair Stylist
+Bachelor,3,03_BROOKE_X,Brooke,21,"Mount Dora, Florida",Student
+Bachelor,3,03_CHRISTINA_S,Christina S,24,"Palm Harbor, Florida","Realtor, Make-up Artist"
+Bachelor,3,03_COURTNEY_X,Courtney,24,"San Anselmo, California",Administrative/ Sales Assistant
+Bachelor,3,03_CRISTINA_C,Cristina C,30,"Montclair, New Jersey",Pharmaceutical Sales Consultant
+Bachelor,3,03_ELIZABETH_X,Elizabeth,24,"Bolingbrook, Illinois",Child Life Specialist
+Bachelor,3,03_GINNY_X,Ginny,25,"Kansas City, Missouri",Waiter
+Bachelor,3,03_HEATHER_X,Heather,22,"Boston, Massachusetts",Student
+Bachelor,3,03_JEN_S,Jen Schefft,26,"Chicago, Illinois",Account executive for photography company
+Bachelor,3,03_JENNIFER_B,Jennifer B,26,"New Port Richey, Florida",Pharmacist
+Bachelor,3,03_KERRI_X,Kerri,25,"Los Angeles, California",Corporate Recruiter
+Bachelor,3,03_KIRSTEN_X,Kirsten,23,"Tampa, Florida",Mechant for Shopping Network
+Bachelor,3,03_KRISTEN_X,Kristen,29,"Excelsior, Minnesota","Real Estates Sales, nanny, fit model"
+Bachelor,3,03_LIZ_X,Liz,23,"Chicago, Illinois",Event Marketing Director
+Bachelor,3,03_RACHEL_X,Rachel,21,"New Braunfels, Texas",Student
+Bachelor,3,03_SHANNON_X,Shannon,26,"New York, New York",Human Resources Generalist
+Bachelor,3,03_STEPHANIE_X,Stephanie,21,"Mt. Pleasant, Tennessee",Waiter
+Bachelor,3,03_TIFFANY_X,Tiffany,26,"Cuyahoga Falls, Ohio",Mansion Caretaker
+Bachelor,3,03_TINA_P,Tina P,22,"Oconomowoc, Wisconsin",Student
+Bachelor,3,03_TINA_S,Tina S,26,"Nashville, Tennessee",Sales-Event Planner
+Bachelorette,3,03_A.W.,A.W.,27,"Newport Beach, California",Mortgage Consultant
+Bachelorette,3,03_ANDREW,Andrew,37,"New York, New York",Bartender
+Bachelorette,3,03_ANDY_L,Andy LeRoy,29,"Steamboat Springs, Colorado",Ski Coach
+Bachelorette,3,03_BEN_S,Ben S.,26,"Aspen, Colorado",Ski Instructor
+Bachelorette,3,03_CHRIS_C,Chris C.,27,"Campton, Kentucky",Hairdresser
+Bachelorette,3,03_CHRIS_M,Chris M.,33,"Cleveland, Ohio",Sports Agent
+Bachelorette,3,03_COLLIN_E,Collin E.,27,"Austin, Texas",Sports Agent
+Bachelorette,3,03_DAVID_V,David V.,30,"Chicago, Illinois",Marketing Consultant
+Bachelorette,3,03_ERIC_H,Eric H.,35,"New York, New York",Magazine Editor
+Bachelorette,3,03_ERIC_T,Eric T.,37,"San Diego, California",Firefighter
+Bachelorette,3,03_FABRICE_L,Fabrice L.,28,"New York, New York",Investor
+Bachelorette,3,03_JASON_I,Jason I.,29,"Fort Worth, Texas",Motivational Speaker
+Bachelorette,3,03_JERRY_F,Jerry F.,29,"Los Angeles, California",Art Gallery Director
+Bachelorette,3,03_JOHN PAUL_M,John Paul,25,"Oklahoma City, Oklahoma",Entrepreneur
+Bachelorette,3,03_JOSH_C,Josh Cox,28,"Murrieta, California",Professional Marathoner
+Bachelorette,3,03_KEITH,Keith,28,"Encinitas, California",Welder
+Bachelorette,3,03_KEVIN,Kevin,26,"New York, New York",Consultant
+Bachelorette,3,03_MARK,Mark,30,"Carlsbad, California",Commercial Finance
+Bachelorette,3,03_MATT_L,Matt L.,33,"Manhattan Beach, California",Lawyer
+Bachelorette,3,03_MATT_M,Matt M.,32,"Staten Island, New York",Firefighter
+Bachelorette,3,03_MICHAEL_F,Michael Foster,31,"Monroe, Michigan",Teacher
+Bachelorette,3,03_RYAN_SH,Ryan Sh.,28,"Manhattan Beach, California",Teacher
+Bachelorette,3,03_RYAN_SM,Ryan Sm.,34,"New York, New York",Lawyer
+Bachelorette,3,03_STU_L,Stu L.,27,"New York, New York",Lawyer
+Bachelorette,3,03_WENDELL_J,Wendell J.,32,"Chicago, Illinois",Entrepreneur
+Bachelor,4,04_ANTOINETTE,Antoinette,30,"Philadelphia, Pennsylvania",Senior Account Manager
+Bachelor,4,04_BROOKE,Brooke,24,"Bartlett, Tennessee",Teacher
+Bachelor,4,04_CHRISTINE,Christine,24,"Corona, California",Administrative Assistant
+Bachelor,4,04_DARLA,Darla,26,"Gainesville, Florida",Attorney
+Bachelor,4,04_ESTELLA,Estella,27,"Beverly Hills, California",Mortgage Broker
+Bachelor,4,04_HEATHER,Heather,24,"Chicago, Illinois",Recent College Graduate
+Bachelor,4,04_JENN,Jenn,26,"La Jolla, California",Elementary School Teacher
+Bachelor,4,04_JENNY,Jenny,30,"Austin, Texas",Marketing Director
+Bachelor,4,04_JULIE,Julie,29,"Louisville, Kentucky",Sales/ Modeling
+Bachelor,4,04_KARIN,Karin,32,"Brooklyn Park, Minnesota",Mortgage Consultant
+Bachelor,4,04_KELLY-JO,Kelly Jo,23,"Kalamazoo, Michigan",Director of Community Relations
+Bachelor,4,04_KRISTI,Kristi,24,"Chicago, Illinois",Loan Processor
+Bachelor,4,04_LANAH,Lanah,27,"Poolesville, Maryland",Event Coordinator
+Bachelor,4,04_LAUREN,Lauren,24,"Redondo Beach, California",Retail Buyer
+Bachelor,4,04_LEE-ANN,Lee-Ann,24,"Athens, Georgia",Second Grade Teacher
+Bachelor,4,04_LEONA,Leona,25,"Chicago, Illinois",Realtor's Assistant
+Bachelor,4,04_LINDSAY,Lindsay,23,"Los Angeles, California",Professional Dancer
+Bachelor,4,04_LINDSAY,Lindsay,25,"Mauldin, South Carolina",Pharmaceutical Sales
+Bachelor,4,04_MARY,Mary,35,"Tampa, Florida",Sales Manager
+Bachelor,4,04_MEREDITH,Meredith Phillips,29,"West Hollywood, California",Model/ Makeup Artist
+Bachelor,4,04_MISTY,Misty,23,"Dallas, Texas",Radio Promotions Assistant
+Bachelor,4,04_SAMENTHA,Samantha,25,"Chicago, Illinois",Kitchen Designer
+Bachelor,4,04_SHEA,Shea,25,"Shreveport, Louisiana",Firefighter
+Bachelor,4,04_SHELLY,Shelly,26,"Wanwatosa, Wisconsin",Pharmaceutical Sales
+Bachelor,4,04_STACEY,Stacey,26,"Massillon, Ohio",Hair Stylist
+Bachelorette,4,04_BLAINE_T,Blaine Twilley,33,"Tulsa, Oklahoma",Debt manager
+Bachelorette,4,04_BRIAN_T,Brian Westendorf,31,"Balch Springs, Texas",High school football coach
+Bachelorette,4,04_BRIAN_W,Brian Winchester,29,"New Castle, Indiana",Computer network consultant
+Bachelorette,4,04_CHANDLER_F,Chandler Fulton,25,"Virginia Beach, Virginia",Insurance rep.
+Bachelorette,4,04_CHRISTOPHER_B,"Christopher ""Chris"" Bradshaw",29,"Fort Worth, Texas",Medical sales rep.
+Bachelorette,4,04_DONATO_C,Donato Capodanno,26,"Lexington, South Carolina",Sales rep.
+Bachelorette,4,04_ERIC_P,Eric Papachristos,32,"Boston, Massachusetts",Senior analyst
+Bachelorette,4,04_FREDERICK_G,"Frederick ""Fred"" Greif",30,"Skokie, Illinois",Lawyer
+Bachelorette,4,04_GRAHAM_B,Graham Bunn,29,"Raleigh, North Carolina",Professional basketball player
+Bachelorette,4,04_GREGORY_M,"Gregory ""Greg"" Matthew",28,"Rockport, Massachusetts",Personal trainer
+Bachelorette,4,04_JASON_M,Jason Mesnick,31,"Cleveland, Ohio",Account executive
+Bachelorette,4,04_JEFFREY_H,Jeffrey Harris,27,"Miami, Florida",Mathematics teacher
+Bachelorette,4,04_JEREMY_A,Jeremy Anderson,30,"Dallas, Texas",Real estate attorney
+Bachelorette,4,04_JESSE_C,Jesse Csincsak,26,"Breckenridge, Colorado",Professional snowboarder
+Bachelorette,4,04_JONATHAN_K,"Jonathan ""Jon"" Konkel",35,"Williston, North Dakota",Resort manager
+Bachelorette,4,04_LUKE_H,Luke Hamilton,27,"Faith, North Carolina",Oyster farmer
+Bachelorette,4,04_PATRICK_C,Patrick Carlson,26,"Glenwood, Illinois",Financial analyst
+Bachelorette,4,04_PATRICK_D,Patrick Durrere,27,"Elmhurst, Illinois",Internet marketing
+Bachelorette,4,04_PAUL_B,Paul Brosseau,23,"Bonnyville, Alberta",Sales manager
+Bachelorette,4,04_RICHARD_M,Richard Mathy,27,"Sauquoit, New York",Science teacher
+Bachelorette,4,04_ROBERT_F,Robert Fair,28,"San Francisco, California",Chef
+Bachelorette,4,04_RONALD_M,Ronald Mayer,36,"Greeley, Colorado",Barber shop owner
+Bachelorette,4,04_RYAN_H,Ryan Hoag,28,"Minneapolis, Minnesota",Professional football player
+Bachelorette,4,04_SEAN_R,Sean Ramey,33,"Louisville, Kentucky",Martial artist
+Bachelorette,4,04_SPERO_S,Spero Stamboulis,38,"Ellington, Connecticut",Actor
+Bachelor,5,05_AMBER_L,Amber LaRoux,27,"Sunriver, Oregon",Consultant
+Bachelor,5,05_ANNECATHERINE_L,Anne-Catherine Labbé,27,"Quebec City, Quebec",Model/make-up artist
+Bachelor,5,05_CELESTE_C,Celeste Creel,24,"Ithaca, New York",Model/executive assistant
+Bachelor,5,05_DEBBIE_M,Debbie Merkett,27,"Pinetops, North Carolina",Massage therapist/bartender
+Bachelor,5,05_DESHAUN_W,DeShaun Warner,25,"Phillipsburg, New Jersey",Account manager/sales
+Bachelor,5,05_DOLORES_F,Dolores Farburg,26,"Madison, New Jersey",Account manager
+Bachelor,5,05_FRANCINE_J,Francine Jones,25,"Houston, Texas",Retail manager
+Bachelor,5,05_HOLLY_R,Holly Reeder,26,"Tulsa, Oklahoma",Bank representative
+Bachelor,5,05_JEANMARIE_C,Jean-Marie Callahan,26,"Gibson, North Carolina",Hair stylist
+Bachelor,5,05_JENNY_S,Jenny De Schiralli,26,"Carrboro, North Carolina",Swim instructor/nanny/personal trainer
+Bachelor,5,05_JENNY_M,Jenny Matthews,24,"Canton, Michigan",Retail manager
+Bachelor,5,05_JESSICA_B,Jessica Bowlin,22,"Huntington Beach, California",Student
+Bachelor,5,05_JESSICA_H,Jessica Holcomb,25,"Pearsall, Texas",Attorney
+Bachelor,5,05_JESSICA_K,Jessica Kyron,21,"Cincinnati, Ohio",Student
+Bachelor,5,05_JULIE_D,Julie Durda,24,"Sacramento, California",Professional Cheerleader
+Bachelor,5,05_KAREN_L,Karen Lindsay,28,"Pleasant Grove, Utah",Pharmaceutical sales
+Bachelor,5,05_KATIE_G,Katie Gehart,22,"Scottsdale, Arizona",LASIK Eye and Skin Center manager
+Bachelor,5,05_KRISTIN_C,Kristin Clearwater,25,"Sausalito, California",Singer
+Bachelor,5,05_KRISTY_R,Kristy Romero,25,"Dearborn, Michigan",Student
+Bachelor,5,05_MANDY_C,Mandy Clemens,25,"San Diego, California",Professional soccer player
+Bachelor,5,05_MANDY_J,Mandy Jaye Jeffreys,26,"Midland, Texas",Designer for an architect firm
+Bachelor,5,05_RACHEL_C,Rachel Clementi,26,"Buffalo, New York",Fashion public relations manager
+Bachelor,5,05_SUZIE_W,Suzie Williams,23,"Ann Arbor, Michigan",Prosthetic technician
+Bachelor,5,05_TARA_H,Tara Huckeby,23,"Shawnee, Oklahoma",General contractor
+Bachelor,5,05_TRISH_S,Trish Schneider,28,"Atlanta, Georgia",Model
+Bachelorette,5,05_ADAM_D,Adam Duvendeck,27,"Santa Barbara, California",Olympic Cyclist
+Bachelorette,5,05_BRAD_S,Brad Seberhagen,27,"Park Ridge, Illinois",Financial Advisor
+Bachelorette,5,05_BRIAN_D,Brian Duke,32,"Birmingham, Alabama",IT Consultant
+Bachelorette,5,05_BRIAN_V,Bryan Vaderman,28,"Lawton, Oklahoma",High School Coach
+Bachelorette,5,05_BRYCE_H,Bryce Harlow,31,"Fort Lauderdale, Florida",Furniture Dealer
+Bachelorette,5,05_CALEB_K,Caleb Kuhl,27,"Kansas City, Missouri",Photographer
+Bachelorette,5,05_DAVID_G,David Good,27,"West Alexandria, Ohio",Trucking Contractor
+Bachelorette,5,05_ED_S,Ed Swiderski,29,"Monroe, Michigan",Technology Consultant
+Bachelorette,5,05_GREG_B,Greg Bilbro,31,"Albuquerque, New Mexico",Entrepreneur
+Bachelorette,5,05_JAKE_P,Jake Pavelka,31,"Denton, Texas",Commercial Pilot
+Bachelorette,5,05_JESSE_K,Jesse Kovacs,27,"Carmel Valley, California",Wine Maker
+Bachelorette,5,05_JOHN_H,John Hardesty,27,"Boise, Idaho",Branding Consultant
+Bachelorette,5,05_JOHN_P,John Presser,29,"Fort Wayne, Indiana",Marketing Specialist
+Bachelorette,5,05_JOSH_Y,Josh Yocam,25,"Tustin, California",Lifeguard
+Bachelorette,5,05_JUAN_B,Juan Barbieri,35,"Buenos Aires, Argentina",General Contractor
+Bachelorette,5,05_JULIEN_H,Julien Hug,34,"San Diego, California",Restaurateur
+Bachelorette,5,05_KIPTYN_L,Kiptyn Locke,31,"Encinitas, California",Business Developer
+Bachelorette,5,05_KYLE_Y,Kyle Yauch,26,"Austin, Texas",Graphic Designer
+Bachelorette,5,05_MARK_H,Mark Huebner,26,"Woodstock, Illinois",Pizza Entrepreneur
+Bachelorette,5,05_MATHUE_J,Mathue Johnson,25,"Andover, Kansas",Personal Trainer
+Bachelorette,5,05_MICHAEL_S,Michael Stagliano,25,"Tacoma, Washington",Break Dance Instructor
+Bachelorette,5,05_MIKE_S,Mike Steinberg,28,"New York, New York",Baseball Camp Owner
+Bachelorette,5,05_REID_R,Reid Rosenthal,30,"Upper Dublin, Pennsylvania",Realtor
+Bachelorette,5,05_ROBBY_D,Robby Descant,25,"Spring, Texas",Bartender
+Bachelorette,5,05_SASHA_P,Sasha Petrovic,27,"Houston, Texas",Oil & Gas Consultant
+Bachelorette,5,05_SIMON_A,Simon Ambrose,26,"Bradford, England",Soccer Coach
+Bachelorette,5,05_STEPHEN_R,Stephen Reich,30,"Lexington, Massachusetts",Lawyer
+Bachelorette,5,05_TANNER_F,Tanner Fanello,28,"Derby, Kansas",Sales Representative
+Bachelorette,5,05_TANNER_P,Tanner Pope,30,"Brownfield, Texas",Financial Analyst
+Bachelorette,5,05_WES_H,Wes Hayden,32,"Huntsville, Texas",Musician
+Bachelor,6,06_ABBY,Abby,30,"Henderson, Nevada",Acrobat/Dancer
+Bachelor,6,06_ALMA,Alma,35,"Astoria, Oregon",Cafe Owner
+Bachelor,6,06_AMANDA,Amanda,27,"New York, New York",Cosmetic Buyer
+Bachelor,6,06_AMY,Amy,27,"San Diego, California",Marketing Consultant
+Bachelor,6,06_ANDREA,Andrea,33,"Denver, Colorado",Dental Hygienist
+Bachelor,6,06_ASHLEY,Ashley,31,"Santa Barbara, California",Teacher
+Bachelor,6,06_CAROLYN,Carolyn,36,"Tulsa, Oklahoma",Financial Advisor
+Bachelor,6,06_CHERESSE,Cheresse,31,"St. Louis, Missouri",Director of Marketing
+Bachelor,6,06_CYNTHIA,Cynthia,37,"Hermosa Beach, California",Charity Foundation Director
+Bachelor,6,06_ELIZABETH,Elizabeth,29,"Chicago, Illinois",Pharmaceutical Sales Representative
+Bachelor,6,06_HEATHER,Heather Cranford,30,"Dallas, Texas",Flight Attendant
+Bachelor,6,06_JAYNE,Jayne,37,"Key Largo, Florida",Dog Groomer/Makeup Artist
+Bachelor,6,06_JENNIFER,Jennifer,31,"Seattle, Washington",Business Account Executive
+Bachelor,6,06_KELLY,Kelly,34,"Beverly Hills, California",Model/Actress
+Bachelor,6,06_KERRY,Kerry,31,"Marina del Rey, California",Traveling Nurse
+Bachelor,6,06_KRISTIE,Kristie,32,"Ontario, Canada",Bar/Restaurant Owner
+Bachelor,6,06_KRISTIN,Kristin,28,"Pensacola, Florida",Office Manager/Real Estate Agent
+Bachelor,6,06_KRYSTA,Krysta,28,"Oklahoma City, Oklahoma",Corporate Financial Analyst
+Bachelor,6,06_LEINA,Leina,28,"Chula Vista, California",Advertising
+Bachelor,6,06_LISA,Lisa,33,"West Palm Beach, Florida",Teacher
+Bachelor,6,06_MARY,Mary,35,"Tampa, Florida",Sales Manager
+Bachelor,6,06_MELINDA,Melinda,39,"Nashville, Tennessee",Photographer/Songwriter
+Bachelor,6,06_NATALIE,Natalie,34,"Santa Monica, California",Writer
+Bachelor,6,06_NICOLE,Nicole,28,"Vernon Hills, Illinois",Recruiting
+Bachelor,6,06_SUSIE,Susie,32,"Hollywood, California",Insurance Broker
+Bachelor,6,06_TANYA,Tanya,31,"Plano, Texas",Teacher
+Bachelor,6,06_WENDE,Wende,28,"Austin, Texas",Model/Real Estate Agent
+Bachelorette,6,06_CHRIS_H,Chris Hasek-Watt,27,"Campbell River, British Columbia",Real Estate Developer
+Bachelorette,6,06_CHRIS_L,Chris Lambton,33,"Dennis, Massachusetts",Landscaper
+Bachelorette,6,06_CHRIS_N,Chris Nordhorn,29,"Winter Park, Florida",Entrepreneur
+Bachelorette,6,06_CRAIG_M,Craig McKinnon,34,"Sarnia, Ontario",Dental Sales
+Bachelorette,6,06_CRAIG_R,Craig Robinson,27,"Langhorne, Pennsylvania",Lawyer
+Bachelorette,6,06_DEREK_X,Derek,28,"Warren, Michigan",Sales Manager
+Bachelorette,6,06_DERRICK_S,Derrick Schuster,27,"Manhattan Beach, California",Construction Engineer
+Bachelorette,6,06_FRANK_N,Frank Neuschaefer,31,"Bartlett, Illinois",Retail Manager
+Bachelorette,6,06_HUNTER_W,Hunter Wagner,28,"Fair Oaks Ranch, Texas",Internet Account Executive
+Bachelorette,6,06_JASON_W,Jason Whitehead,27,"Johnson City, Tennessee",Construction Consultant
+Bachelorette,6,06_JAY_R,Jay Resmini,29,"Barrington, Rhode Island",Lawyer
+Bachelorette,6,06_JESSE_B,Jesse Beck,24,"Peculiar, Missouri",General Contractor
+Bachelorette,6,06_JOHN_C,John Crivello,32,"Mukilteo, Washington",Hotel Business Development
+Bachelorette,6,06_JOHN_N,John N.,27,"Wichita, Kansas",Engineering Software Sales
+Bachelorette,6,06_JONATHAN_N,Jonathan Novack,30,"Boston, Massachusetts",Weatherman
+Bachelorette,6,06_JUSTIN_R,Justin Rego,26,"Toronto, Ontario",Entertainment Wrestler
+Bachelorette,6,06_KASEY_K,Kasey Kahl,27,"Fresno, California",Advertising Account Executive
+Bachelorette,6,06_KIRK_D,Kirk DeWindt,27,"Green Bay, Wisconsin",Sales Consultant
+Bachelorette,6,06_KYLE_H,Kyle Higgins,26,"Highlands Ranch, Colorado",Outdoorsman
+Bachelorette,6,06_PHIL_K,Phil Kayden,30,"Elmore, Ohio",Investment Manager
+Bachelorette,6,06_ROBERT_M,Roberto Martinez,26,"Tampa, Florida",Insurance Agent
+Bachelorette,6,06_STEVE_K,Steve Kocsis,28,"Chesterland, Ohio",Sales Representative
+Bachelorette,6,06_TY_B,Ty Brown,31,"Booneville, Mississippi",Medical Sales
+Bachelorette,6,06_TYLER_V,Tyler Morrow,25,"Helena, Montana",Catering Manager
+Bachelorette,6,06_TYLER_M,Tyler Vermette,25,"Chelsea, Vermont",Online Advertising
+Bachelor,7,07_ANITRA,Anitra,29,"Manhattan Beach, California",Makeup Artist
+Bachelor,7,07_BRENDA,Brenda,26,"New York, New York",Sales Coordinator
+Bachelor,7,07_CARRIE,Carrie,27,"Minneapolis, Minnesota",Computer Specialist
+Bachelor,7,07_DANUSHKA,Danushka,30,"Los Angeles, California",Fashion Model
+Bachelor,7,07_DEBBY,Debby,25,"Tornhill, Ontario",Flight Attendant
+Bachelor,7,07_EMILIE,Emilie,27,"Chicago, Illinois",Technology Sales
+Bachelor,7,07_GEITAN,Geitan,30,"Newport Beach, California",Realtor
+Bachelor,7,07_GINA MARIE,Gina Marie,28,"Fort Lauderdale, Florida",Bartender
+Bachelor,7,07_HEATHER,Heather,24,"Orlando, Florida",Contractor
+Bachelor,7,07_JENNY,Jenny,23,"Edmonton, Alberta",Marketing Coordinator
+Bachelor,7,07_KARA,Kara,26,"Woodland Hills, California",Nanny
+Bachelor,7,07_KATIE,Katie,25,"Tempe, Arizona",Resort Accountant
+Bachelor,7,07_KERRY,Kerry,32,"Chicago, Illinois",Director of Mergers & Acquisitions
+Bachelor,7,07_KIMBERLY,Kimberley,25,"Edmonton, Alberta",Swimsuit Model
+Bachelor,7,07_KINDLE,Kindle,23,"Rockwall, Texas",Pro Basketball Cheerleader
+Bachelor,7,07_KRISILY,Krisily,25,"Warwick, Rhode Island",Salon Coordinator
+Bachelor,7,07_KRISTEN,Kristen,30,"Boston, Massachusetts",Teacher
+Bachelor,7,07_KRISTINA,Kristina,27,"Brooklyn, New York",Writer
+Bachelor,7,07_KRISTINE,Kristine,23,"Fairfax Station, Virginia",Bikini Model
+Bachelor,7,07_KYSHAWN,Kyshawn,30,"Nashville, Tennessee",Bartender
+Bachelor,7,07_MEGAN,Megan,23,"Tallahassee, Florida",Retail Marketing
+Bachelor,7,07_SARAH B.,Sarah B.,24,"McKinney, Texas",Labor & Delivery Nurse
+Bachelor,7,07_SARAH W.,Sarah W.,24,"Los Angeles, California",Fashion Design
+Bachelor,7,07_SIOMARA,Siomara,25,"Chicago, Illinois",Loan Officer
+Bachelor,7,07_VALERIE,Valerie,28,"Wayne, New Jersey",Executive Assistant
+Bachelorette,7,07_AMES_B,Ames Brown,31,"Chadds Ford, Pennsylvania",Portfolio Manager
+Bachelorette,7,07_ANTHONY_S,Anthony Santucci,28,"Saddle River, New Jersey",Butcher
+Bachelorette,7,07_BEN_C,Ben Castoriano,28,"Lake Charles, Louisiana",Lawyer
+Bachelorette,7,07_BEN_F,Ben Flajnik,28,"Sonoma, California",Wine Maker
+Bachelorette,7,07_BENTLEY_W,Bentley Williams,28,"Alpine, Utah",Businessman
+Bachelorette,7,07_BLAKE_J,Blake Julian,27,"Steamboat Springs, Colorado",Dentist
+Bachelorette,7,07_CHRIS_D,Chris Drish,25,"Moline, Illinois",Sports Marketing Coordinator
+Bachelorette,7,07_CHRIS_M,Chris Malhomme,27,"Gibbons, Alberta",Construction Company CEO
+Bachelorette,7,07_CONSTANTINE_T,Constantine Tzortzis,30,"Cumming, Georgia",Restaurant Owner
+Bachelorette,7,07_FRANK_C,Frank Carpenter,29,"Anchorage, Alaska",College Admissions Director
+Bachelorette,7,07_JP_R,J.P. Rosenbaum,34,"Roslyn, New York",Construction Manager
+Bachelorette,7,07_JEFF_M,Jeff Medolla,35,"St. Louis, Missouri",Entrepreneur
+Bachelorette,7,07_JON_E,Jon Ellsworth,26,"Vancouver, Washington",E-Commerce Executive
+Bachelorette,7,07_LUCAS_D,Lucas Daniels,30,"Odessa, Texas",Oilfield Equipment Distributor
+Bachelorette,7,07_MATT_C,Matt Colombo,28,"Bridgewater, Massachusetts",Office Supply Salesman
+Bachelorette,7,07_MICHAEL_B,Michael Burns,29,"Providence, Rhode Island",Technology Salesman
+Bachelorette,7,07_NICK_P,Nick Peterson,26,"Odessa, Florida",Personal Trainer
+Bachelorette,7,07_ROB_D,Rob Dahm,27,"Monroe, Michigan",Technology Executive
+Bachelorette,7,07_RYAN_ML,"Ryan ""Mickey"" McLean",31,"Rochester, New York",Chef
+Bachelorette,7,07_RYAN_MI,Ryan Miller,27,"Novi, Michigan",Constructor Estimator
+Bachelorette,7,07_RYAN_P,Ryan Park,31,"San Luis Obispo, California",Solar Energy Executive
+Bachelorette,7,07_STEPHEN_D,Stephen D'Amico,27,"Portland, Connecticut",Hairstylist
+Bachelorette,7,07_TIM_M,Tim McCormack,35,"Massapequa, New York",Liquor Distributor
+Bachelorette,7,07_WEST_L,West Lee,30,"Walhalla, South Carolina",Lawyer
+Bachelorette,7,07_WILLIAM_H,William Holman,30,"Fostoria, Ohio",Cellular Phone Salesman
+Bachelor,8,08_ALI_D,Ali D,26,"Seattle, Washington",NBA Dancer
+Bachelor,8,08_ALLIE_G,Allie G,33,"Delray Beach, Florida","Doctor, Oncologist"
+Bachelor,8,08_APRIL,April,29,"Dallas, Texas",Corporate Real Estate
+Bachelor,8,08_COLE,Cole,26,"Walnut Creek, California",Sales Executive
+Bachelor,8,08_CORTNEY,Cortney,28,"Los Angeles, California",Law Clerk
+Bachelor,8,08_ELIZABETH,Elizabeth,24,"Windham, New Hampshire",Social Worker
+Bachelor,8,08_JAIME,Jaime,29,"Big Rock, Virginia",Physician Recruiter
+Bachelor,8,08_JEHAN,Jehan,29,"Chicago, Illinois",Vitamin Sales Rep
+Bachelor,8,08_JENNIFER,Jennifer,25,"Boston, Massachusetts",Model
+Bachelor,8,08_KATHY,Kathy,25,"Stockton, California",Graduate Student
+Bachelor,8,08_KRISTEN,Kristen,25,"Bonita Springs, Florida",Marketing Director
+Bachelor,8,08_KYLE,Kyle,25,"Newport Beach, California",Senior Copy Writer
+Bachelor,8,08_LISA,Lisa,24,"Overland Park, Kansas",IT Recruiter
+Bachelor,8,08_LIZA,Liza,23,"Chicago, Illinois",Trade Clerk
+Bachelor,8,08_MOANA,Moana,26,"Los Angeles, California",Distribution Manager
+Bachelor,8,08_PRINCESS,Princess,26,"Los Angeles, California",Substitute Teacher
+Bachelor,8,08_SARA_H,Sara H,24,"Minneapolis, Minnesota",Marketing Manager
+Bachelor,8,08_SARAH_B,Sarah B,23,"Winnipeg, Manitoba",Student
+Bachelor,8,08_SARAH_S,Sarah S,26,"Nashville, Tennessee",Kindergarten Teacher
+Bachelor,8,08_SHILOH,Shiloh,29,"Phoenix, Arizona",Advertising Manager
+Bachelor,8,08_STEPHANIE,Stephanie,25,"Walnut Creek, California",Public Relations Director
+Bachelor,8,08_SUSAN,Susan,25,"Overland Park, Kansas",Financial Associate
+Bachelor,8,08_TARA,Tara,23,"San Diego, California",Retail Sales
+Bachelor,8,08_VENUS,Venus,33,"Huntington Beach, California",Physician
+Bachelor,8,08_YVONNE,Yvonne,28,"Miami, Florida",CFO of Marketing Firm
+Bachelorette,8,08_AARON_M,Aaron Martell,36,"North Sydney, Nova Scotia",Biology Teacher
+Bachelorette,8,08_ALEJANDRO_V,Alejandro Velez,25,"San Francisco, California",Mushroom Farmer
+Bachelorette,8,08_ALESSANDRO_G,Alessandro Goulart,30,"Saint Paul, Minnesota",Grain Merchant
+Bachelorette,8,08_ARIE_L,Arie Luyendyk Jr.,30,"Scottsdale, Arizona",Race Car Driver
+Bachelorette,8,08_BRENT_R,Brent Richter,41,"Midland, Texas",Technology Salesman
+Bachelorette,8,08_CHARLIE_G,Charlie Grogan,32,"Worcester, Massachusetts",Recruiter
+Bachelorette,8,08_CHRIS_B,Chris Bukowski,25,"Chicago, Illinois",Corporate Sales Director
+Bachelorette,8,08_DAVID_H,David Homyk,33,"Charlottesville, Virginia",Singer/Songwriter
+Bachelorette,8,08_DOUG_C,Doug Clerget,33,"Tacoma, Washington",Single Dad/Real Estate Agent
+Bachelorette,8,08_JACKSON_L,Jackson Longnecker,29,"Lockport, Illinois",Fitness Model
+Bachelorette,8,08_JEANPAUL_L,Jean-Paul LaCount,35,"Moraga, California",Marine Biologist
+Bachelorette,8,08_JEF_H,Jef Holm,27,"St. George, Utah",Entrepreneur
+Bachelorette,8,08_JOE_G,Joe Gendreau,27,"Orlando, Florida",Field Energy Adviser
+Bachelorette,8,08_JOHN_W,John Wolfner,30,"Creve Coeur, Missouri",Data Destruction Specialist
+Bachelorette,8,08_KALON_M,Kalon McMahon,27,"Houston, Texas",Luxury Brand Consultant
+Bachelorette,8,08_KYLE_D,Kyle Dillon,29,"Long Beach, California",Financial Adviser
+Bachelorette,8,08_LERONE_A,Lerone Anu,29,"Laguna Beach, California",Real Estate Consultant
+Bachelorette,8,08_MICHAEL_N,Michael Nance,26,"Austin, Texas",Rehab Counselor
+Bachelorette,8,08_NATHAN_B,Nathan Baake,25,"Casa Grande, Arizona",Accountant
+Bachelorette,8,08_RANDY_W,Randy Lee Woyak,30,"Oak Creek, Wisconsin",Marketing Manager
+Bachelorette,8,08_RYAN_B,Ryan Bowers,31,"Evans, Georgia",Pro Sports Trainer
+Bachelorette,8,08_SEAN_L,Sean Lowe,28,"Irving, Texas",Insurance Agent
+Bachelorette,8,08_STEVIE_A,Stevie Alberino,26,"Monroe Township, New Jersey",Party M.C.
+Bachelorette,8,08_TONY_P,Tony Pieper,31,"Beaverton, Oregon",Single Dad/Lumber Trader
+Bachelorette,8,08_TRAVIS_P,Travis Pope,30,"Madison, Mississippi",Advertising Sales Representative
+Bachelor,9,09_AGNESE_P,Agnese Polliza,24,"Venice, Italy",Student
+Bachelor,9,09_ANDREA_S,Andrea Shirley,28,"Cincinnati, Ohio",Hotel concierge
+Bachelor,9,09_APRIL_J,April Jacobs,23,"Chicago, Illinois",Model
+Bachelor,9,09_BOWE_N,Britt (Bowe) Newton,28,"Columbus, Ohio",Beer chemist
+Bachelor,9,09_CARISSA_I,Carissa Ilburg,25,"Cattaraugus, New York",Attorney
+Bachelor,9,09_CLAUDIA_G,Claudia Gismondi,22,"Boca Raton, Florida",Restaurateur
+Bachelor,9,09_COSETTA_B,Cosetta Blanca,,Italy,Dancer
+Bachelor,9,09_DESIREE_V,Desiree Valentin,22,"Salt Lake City, Utah",Realtor
+Bachelor,9,09_ELLEN_D,Ellen DeMaio,30,"New Haven, Connecticut",Realtor
+Bachelor,9,09_ELYSE_H,Elyse Hammer,27,"New York, New York",Physician
+Bachelor,9,09_ERICA_R,Erica Rose,23,"Houston, Texas",Socialite
+Bachelor,9,09_GINA_C,Gina Clark,28,"Chicago, Illinois",Ultrasound technician
+Bachelor,9,09_HEATHER_S,Heather Sneed,34,"Aliquippa, Pennsylvania",Registered nurse
+Bachelor,9,09_JAMI_M,Jami Matzke,27,"Galveston, Texas",Event planner
+Bachelor,9,09_JEANETTE_P,Jeanette Pawula,23,"Bloomingdale, Illinois",Teacher
+Bachelor,9,09_JENNIFER_W,Jennifer Wilson,24,"Pembroke Pines, Florida",Teacher
+Bachelor,9,09_JESSICA_H,Jessica Horner,25,"Charlotte, North Carolina",Assistant buyer
+Bachelor,9,09_KIM_J,Kim Jackson,27,"Newport Beach, California",Interior designer
+Bachelor,9,09_LAURA_M,Laura Morgan,29,"San Diego, California",Dolphin trainer
+Bachelor,9,09_LISA_B,Lisa Blank,25,"Portland, Oregon",Marketing manager
+Bachelor,9,09_MERI_B,Meri Barr,27,"Biloxi, Mississippi",Attorney
+Bachelor,9,09_RENEE_S,Renee Snell,30,"Baltimore, Maryland",Broadcast marketer
+Bachelor,9,09_RITA_G,Rita Ghazal,29,"Richmond, Virginia",Policy advisor
+Bachelor,9,09_ROSELLA_F,Rosella Fratto,27,"Chicago, Illinois",Make-up artist
+Bachelor,9,09_SADIE_M,Sadie Murray,23,"Carlsbad, California",Publicist
+Bachelor,9,09_SARAH_S,Sarah Schnare,30,"Nelson, British Columbia",Journalist
+Bachelor,9,09_TARA_D,Tara Durr,24,"St. Augustine, Florida",Realtor
+Bachelorette,9,09_BEN_S,Ben Scott,28,"Lubbock, Texas",Entrepreneur
+Bachelorette,9,09_BRAD_M,Brad McKinzie,27,"Denver, Colorado",Accountant/DJ
+Bachelorette,9,09_BRANDON_A,Brandon Andreen,26,"Blaine, Minnesota",Painting Contractor
+Bachelorette,9,09_BRIAN_J,Brian Jarosinski,29,"Olney, Maryland",Financial Advisor
+Bachelorette,9,09_BROOKS_F,Brooks Forester,28,"Blackfoot, Idaho",Sales & Marketing
+Bachelorette,9,09_BRYDEN_V,Bryden Vukasin,26,"Havre, Montana",Iraq War Veteran
+Bachelorette,9,09_CHRIS_S,Chris Siegfried,27,"McMinnville, Oregon",Mortgage Broker
+Bachelorette,9,09_DAN_C,Dan Cox,30,"Dublin, California",Beverage Sales Director
+Bachelorette,9,09_DIOGO_C,Diogo Custodio,29,"Penha, Brazil",Ski Resort Manager
+Bachelorette,9,09_DREW_K,Drew Kenney,27,"Scottsdale, Arizona",Digital Marketing Analyst
+Bachelorette,9,09_JAMES_C,James Case,27,"Marietta, Georgia",Advertising Executive
+Bachelorette,9,09_JONATHAN_V,Jonathan Vollinger,26,"Hickory, North Carolina",Lawyer
+Bachelorette,9,09_JUAN_G,Juan Pablo Galavis,31,"Barquisimeto, Venezuela",Former Pro Soccer Player
+Bachelorette,9,09_KASEY_S,Kasey Stewart,29,"Tulsa, Oklahoma",Advertising Executive
+Bachelorette,9,09_LARRY_B,Larry Burchett,34,"Overland Park, Kansas",ER Doctor
+Bachelorette,9,09_MICAH_X,Micah,32,"Detroit Lakes, Minnesota",Law Student
+Bachelorette,9,09_MICHAEL_G,Michael Garofola,33,"Lindenhurst, New York",Federal Prosecutor
+Bachelorette,9,09_MIKE_X,Mike,28,"London, England",Dental Student
+Bachelorette,9,09_MIKEY_T,Mikey Tenerelli,30,"Glen Ellyn, Illinois",Plumbing Contractor
+Bachelorette,9,09_NICK_M,Nick Mucci,27,"Rochester, New York",Investment Adviser
+Bachelorette,9,09_NICK_R,Nick Roy,26,"Ridgefield, Connecticut",Tailor/Magician
+Bachelorette,9,09_ROBERT_G,Robert Graham,30,"Glendale, Arizona",Advertising Entrepreneur
+Bachelorette,9,09_WILL_R,Will Reese,28,"Federal Way, Washington",Banker
+Bachelorette,9,09_ZACK_K,Zack Kalter,28,"Phillips Ranch, California",Book Publisher
+Bachelorette,9,09_ZAK_W,Zak Waddell,31,"Dallas, Texas",Drilling Fluid Engineer
+Bachelor,10,10_ALEXIS_Y,Alexis Young,26,"Southlake, Texas",Attorney
+Bachelor,10,10_AMANDA_H,Amanda Hackney,26,"Dallas, Texas",Financial analyst
+Bachelor,10,10_AMBER_A,Amber Alchalabi,23,"Sugar Land, Texas",Teacher
+Bachelor,10,10_BEVIN_P,Bevin Nicole Powers,28,"Palo Alto, California",Assistant
+Bachelor,10,10_BLAKENEY_R,Blakeney Rowe,29,"Birmingham, Alabama",Radio sales
+Bachelor,10,10_CANDICE_D,Candice DeCost,23,"Hilton Head Island, South Carolina",Waitress
+Bachelor,10,10_CATHERINE_W,Catherine Warren,23,"Lake Forest, Illinois",Former Miss Illinois
+Bachelor,10,10_DANIELLE_I,Danielle Imwalle,25,"Bethel, Connecticut",Graphic Designer
+Bachelor,10,10_DANIELLE_V,Danielle Vallis,26,"Bronx, New York",Attorney
+Bachelor,10,10_ERIN_P,Erin Parker,24,"Logansport, Louisianna",Financial analyst
+Bachelor,10,10_JACKIE_T,Jackie Topelli,23,"Minneapolis, Minnesota",Executive coordinator
+Bachelor,10,10_JEANETTE_A,Jeanette Alvarez,27,"Tampa, Florida",Health care manager
+Bachelor,10,10_JESSICA_D,Jessica Devallo,32,"New York, New York",Hedge fund analyst
+Bachelor,10,10_KATE_B,Kate Brockhouse,24,"Ravenel, South Carolina",Boutique owner
+Bachelor,10,10_LINDA_M,Linda Malek,33,"Cuyahoga Falls, Ohio",Attorney
+Bachelor,10,10_LINDSAY_S,Lindsay Smith,22,"Lawrence, Kansas",Student
+Bachelor,10,10_NICOLE_C,Nicole Clary,26,"Charleston, South Carolina",Sales Manager
+Bachelor,10,10_PEYTON_W,Peyton Wright,24,"La Vergne, Tennessee",Sorority recruiter
+Bachelor,10,10_STEPHANIE_T,Stephanie Tipper,27,"Folly Beach, South Carolina",Organ donor coordinator
+Bachelor,10,10_STEPHANIE_W,Stephanie Wilhite,23,"Overland Park, Kansas",Project Manager
+Bachelor,10,10_SUSAN_A,Susan Anderson,23,"The Woodlands, Texas",Boutique manager
+Bachelor,10,10_TESSA_H,Tessa Horst,26,"San Francisco, California",Social Worker
+Bachelor,10,10_TIFFANY_W,Tiffany Forester,27,"St. Louis Park, Minnesota",Real estate sales/development
+Bachelor,10,10_TIFFANY_F,Tiffany Warren,28,"Boston, Massachusetts",Medical equipment sales rep
+Bachelor,10,10_TINA_W,Tina Wu,26,"Los Angeles, California",Medical student
+Bachelorette,10,10_ANDREW_P,Andrew Poole,30,"Portola Valley, California",Social Media Marketer
+Bachelorette,10,10_BRADLEY_W,Bradley Wisk,32,"Grosse Pointe, Michigan",Opera Singer
+Bachelorette,10,10_BRETT_M,Brett Melnick,29,"Warminster, Pennsylvania",Hairstylist
+Bachelorette,10,10_BRIAN_O,Brian Osborne,27,"Camp Hill, Pennsylvania",Basketball Coach
+Bachelorette,10,10_CARL_K,Carl King,30,"Hollywood, California",Firefighter
+Bachelorette,10,10_CHRIS_S,Chris Soules,32,"Lamont, Iowa",Farmer
+Bachelorette,10,10_CODY_S,Cody Sattler,28,"Oakley, Kansas",Personal Trainer
+Bachelorette,10,10_CRAIG_M,Craig Muhlbauer,29,"Defiance, Iowa",Tax Accountant
+Bachelorette,10,10_DYLAN_P,Dylan Petitt,26,"Longmeadow, Massachusetts",Accountant
+Bachelorette,10,10_EMIL_S,Emil Schaffroth,33,"Portland, Oregon",Helicopter Pilot
+Bachelorette,10,10_ERIC_H,Eric Hill,31,"Citrus Heights, California",Explorer
+Bachelorette,10,10_JJ_O,J.J. O'Brien,30,"Hanover, Massachusetts",Pantsapreneur
+Bachelorette,10,10_JASON_L,Jason Leep,35,"Sturgeon Bay, Wisconsin",Urgent Care Physician
+Bachelorette,10,10_JOSH_B,Josh Bauer,29,"Evergreen, Colorado",Telecommunication Marketer
+Bachelorette,10,10_JOSH_M,Josh Murray,29,"Athens, Georgia",Former Professional Baseball Player
+Bachelorette,10,10_MARCUS_G,Marcus Grodd,25,"Medicine Hat, Alberta",Sports Medicine Manager
+Bachelorette,10,10_MARQUEL_M,Marquel Martin,26,"Rialto, California",Sponsorship Salesman
+Bachelorette,10,10_MIKE_C,Mike Campanelli,29,"Guilderland, New York",Bartender
+Bachelorette,10,10_NICK_S,Nick Sutter,27,"Barrington, Illinois",Professional Golfer
+Bachelorette,10,10_NICK_V,Nick Viall,33,"Waukesha, Wisconsin",Software Sales Executive
+Bachelorette,10,10_PATRICK_J,Patrick Jagodzinski,29,"Clinton, New Jersey",Advertising Executive
+Bachelorette,10,10_RON_W,Ron Worrell,28,"Nahariya, Israel",Beverage Sales Manager
+Bachelorette,10,10_RUDIE_D,Rudie Dane,31,"Yorba Linda, California",Attorney
+Bachelorette,10,10_STEVEN_W,Steven Woolworth,30,"Meadow Vista, California",Snowboard Product Developer
+Bachelorette,10,10_TASOS_H,Tasos Hernandez,30,"Denver, Colorado",Wedding Event Coordinator
+Bachelor,11,11_BETTINA_B,Bettina Bell,27,"Washington, D.C.",Realtor
+Bachelor,11,11_DEANNA_P,DeAnna Pappas,25,"Newnan, Georgia",Realtor
+Bachelor,11,11_ERIN_G,Erin Gardner,25,"Tampa, Florida",Publishing sales executive
+Bachelor,11,11_STEPHY_K,"Estefania ""Stephy"" Kootz",26,"Atlanta, Georgia",Executive assistant
+Bachelor,11,11_HILARY_R,Hillary Reisinger,27,"Philadelphia, Pennsylvania",Registered nurse
+Bachelor,11,11_JADE_B,Jade Beazley,24,"Nashville, Tennessee",Boutique sales worker
+Bachelor,11,11_JENNI_C,Jenni Croft,27,"Wichita, Kansas",Phoenix Suns Cheerleader
+Bachelor,11,11_JESSICA_K,Jessica Kiss,27,"Lady Lake, Florida",News anchor
+Bachelor,11,11_JULI_G,Juli Gilliam,24,"Chicago, Illinois",Law student
+Bachelor,11,11_KIM_O,Kim Orville,31,"Woodbridge, Connecticut",Realtor
+Bachelor,11,11_KRISTY_K,Kristy Katzmann,29,"Gurnee, Illinois",Acupuncturist
+Bachelor,11,11_LINDSEY_H,Lindsey Hawkins,25,"Livonia, Michigan",Model
+Bachelor,11,11_LORI_L,Lori Langley,33,"Annapolis, Maryland",Timothy's Biology teacher
+Bachelor,11,11_MALLORY_S,Mallory Simons,24,"Honolulu, Hawaii",Nanny
+Bachelor,11,11_MCCARTEN_D,McCarten Delaney,26,"Lemon Grove, California",Account manager
+Bachelor,11,11_MELISSA_B,Melissa Buschel,28,"Westchester, New York",Event planner
+Bachelor,11,11_MICHELE_L,Michele Leavy,30,"South Brunswick, New Jersey",Realtor
+Bachelor,11,11_MORGAN_B,Morgan Becker,24,"Tempe, Arizona",Graduate student
+Bachelor,11,11_NATALIE_V,Natalie Velasco,25,"Duncanville, Texas",Law student
+Bachelor,11,11_REGINA_D,Regina Doringa,31,"San Diego, California",Account representative
+Bachelor,11,11_SARAH_N,Sarah Newlon,23,"O'Fallon, Illinois",Bar manager
+Bachelor,11,11_SHEENA_S,Sheena Stewart,23,"Walnut Creek, California",Internet marketing executive
+Bachelor,11,11_SOLISA_S,Solisa Shoop,25,"Georgetown, Texas",Esthetician
+Bachelor,11,11_SUSAN_S,Susan Stein,35,"St. Charles, Illinois",Project analyst
+Bachelor,11,11_TAUNI_N,Tauni Nessler,31,"St. Louis Park, Minnesota",Emergency room nurse
+Bachelorette,11,11_BEN_H,Ben Higgins,26,"Warsaw, Indiana",Software Salesman
+Bachelorette,11,11_BEN_Z,Ben Zorn,26,"Falls Church, Virginia",Fitness Coach
+Bachelorette,11,11_BRADLEY_C,Bradley Cox,25,"Duluth, Georgia",International Auto Shipper
+Bachelorette,11,11_BRADY_T,Brady Toops,33,"Wauseon, Ohio",Singer/Songwriter
+Bachelorette,11,11_CHRIS_S,Chris Strandburg,28,"Granite Bay, California",Dentist
+Bachelorette,11,11_CLINT_A,Clint Arlis,27,"Batavia, Illinois",Architectural Engineer
+Bachelorette,11,11_COREY_S,Corey Stansell,30,"New York, New York",Investment Banker
+Bachelorette,11,11_CORY_S,Cory Shivar,35,"Seven Springs, North Carolina",Residential Developer
+Bachelorette,11,11_DANIEL_F,Daniel Finney,28,"Nashville, Tennessee",Fashion Designer
+Bachelorette,11,11_DAVID_X,David,28,"Orlando, Florida",Real Estate Agent
+Bachelorette,11,11_IAN_T,Ian Thomson,28,"Ramsey, New Jersey",Executive Recruiter
+Bachelorette,11,11_JJ_L,J.J. Lane III,32,"Dacono, Colorado",Former Investment Banker
+Bachelorette,11,11_JARED_H,Jared Haibon,26,"Warwick, Rhode Island",Restaurant Manager
+Bachelorette,11,11_JOE_B,Joe Bailey,28,"Glasgow, Kentucky",Insurance Agent
+Bachelorette,11,11_JONATHAN_H,Jonathan Holloway,33,"Sylvan Lake, Michigan",Automotive Spokesman
+Bachelorette,11,11_JOSH_S,Josh Seiter,27,"Chicago, Illinois",Law Student/Exotic Dancer
+Bachelorette,11,11_JOSHUA_A,Joshua Albers,31,"Kuna, Idaho",Industrial Welder
+Bachelorette,11,11_JUSTIN_R,Justin Reich,28,"Elgin, Illinois",Fitness Trainer
+Bachelorette,11,11_KUPAH_J,Kupah James,32,"Boston, Massachusetts",Entrepreneur
+Bachelorette,11,11_NICK_V,Nick Viall,34,"Waukesha, Wisconsin",Software Sales Executive
+Bachelorette,11,11_RYAN_B,Ryan Beckett,32,"Wellington, Florida",Realtor
+Bachelorette,11,11_RYAN_M,Ryan McDill,28,"Kansas City, Missouri",Junkyard Specialist
+Bachelorette,11,11_SHAWN_B,Shawn Booth,28,"Windsor Locks, Connecticut",Personal Trainer
+Bachelorette,11,11_SHAWN_E,Shawn Evans,31,"London, Ontario",Amateur Sex Coach
+Bachelorette,11,11_TANNER_T,Tanner Tolbert,28,"Stilwell, Kansas",Auto Finance Manager
+Bachelorette,11,11_TONY_H,Tony Harris,35,"St. Louis, Missouri",Healer
+Bachelor,12,12_ALYSSA_G,Alyssa Gill,24,"Boise, Idaho",Biology student
+Bachelor,12,12_AMANDA_P,Amanda Petterman,26,"LaFollette, Tennessee",Law student
+Bachelor,12,12_AMANDA_R,Amanda Rantuccio,27,"Niceville, Florida",Account Executive
+Bachelor,12,12_AMY_R,Amy,22,"Stockton, California",Nanny
+Bachelor,12,12_ASHLEE_W,Ashlee Williss,22,"Jacksonville Beach, Florida",Singer-songwriter
+Bachelor,12,12_CARRI_P,Carri Perrier,25,"Oklahoma City, Oklahoma",Church marketing rep.
+Bachelor,12,12_CHELSEA_W,Chelsea Wanstrath,25,"Durango, Colorado",Pharmaceutical sales rep.
+Bachelor,12,12_DENISE_H,Denise Hawthorne,30,"Washington, D.C.",Attorney and former White House aide
+Bachelor,12,12_DEVON_A,Devon Antin,24,"Austin, Texas",Makeup artist
+Bachelor,12,12_ERIN_H,Erin Harper,25,"Seattle, Washington",Event planner
+Bachelor,12,12_ERIN_S,Erin Storm,33,"San Marcos, California",Hot-dog vendor
+Bachelor,12,12_HOLLY_D,Holly Durst,24,"Suffield, Ohio",Children's book author
+Bachelor,12,12_KELLY_D,Kelly Duncan,25,"Hollywood, California",Medical sales rep.
+Bachelor,12,12_KRISTINE_H,Kristine Heffelfinger,33,"Dillsburg, Pennsylvania",Personal trainer
+Bachelor,12,12_LESLEY_G,Lesley Geyer,23,"Tampa, Florida",Youth minister
+Bachelor,12,12_MARSHANA_R,Marshana Ritchie,27,"Brooklyn, New York",Fashion designer
+Bachelor,12,12_MICHELE_R,Michele Romero,33,"Laguna Niguel, California",Interior designer
+Bachelor,12,12_MICHELLE_P,Michelle Procopio,28,"Syracuse, New York",Administrative assistant
+Bachelor,12,12_NOELLE_D,Noelle Drake,26,"Loveland, Colorado",Photographer
+Bachelor,12,12_REBECCA_L,Rebecca LeBlanc,30,"Alamo, California",Attorney
+Bachelor,12,12_ROBIN_C,Robin Canfield,22,"Holland, Michigan",Advertising coordinator
+Bachelor,12,12_SHAYNE_L,Shayne Lamas,22,"Malibu, California",Actress
+Bachelor,12,12_STACEY_E,Stacey Elza,26,"Chicago, Illinois",Graduate student
+Bachelor,12,12_TAMARA_S,Tamara Sketz,23,"Beverly Hills, California",Cocktail waitress
+Bachelor,12,12_TIFFANY_T,Tiffany Thornburg,33,"San Francisco, California",Real estate marketing rep.
+Bachelorette,12,12_ALEX_W,Alex Woytkiw,25,"Oceanside, California",U.S. Marine
+Bachelorette,12,12_ALI_Z,Ali Zahiri,27,"Santa Monica, California",Bartender
+Bachelorette,12,12_BRANDON_H,Brandon Howell,28,"Marysville, Washington",Hipster
+Bachelorette,12,12_CHAD_J,Chad Johnson,28,"Jenks, Oklahoma",Luxury Real Estate Agent
+Bachelorette,12,12_CHASE_M,Chase McNary,27,"Castle Rock, Colorado",Medical Sales Rep
+Bachelorette,12,12_CHRISTIAN_B,Christian Bishop,26,"Los Angeles, California",Telecom Consultant
+Bachelorette,12,12_COLEY_K,Coley Knust,27,"Chicago, Illinois",Real Estate Consultant
+Bachelorette,12,12_DANIEL_M,Daniel Maguire,31,"Lions Bay, British Columbia",Male Model
+Bachelorette,12,12_DEREK_P,Derek Peth,29,"Waverly, Iowa",Commercial Banker
+Bachelorette,12,12_EVAN_B,Evan Bass,33,"Hartford, Connecticut",Erectile Dysfunction Specialist
+Bachelorette,12,12_GRANT_K,Grant Kemp,27,"San Francisco, California",Firefighter
+Bachelorette,12,12_JAKE_P,Jake Patton,26,"Playa Vista, California",Landscape Architect
+Bachelorette,12,12_JAMES_F,James Fuertes,34,"Franklin, Tennessee",Boxing Club Owner
+Bachelorette,12,12_JAMES_S,James Spadafore,27,"Phoenix, Arizona",Bachelor Superfan
+Bachelorette,12,12_JAMES_T,James Taylor,29,"Katy, Texas",Singer-Songwriter
+Bachelorette,12,12_JONATHAN_H,Jonathan Hamilton,29,"Vancouver, British Columbia",Technical Sales Rep
+Bachelorette,12,12_JORDAN_R,Jordan Rodgers,27,"Chico, California",Former Pro Quarterback
+Bachelorette,12,12_LUKE_P,Luke Pell,31,"Burnet, Texas",War Veteran
+Bachelorette,12,12_NICK_B,Nick Benvenutti,33,"Carthage, Illinois",Electrical Engineer
+Bachelorette,12,12_NICK_S,Nick Sharp,26,"San Francisco, California",Software Salesman
+Bachelorette,12,12_PETER_M,Peter Medina,26,"Rockdale, Illinois",Staffing Agency Manager
+Bachelorette,12,12_ROBBY_H,Robby Hayes,27,"St. Augustine, Florida",Former Competitive Swimmer
+Bachelorette,12,12_SAL_D,Sal DeJulio,28,"Hubbard, Ohio",Operations Manager
+Bachelorette,12,12_VINCENT_V,"Vincent ""Vinny"" Ventiera",28,"Kings Park, New York",Barber
+Bachelorette,12,12_WELLS_A,Wells Adams,31,"Monterey, California",Radio DJ
+Bachelorette,12,12_WILL_H,Will Haduch,26,"Jersey City, New Jersey",Civil Engineer
+Bachelor,13,13_ANN_L,Ann Lueders,24,"Phoenix, Arizona",Flight Attendant
+Bachelor,13,13_DOMINIQUE_C,Dominique Carta,26,"Mt. Carmel, Pennsylvania",Medical Sales Rep.
+Bachelor,13,13_EMILY_H,Emily Hillis,23,"Seattle, Washington",Casino Marketing Rep.
+Bachelor,13,13_ERICA_D,Erica DeSimone,25,"Monroe, Connecticut",Account Executive
+Bachelor,13,13_JACKIE_H,Jackie Hickey,26,"Springfield, Massachusetts",Wedding Coordinator
+Bachelor,13,13_JILLIAN_H,Jillian Harris,29,"Peace River, Alberta",Interior Designer
+Bachelor,13,13_JULIE_D,Julie Dermotta,26,"Columbus, Ohio",Teacher
+Bachelor,13,13_KARI_F,Kari Fajen,27,"Lee's Summit, Missouri",Account Executive
+Bachelor,13,13_LAUREN_W,Lauren Wanger,27,"Marlboro, New Jersey",Teacher
+Bachelor,13,13_LISA_G,Lisa Gonzalez,28,"Boise, Idaho",Public Relations Associate
+Bachelor,13,13_MEGAN_P,Megan Parris,25,"Sewickley, Pennsylvania",Single Mother and Lacrosse Coach
+Bachelor,13,13_MELISSA_R,Melissa Rycroft,25,"Dallas, Texas",Sales Representative
+Bachelor,13,13_MOLLY_M,Molly Malaney,24,"Brookfield, Wisconsin",Department Store Buyer
+Bachelor,13,13_NAOMI_C,Naomi Rose Crespo,24,"Carlsbad, California",Flight Attendant
+Bachelor,13,13_NATALIE_G,Natalie Getz,27,"Morton, Illinois",Human Resources Recruiter
+Bachelor,13,13_NIKKI_K,"Nicole ""Nikki"" Kaapke",29,"Blue Island, Illinois",Administrative Assistant
+Bachelor,13,13_NICOLE_M,Nicole Mah,25,"Calgary, Alberta",Menswear Buyer
+Bachelor,13,13_RAQUEL_M,Raquel Medeiros,27,"Recife, Pernambuco, Brazil",Medical Student
+Bachelor,13,13_RENEE_S,Renee Simlak,36,"Southfield, Michigan",Jewelry Designer
+Bachelor,13,13_SHANNON_B,Shannon Bair,29,"Marshall, Missouri",Dental Hygienist
+Bachelor,13,13_SHARON_S,Sharon Staebell,32,"Batavia, New York",Teacher
+Bachelor,13,13_SHELBY_G,Shelby Gillespie,23,"Stockton, California",Account Executive
+Bachelor,13,13_STACIA_M,Stacia Mann,24,"Orem, Utah",Single Mother & Charity Accountant
+Bachelor,13,13_STEPHANIE_H,Stephanie Hogan,34,"Huntsville, Alabama",Single Mother & Medical Marketing Rep.
+Bachelor,13,13_TREASURE_M,Treasure Morgan,28,"Salt Lake City, Utah",Single Mother and Nurse Practitioner
+Bachelorette,13,13_ADAM_G,Adam Gottschalk,27,"Dallas, Texas",Real Estate Agent
+Bachelorette,13,13_ALEX_B,Alex Bordyukov,28,"Grosse Pointe, Michigan",Information Systems Supervisor
+Bachelorette,13,13_ANTHONY_B,Anthony Battle,26,"Chicago, Illinois",Education Software Manager
+Bachelorette,13,13_BLAKE_E,Blake Elarbee,31,"Marina del Rey, California",Aspiring Drummer
+Bachelorette,13,13_BLAKE_K,Blake Killpack,29,"San Francisco, California",U.S. Marine Veteran
+Bachelorette,13,13_BRADY_E,Brady Ervin,29,"Eden Prairie, Minnesota",Male Model
+Bachelorette,13,13_BRYAN_A,Bryan Abasolo,37,"Miami, Florida",Chiropractor
+Bachelorette,13,13_BRYCE_P,Bryce Powers,30,"Orlando, Florida",Firefighter
+Bachelorette,13,13_DEAN_U,Dean Unglert,26,"Aspen, Colorado",Startup Recruiter
+Bachelorette,13,13_DEMARIO_J,DeMario Jackson,30,"Century City, California",Executive Recruiter
+Bachelorette,13,13_ERIC_B,Eric Bigger,29,"Baltimore, Maryland",Personal Trainer
+Bachelorette,13,13_FRED_J,Fred Johnson,27,"Dallas, Texas",Executive Assistant
+Bachelorette,13,13_GRANT_H,Grant Hubsher,29,"Palm Harbor, Florida",Emergency Medicine Physician
+Bachelorette,13,13_IGGY_R,"Ignacio ""Iggy"" Rodriguez",30,"Pasadena, California",Consulting Firm CEO
+Bachelorette,13,13_JACK_S,Jack Stone,32,"Dallas, Texas",Attorney
+Bachelorette,13,13_JAMEY_K,Jamey Kocan,32,"Santa Monica, California",Sales Account Executive
+Bachelorette,13,13_JEDIDIAH_B,Jedidiah Ballard,35,"Augusta, Georgia",ER Physician
+Bachelorette,13,13_JONATHAN_T,Jonathan Treece,31,"New Smyrna Beach, Florida",Tickle Monster
+Bachelorette,13,13_JOSIAH_G,Josiah Graham,28,"Plantation, Florida",Prosecuting Attorney
+Bachelorette,13,13_DIGGY_M,"Kenneth ""Diggy"" Moreland",31,"Chicago, Illinois",Senior Inventory Analyst
+Bachelorette,13,13_KENNY_L,Kenny Layne,35,"Orlando, Florida",Professional Wrestler
+Bachelorette,13,13_KYLE_S,Kyle Sherwood,26,"Stratford, Connecticut",Marketing Consultant
+Bachelorette,13,13_LEE_G,Lee Garrett,30,"Jacksonville, Florida",Singer/Songwriter
+Bachelorette,13,13_LUCAS_Y,Lucas Yancey,30,"Woodside, California",Whaboom
+Bachelorette,13,13_MATT_M,"Matthew ""Matt"" Munson",32,"Meriden, Connecticut",Construction Sales Rep
+Bachelorette,13,13_MICHAEL_B,Michael Black,26,"Chicago, Illinois",Former Professional Basketball Player
+Bachelorette,13,13_MILTON_L,Milton LaCroix,31,"North Bay Village, Florida",Hotel Recreation Supervisor
+Bachelorette,13,13_MOHIT_S,Mohit Sehgal,26,"Pacifica, California",Product Manager
+Bachelorette,13,13_PETER_K,Peter Kraus,31,"Madison, Wisconsin",Business Owner
+Bachelorette,13,13_ROB_H,"Robert ""Rob"" Howard",30,"Calgary, Canada",Law Student
+Bachelorette,13,13_WILL_G,Will Gaskins,28,"White Plains, New York",Sales Manager
+Bachelor,14,14_LEX_M,"Alexa ""Lex"" McAllister",25,"Galloway, Ohio",Entrepreneur
+Bachelor,14,14_ALI_F,Ali Fedotowsky,25,"Williamstown, Massachusetts",Advertising Account Manager
+Bachelor,14,14_ASHLEIGH_H,Ashleigh Hunt,25,"North Potomac, Maryland",Account Manager
+Bachelor,14,14_ASHLEY_E,Ashley Elmore,29,"Pittsburgh, Pennsylvania",Teacher
+Bachelor,14,14_CAITLYN_M,Caitlyn McCabe,24,"Winfield, Illinois",Spokesmodel
+Bachelor,14,14_CHANNY_C,Channy Choch,29,"Santa Rosa, California",Mortgage Loan Officer
+Bachelor,14,14_CRISTINA_M,Christina McCasland,25,"San Diego, California",Restaurant Manager
+Bachelor,14,14_CORRIE_A,Corrie Adamson,23,"Kissimmee, Florida",Wardrobe Consultant
+Bachelor,14,14_ELIZABETH_KI,Elizabeth Kitt,29,"Imperial, Nebraska",Nanny
+Bachelor,14,14_ELIZABETH_KR,Elizabeth Kreft,29,"Union, Kentucky","Captain, Air National Guard"
+Bachelor,14,14_ELLA_N,Ella Nolan,30,"La Follette, Tennessee",Hair Stylist
+Bachelor,14,14_EMILY_H,Emily Harkins,23,"West Chester, Ohio",Fitness Model
+Bachelor,14,14_GIA_A,Gia Allemand,26,"New York, New York",Swimsuit Model
+Bachelor,14,14_JESSIE_S,Jessie Sulidis,25,"Oakville, Ontario",Cosmetic Sales Manager
+Bachelor,14,14_KATHRYN_S,Kathryn Sherlock,25,"Lexington, Kentucky",Corporate Flight Attendant
+Bachelor,14,14_KIMBERLY_S,Kimberly Sullivan,24,"Norman, Oklahoma",NBA Dancer
+Bachelor,14,14_KIRSTEN_P,Kirsten Pittman,25,"Aurora, Colorado",Waitress
+Bachelor,14,14_MICHELLE_K,Michelle Kujawa,26,"Anaheim, California",Office Manager
+Bachelor,14,14_ROZLYN_P,Rozlyn Papa,28,"Richmond, Virginia",Model/Make-Up Artist
+Bachelor,14,14_SHEILA_L,Sheila Marie Lidner,25,"Scottsdale, Arizona",Commercial Pilot
+Bachelor,14,14_STEPHANIE_M,Stephanie Mueller,24,"Morris, Illinois",Dance Teacher
+Bachelor,14,14_TENLEY_M,Tenley Molzahn,25,"Newberg, Oregon",College Admissions
+Bachelor,14,14_TIANA_K,Tiana Kruzel,31,"Calgary, Alberta",Medical Technician
+Bachelor,14,14_VALISHIA_S,Valishia Savage,32,"San Bernardino, California",Homemaker
+Bachelor,14,14_VIENNA_G,Vienna Girardi,23,"Geneva, Florida",Marketing Representative
+Bachelor,15,15_ALLI_T,Alli Travis,24,"Columbus, Ohio",Apparel merchant
+Bachelor,15,15_ASHLEY_H,Ashley Hebert,26,"Madawaska, Maine",Dental Student
+Bachelor,15,15_ASHLEY_S,Ashley Spivey,26,"Ellerbe, North Carolina",Nanny
+Bachelor,15,15_BRITNEE_X,Britnee,25,"Holland, Pennsylvania",Paralegal
+Bachelor,15,15_BRITT_B,Britt Billmaier,25,"Woodinville, Washington",Food writer
+Bachelor,15,15_CHANTAL_O,Chantal O'Brien,28,"Mercer Island, Washington",Executive Assistant
+Bachelor,15,15_CRISTY_C,Cristy Caserta,30,"Davie, Florida",Attorney
+Bachelor,15,15_EMILY_M,Emily Maynard,25,"Morgantown, West Virginia",Children's Hospital Event Planner
+Bachelor,15,15_JACKIE_G,Jackie Gordon,26,"Newport, Rhode Island",Artist
+Bachelor,15,15_JESSICA_A,"Jessica ""J"" Adams",26,"Seattle, Washington",Operations Manager
+Bachelor,15,15_JILL_R,Jill Ruskowski,28,"Frisco, Texas",Sales director
+Bachelor,15,15_KELTIE_C,Keltie Colleen,28,"Sherwood Park, Alberta",Radio City Rockette
+Bachelor,15,15_KIMBERLY_C,Kimberly Coon,27,"Orlando, Florida",Marketing Coordinator
+Bachelor,15,15_LACEY_G,Lacey Garbelman,27,"Tampa, Florida",Insurance agent
+Bachelor,15,15_LAUREN_M,Lauren Moore,26,"Culpeper, Virginia",High School Teacher
+Bachelor,15,15_LINDSAY_H,Lindsay Hill,25,"Plano, Texas",First grade teacher
+Bachelor,15,15_LISA_M,Lisa Morrisey,24,"Ottawa, Kansas",Marketing Coordinator
+Bachelor,15,15_LISA_P,Lisa Pastrich,27,"Dix Hills, New York",Sales Consultant
+Bachelor,15,15_MADISON_G,Madison Garton,25,"Vail, Colorado",Model
+Bachelor,15,15_MARISSA_M,Marissa May,26,"Mesa, Arizona",Sports Publicist
+Bachelor,15,15_MEGHAN_M,Meghan Merritt,30,"Princeton, New Jersey",Fashion Marketer
+Bachelor,15,15_MELISSA_S,Melissa Schreiber,32,"Westport, Connecticut",Waitress
+Bachelor,15,15_MICHELLE_M,Michelle Money,30,"Salt Lake City, Utah",Hair stylist
+Bachelor,15,15_RAICHEL_G,Raichel Goodyear,29,"Fullerton, California",Manscaper
+Bachelor,15,15_REBECCA_X,Rebecca,30,"Mission Viejo, California",Esthetician
+Bachelor,15,15_RENEE_H,Renee Halpin,28,"Palos Hills, Illinois",Nanny
+Bachelor,15,15_SARAH_L,Sarah Ledtke,25,"Saginaw, Michigan",Musical Theatre Performer
+Bachelor,15,15_SARAH_P,Sarah Powell,27,"Denver, Colorado",Real Estate Broker
+Bachelor,15,15_SHAWNTEL_N,Shawntel Newton,25,"Chico, California",Funeral Director
+Bachelor,15,15_STACEY_Q,Stacey Quirpel,26,"Quincy, Massachusetts",Bartender
+Bachelor,16,16_AMBER_B,Amber Bacon,23,"Port Coquitlam, British Columbia",Labor and delivery nurse
+Bachelor,16,16_AMBER_T,Amber Tierney,28,"Waverly, Nebraska",Critical care nurse
+Bachelor,16,16_ANNA_S,Anna Snowball,25,"Detroit, Michigan",Student
+Bachelor,16,16_BLAKELEY_J,Blakeley Jones,33,"Rutherfordton, North Carolina",VIP cocktail waitress
+Bachelor,16,16_BRITTNEY_S,Brittney Schreiner,26,"Colorado Springs, Colorado",Medical sales representative
+Bachelor,16,16_CASEY_S,Casey Shteamer,26,"Leawood, Kansas",Trading clerk
+Bachelor,16,16_COURTNEY_R,Courtney Robertson,28,"Scottsdale, Arizona",Model
+Bachelor,16,16_DIANNA_M,Dianna Martinez,30,"San Gabriel, California",Nonprofit director
+Bachelor,16,16_ELYSE_M,Elyse Myers,24,"Chicago, Illinois",Personal trainer
+Bachelor,16,16_EMILY_O,Emily O'Brien,27,"Chapel Hill, North Carolina",PhD Student
+Bachelor,16,16_ERIKA_U,Erika Uhlig,23,"Charlottesville, Virginia",Law student
+Bachelor,16,16_HOLLY_J,Holly Johnson,34,"Salyersville, Kentucky",Pharmaceutical sales representative
+Bachelor,16,16_JACLYN_S,Jaclyn Swartz,27,"Newton, Massachusetts",Advertising account manager
+Bachelor,16,16_JAMIE_O,Jamie Otis,25,"Dryden, New York",Registered nurse
+Bachelor,16,16_JENNA_B,Jenna Burke,27,"Loveland, Ohio",Blogger
+Bachelor,16,16_JENNIFER_F,Jennifer Fritsch,28,"Cache, Oklahoma",Accountant
+Bachelor,16,16_KACIE_B,Kacie Boguskie,24,"Clarksville, Tennessee",Administrative assistant
+Bachelor,16,16_LINDZI_C,Lindzi Cox,27,"Newcastle, Washington",Business development manager
+Bachelor,16,16_LYNDSIE_J,Lyndsie James,29,"London, England",Internet entrepreneur
+Bachelor,16,16_MONICA_S,Monica Spannbauer,33,"Yuba, California",Dental consultant
+Bachelor,16,16_NICKI_S,Nicki Sterling,26,"Hurst, Texas",Dental hygienist
+Bachelor,16,16_RACHEL_T,Rachel Truehart,27,"Southampton, Massachusetts",Fashion sales representative
+Bachelor,16,16_SAMANTHA_L,Samantha Levey,26,"Pittsburgh, Pennsylvania",Advertising account manager
+Bachelor,16,16_SHAWN_R,Shawn Reynolds,28,"Cincinnati, Ohio",Financial advisor
+Bachelor,16,16_SHIRA_A,Shira Astrof,35,"Massapequa Park, New York",Actress
+Bachelor,17,17_AMANDA_M,Amanda Meyer,26,"Bakersfield, California",Fit Model
+Bachelor,17,17_ASHLEE_F,AshLee Frazier,32,"Houston, Texas",Personal Organizer
+Bachelor,17,17_ASHLEY_H,Ashley Harper,25,"Garner, North Carolina",Fashion Model
+Bachelor,17,17_ASHLEY_P,Ashley Palenkas,28,"Macomb, Michigan",Hair Stylist
+Bachelor,17,17_BROOKE_B,Brooke Burchette,25,"Pittsburgh, Pennsylvania",Community Organizer
+Bachelor,17,17_CATHERINE_G,Catherine Giudici,26,"Seattle, Washington",Graphic Designer
+Bachelor,17,17_DANIELLA_M,Daniella McBride,24,"Belmont, California",Commercial Casting Associate
+Bachelor,17,17_DESIREE_H,Desiree Hartsock,26,"Northglenn, Colorado",Bridal Stylist
+Bachelor,17,17_DIANA_W,Diana Weeks Willardson,31,"Sandy, Utah",Salon Owner
+Bachelor,17,17_JACKIE_P,Jackie Parr,25,"Ormond Beach, Florida",Cosmetics Consultant
+Bachelor,17,17_KACIE_B,Kacie Boguskie,25,"Clarksville, Tennessee",Administrative Assistant
+Bachelor,17,17_KATIE_L,Katie Levans,27,"Woodstock, Illinois",Yoga Instructor
+Bachelor,17,17_KELLY_D,Kelly Dutton,28,"Chattanooga, Tennessee",Cruise Ship Entertainer
+Bachelor,17,17_KERIANN_M,Keriann Miranda,29,"Agoura Hills, California",Entrepreneur
+Bachelor,17,17_KRISTY_K,Kristy Kaminski,25,"Darien, Wisconsin",Model
+Bachelor,17,17_LACEY_L,Lacey Latka,24,"Stevenson Ranch, California",Graduate Student
+Bachelor,17,17_LAUREN_M,Lauren Marchetti,27,"Cranston, Rhode Island",Journalist
+Bachelor,17,17_LESLEY_M,Lesley Murphy,24,"Fort Smith, Arkansas",Political Consultant
+Bachelor,17,17_LESLIE_H,Leslie Hughes,28,"Ruskin, Florida",Poker Dealer
+Bachelor,17,17_LINDSAY_Y,Lindsay Yenter,24,"Fort Bragg, North Carolina",Substitute Teacher
+Bachelor,17,17_PAIGE_V,Paige Vigil,25,"Minnetonka, Minnesota",Jumbotron Operator
+Bachelor,17,17_ROBYN_H,Robyn Howard,24,"Topeka, Kansas",Oil Field Account Manager
+Bachelor,17,17_SARAH_H,Sarah Herron,26,"Evergreen, Colorado",Advertising Executive
+Bachelor,17,17_SELMA_A,Selma Alameri,29,"Borrego Springs, California",Real Estate Dealer
+Bachelor,17,17_TARYN_D,Taryn Renee Daniels,30,"Troutdale, Oregon",Health Club Manager
+Bachelor,17,17_TIERRA_L,Tierra LiCausi,24,"Las Vegas, Nevada",Leasing Consultant
+Bachelor,18,18_ALEXIS_M,Alexis Morgado,24,"Tampa, Florida",Communications Director/NHL Ice Girl
+Bachelor,18,18_ALLI_R,Alli Restko,26,"Orland Park, Illinois",Nanny
+Bachelor,18,18_AMY_J,Amy Jokinen,31,"Apopka, Florida",Massage Therapist
+Bachelor,18,18_AMY_L,Amy Long,27,"Clermont, Florida",Local News Reporter
+Bachelor,18,18_ANDI_D,Andi Dorfman,26,"Buckhead, Georgia",Assistant District Attorney
+Bachelor,18,18_ASHLEY_P,Ashley Poe,25,"Roanoke, Texas",Grade School Teacher
+Bachelor,18,18_CASSANDRA_F,Cassandra Ferguson,22,"Shelby Charter Township, Michigan",Former NBA Dancer
+Bachelor,18,18_CHANTEL_F,Chantel Forrest,27,"Miami, Florida",Account Manager
+Bachelor,18,18_CHELSIE_W,Chelsie Webster,24,"Lexington, Ohio",Science Educator
+Bachelor,18,18_CHRISTINE_L,Christine Llano,23,"Miami, Florida",Police Support Specialist
+Bachelor,18,18_CHRISTY_H,Christy Hansen,24,"Aurora, Illinois",Marketing Manager
+Bachelor,18,18_CLARE_C,Clare Crawley,32,"Sacramento, California",Hairstylist
+Bachelor,18,18_DANIELLE_R,Danielle Ronco,25,"Litchfield, Illinois",Psychiatric Nurse
+Bachelor,18,18_ELISE_M,Elise Mosca,27,"Forty Fort, Pennsylvania",First Grade Teacher
+Bachelor,18,18_KAT_H,Kat Hurd,29,"Iowa City, Iowa",Medical Sales Representative/NBA Dancer
+Bachelor,18,18_KELLY_T,Kelly Travis,27,"Conyers, Georgia",Dog Lover
+Bachelor,18,18_KYLIE_L,Kylie Lewis,23,"Rockford, Illinois",Interior Designer
+Bachelor,18,18_LACY_F,Lacy Faddoul,25,"Antelope Acres, California",Nursing Home Owner
+Bachelor,18,18_LAUREN_H,Lauren Higginson,25,"Edmond, Oklahoma",Mineral Coordinator
+Bachelor,18,18_LAUREN_S,Lauren Solomon,26,"Austin, Texas",Music Composer
+Bachelor,18,18_LUCY_A,"Lucinda ""Lucy"" Aragon",25,"Santa Barbara, California",Free Spirit
+Bachelor,18,18_MAGGIE_G,Maggie Gantt,25,"Wagener, South Carolina",Personal Banker
+Bachelor,18,18_NIKKI_F,Nikki Ferrell,26,"Kearney, Missouri",Pediatric Nurse
+Bachelor,18,18_RENEE_O,Renee Oteri,32,"Martha's Vineyard, Massachusetts",Real Estate Agent
+Bachelor,18,18_SHARLEEN_J,Sharleen Joynt,29,"Ottawa, Ontario",Opera Singer
+Bachelor,18,18_VALERIE_E,Valerie Eredia,26,"Sutter, California",Personal Trainer
+Bachelor,18,18_VICTORIA_L,Victoria Lima,24,"Porto Alegre, Brazil",Legal Assistant
+Bachelor,19,19_ALISSA_G,Alissa Giambrone,24,"Hamilton, New Jersey",Flight Attendant
+Bachelor,19,19_AMANDA_G,Amanda Goerlitz,24,"Lake in the Hills, Illinois",Ballet Teacher
+Bachelor,19,19_AMBER_J,Amber James,29,"Kankakee, Illinois",Bartender
+Bachelor,19,19_ASHLEY_I,Ashley Iaconetti,26,"Great Falls, Virginia",Journalist
+Bachelor,19,19_ASHLEY_S,Ashley Salter,24,"Vinings, Georgia",Hair Stylist
+Bachelor,19,19_BECCA_T,Becca Tilley,25,"Shreveport, Louisiana",Chiropractic Assistant
+Bachelor,19,19_BO_S,Bo Stanley,25,"Carpinteria, California",Plus-Size Model
+Bachelor,19,19_BRITT_N,Britt Nilsson,27,"Wolcott Mills, Michigan",Waitress
+Bachelor,19,19_BRITTANY_F,Brittany Fetkin,26,"Temecula, California",WWE Diva-in-Training
+Bachelor,19,19_CARLY_W,Carly Waddell,29,"Arlington, Texas",Cruise Ship Singer
+Bachelor,19,19_JADE_R,Jade Roper,28,"Gering, Nebraska",Cosmetics Developer
+Bachelor,19,19_JILLIAN_A,Jillian Anderson,25,"Howland, Ohio",News Producer
+Bachelor,19,19_JORDAN_B,Jordan Branch,24,"Windsor, Colorado",Student
+Bachelor,19,19_JUELIA_K,Juelia Kinney,30,"Beaverton, Oregon",Esthetician
+Bachelor,19,19_KAITLYN_B,Kaitlyn Bristowe,29,"Leduc, Alberta",Dance Instructor
+Bachelor,19,19_KARA_W,Kara Wilson,25,"Brownsville, Kentucky",High School Soccer Coach
+Bachelor,19,19_KELSEY_P,Kelsey Poe,28,"Hudsonville, Michigan",Guidance Counselor
+Bachelor,19,19_KIMBERLY_S,Kimberly Sherbach,28,"Wantagh, New York",Yoga Instructor
+Bachelor,19,19_MACKENZIE_D,Mackenzie Deonigi,21,"Maple Valley, Washington",Dental Assistant
+Bachelor,19,19_MEGAN_B,Megan Bell,24,"Brentwood, Tennessee",Make-Up Artist
+Bachelor,19,19_MICHELLE_D,Michelle Davis,25,"Provo, Utah",Wedding Cake Baker
+Bachelor,19,19_NICOLE_M,Nicole Meacham,31,"Scottsdale, Arizona",Real Estate Agent
+Bachelor,19,19_NIKKI_D,Nikki Delventhal,26,"Hasbrouck Heights, New Jersey",Former NFL Cheerleader
+Bachelor,19,19_REEGAN_C,Reegan Cornwell,28,"Manhattan Beach, California",Cadaver Tissue Saleswoman
+Bachelor,19,19_SAMANTHA_S,Samantha Steffen,27,"Indianapolis, Indiana",Fashion Designer
+Bachelor,19,19_TANDRA_S,Tandra Steiner,30,"Sandy, Utah",Executive Assistant
+Bachelor,19,19_TARA_E,Tara Eddings,26,"Fort Lauderdale, Florida",Sport Fishing Enthusiast
+Bachelor,19,19_TRACY_D,Tracy Darakis,29,"Wellington, Florida",Fourth Grade Teacher
+Bachelor,19,19_TRINA_S,Trina Scherenberg,33,"Algonquin, Illinois",Special Education Teacher
+Bachelor,19,19_WHITNEY_B,Whitney Bischoff,29,"Louisville, Kentucky",Fertility Nurse
+Bachelor,20,20_MANDI_K,"Amanda ""Mandi"" Kremer",28,"Portland, Oregon",Dentist
+Bachelor,20,20_AMANDA_S,Amanda Stanton,25,"Rancho Santa Margarita, California",Esthetician
+Bachelor,20,20_AMBER_J,Amber James,30,"Kankakee, Illinois",Bartender
+Bachelor,20,20_BECCA_T,Becca Tilley,26,"Shreveport, Louisiana",Chiropractic Assistant
+Bachelor,20,20_BREANNE_R,Breanne Rice,30,"Seattle, Washington",Nutritional Therapist
+Bachelor,20,20_CAILA_Q,Caila Quinn,24,"Hudson, Ohio",Software Sales Representative
+Bachelor,20,20_EMILY_F,Emily Ferguson,23,"Las Vegas, Nevada",Waitress
+Bachelor,20,20_HAYLEY_F,Haley Ferguson,23,"Las Vegas, Nevada",Waitress
+Bachelor,20,20_IZZY_G,"Isabel ""Izzy"" Goodkind",24,"Branford, Connecticut",Graphic Designer
+Bachelor,20,20_JACKIE_D,"Jacqueline ""Jackie"" Dion",23,"Newport Beach, California",Gerontologist
+Bachelor,20,20_JAMI_L,Jami Letain,23,"St. Albert, Alberta",Bartender
+Bachelor,20,20_JENNIFER_S,Jennifer Saviano,25,"Lauderdale Lakes, Florida",Small Business Owner
+Bachelor,20,20_JESSICA_M,Jessica Moser,23,"Boca Raton, Florida",Accountant
+Bachelor,20,20_JOJO_F,"Joelle ""JoJo"" Fletcher",24,"Dallas, Texas",Real Estate Developer
+Bachelor,20,20_JUBILEE_S,Jubilee Sharpe,24,"Fort Lauderdale, Florida",War Veteran
+Bachelor,20,20_LACE_M,Lace Morris,25,"Denver, Colorado",Real Estate Agent
+Bachelor,20,20_LAURA_E,Laura Esselman,24,"Louisville, Kentucky",Account Executive
+Bachelor,20,20_LB_B,"Lauren ""LB"" Barr",23,"Stillwater, Oklahoma",Fashion Buyer
+Bachelor,20,20_LAUREN_B,Lauren Bushnell,25,"West Linn, Oregon",Flight Attendant
+Bachelor,20,20_LAUREN_H,Lauren Himle,25,"Dexter, Michigan",Kindergarten Teacher
+Bachelor,20,20_LAUREN_R,Lauren Russell,26,"Houston, Texas",Math Teacher
+Bachelor,20,20_LEAH_B,Leah Block,25,"Greenwood Village, Colorado",Event Planner
+Bachelor,20,20_MAEGAN_M,Maegan Miller,30,"Visalia, California",Cowgirl
+Bachelor,20,20_OLIVIA_C,Olivia Caridi,23,"Bristol, Virginia",Former News Anchor
+Bachelor,20,20_RACHEL_T,Rachel Tchen,23,"Little Rock, Arkansas",Unemployed
+Bachelor,20,20_SAMANTHA_P,Samantha Passmore,26,"New Smyrna Beach, Florida",Attorney
+Bachelor,20,20_SHUSHANNA_M,Shushanna Mkrtychyan,27,"Salt Lake City, Utah",Mathematician
+Bachelor,20,20_TIARA_S,Tiara Soleim,27,"Redmond, Washington",Chicken Enthusiast
+Bachelor,21,21_ALEXIS_W,Alexis Waters,23,"Secaucus, New Jersey",Aspiring Dolphin Trainer
+Bachelor,21,21_ANGELA_A,Angela Amezcua,26,"Cumberland, Maryland",Model
+Bachelor,21,21_ASTRID_L,Astrid Loch,26,"Tampa, Florida",Plastic Surgery Office Manager
+Bachelor,21,21_BRIANA_G,Briana Guertler,28,"Salt Lake City, Utah",Surgical Unit Nurse
+Bachelor,21,21_BRITTANY_F,Brittany Farrar,26,"Santa Monica, California",Travel Nurse
+Bachelor,21,21_CHRISTEN_W,Christen Whitney,25,"Martinsville, Indiana",Wedding Videographer
+Bachelor,21,21_CORRINE_O,Corinne Olympios,24,"Miami, Florida",Business Owner
+Bachelor,21,21_DANIELLE_L,Danielle Lombard,27,"Danville, California",Small Business Owner
+Bachelor,21,21_DANIELLE_M,Danielle Maltby,31,"Colgate, Wisconsin",Neonatal Nurse
+Bachelor,21,21_DOMINIQUE_A,Dominique Alexis,25,"Los Angeles, California",Restaurant Server
+Bachelor,21,21_LIZ_S,"Elizabeth ""Liz"" Sandoz",29,"Scottsbluff, Nebraska",Doula
+Bachelor,21,21_ELIZABETH_W,Elizabeth Whitelaw,24,"New Trier, Illinois",Marketing Manager
+Bachelor,21,21_HAILEY_M,Hailey Merkt,23,"Vancouver, British Columbia",Photographer
+Bachelor,21,21_IDA_D,Ida Marie DeLosSantos,23,"Harlingen, Texas",Sales Manager
+Bachelor,21,21_JAIMI_K,Jaimi King,28,"New Orleans, Louisiana",Chef
+Bachelor,21,21_JASMINE_B,Jasmine Brown,25,"Tacoma, Washington",Flight Attendant
+Bachelor,21,21_JASMINE_G,Jasmine Goode,29,"Maplewood, New Jersey",Pro Basketball Dancer
+Bachelor,21,21_JOSEPHINE_T,Josephine Tutman,24,"Santa Cruz, California",Registered Nurse
+Bachelor,21,21_KRISTINA_S,Kristina Schulman,24,"Lexington, Kentucky",Dental Hygienist
+Bachelor,21,21_LACEY_M,Lacey Mark,25,"Montville Township, New Jersey",Digital Marketing Manager
+Bachelor,21,21_LAUREN_H,Lauren Hussey,30,"Naples, Florida",Law School Graduate
+Bachelor,21,21_MICHELLE_R,Michelle Ramkissoon,24,"Los Angeles, California",Food Truck Owner
+Bachelor,21,21_OLIVIA_B,Olivia Burnette,25,"Anchorage, Alaska",Apparel Sales Representative
+Bachelor,21,21_RACHEL_L,Rachel Lindsay,31,"Dallas, Texas",Attorney
+Bachelor,21,21_RAVEN_G,Raven Gates,25,"Hoxie, Arkansas",Fashion Boutique Owner
+Bachelor,21,21_SARAH_V,Sarah Vendal,26,"Palmdale, California",Grade School Teacher
+Bachelor,21,21_SUSANNAH_M,Susannah Milan,26,"San Diego, California",Account Manager
+Bachelor,21,21_TAYLOR_N,Taylor Nolan,23,"Seattle, Washington",Mental Health Counselor
+Bachelor,21,21_VANESSA_G,Vanessa Grimaldi,29,"Montreal, Quebec",Special Education Teacher
+Bachelor,21,21_WHITNEY_F,Whitney Fransway,25,"Chanhassen, Minnesota",Pilates Instructor
