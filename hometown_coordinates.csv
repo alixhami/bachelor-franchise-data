@@ -1,0 +1,579 @@
+city,lat,long
+"Honolulu, Hawaii",21.3278,-157.8294
+"Key Largo, Florida",25.0865,-80.4473
+"Coral Gables, Florida",25.7215,-80.2684
+"Miami, Florida",25.7791,-80.1978
+"Pembroke Pines, Florida",26.0185,-80.3449
+"Fort Lauderdale, Florida",26.1216,-80.1288
+"Plantation, Florida",26.1342,-80.2318
+"Naples, Florida",26.1423,-81.796
+"Harlingen, Texas",26.1951,-97.689
+"Bonita Springs, Florida",26.3398,-81.7787
+"Boca Raton, Florida",26.376,-80.1072
+"Delray Beach, Florida",26.4564,-80.0793
+"Wellington, Florida",26.6587,-80.2414
+"West Palm Beach, Florida",26.7165,-80.0679
+"Ruskin, Florida",27.7015,-82.4355
+"Tampa, Florida",27.9961,-82.582
+"Palm Harbor, Florida",28.0781,-82.7637
+"Odessa, Florida",28.1421,-82.5905
+"New Port Richey, Florida",28.2326,-82.7327
+"Kissimmee, Florida",28.3051,-81.4242
+"Orlando, Florida",28.3067,-80.6862
+"Clermont, Florida",28.5525,-81.7574
+"Winter Park, Florida",28.5978,-81.3534
+"Apopka, Florida",28.6354,-81.4888
+"Geneva, Florida",28.7503,-81.1114
+"Mount Dora, Florida",28.8111,-81.6536
+"Pearsall, Texas",28.8923,-99.0944
+"Lady Lake, Florida",28.9175,-81.9229
+"New Smyrna Beach, Florida",29.0247,-80.9584
+"Ormond Beach, Florida",29.2858,-81.0559
+"Galveston, Texas",29.2983,-94.793
+"Friendswood, Texas",29.5224,-95.1879
+"Sugar Land, Texas",29.6196,-95.607
+"Gainesville, Florida",29.6489,-82.325
+"New Braunfels, Texas",29.7229,-98.0742
+"Houston, Texas",29.8131,-95.3098
+"Katy, Texas",29.8323,-95.736
+"New Orleans, Louisiana",29.9614,-90.1577
+"Spring, Texas",30.0532,-95.3773
+"Lake Charles, Louisiana",30.2285,-93.188
+"Jacksonville Beach, Florida",30.2947,-81.3931
+"Austin, Texas",30.3264,-97.7713
+"Jacksonville, Florida",30.3375,-81.7686
+"Biloxi, Mississippi",30.4035,-88.8971
+"Pensacola, Florida",30.4223,-87.2248
+"Tallahassee, Florida",30.4383,-84.2807
+"Niceville, Florida",30.5169,-86.4822
+"Georgetown, Texas",30.633,-97.6707
+"Burnet, Texas",30.7766,-98.2642
+"Huntsville, Texas",30.847,-95.597
+"Odessa, Texas",31.7652,-102.3543
+"Midland, Texas",31.9896,-102.0626
+"Hilton Head Island, South Carolina",32.2132,-80.7997
+"Madison, Mississippi",32.4671,-90.1087
+"Shreveport, Louisiana",32.5037,-93.7487
+"Arlington, Texas",32.6289,-97.1517
+"Chula Vista, California",32.6401,-117.0842
+"Duncanville, Texas",32.6587,-96.9114
+"Folly Beach, South Carolina",32.663,-79.927
+"Bonita, California",32.6671,-117.0221
+"San Diego, California",32.7185,-117.1593
+"Balch Springs, Texas",32.7287,-96.6228
+"Lemon Grove, California",32.7332,-117.0326
+"Irving, Texas",32.7673,-96.7776
+"Fort Worth, Texas",32.7714,-97.2915
+"Ravenel, South Carolina",32.7881,-80.2223
+"Dallas, Texas",32.7904,-96.8044
+"Macon, Georgia",32.8095,-83.6168
+"Hurst, Texas",32.8211,-97.1756
+"La Jolla, California",32.8455,-117.2521
+"Rockwall, Texas",32.886,-96.4095
+"Casa Grande, Arizona",32.8905,-111.754
+"Southlake, Texas",32.9485,-97.1524
+"Charleston, South Carolina",32.9668,-79.8528
+"Roanoke, Texas",33.0211,-97.2127
+"Encinitas, California",33.036,-117.292
+"Plano, Texas",33.055,-96.7365
+"San Marcos, California",33.1444,-117.1697
+"Carlsbad, California",33.1602,-117.325
+"Brownfield, Texas",33.1698,-102.2762
+"Oceanside, California",33.1959,-117.3795
+"McKinney, Texas",33.1976,-96.6153
+"Denton, Texas",33.2289,-97.1314
+"Borrego Springs, California",33.2386,-116.3514
+"Frisco, Texas",33.2559,-96.8853
+"Aubrey, Texas",33.292,-96.9879
+"Newnan, Georgia",33.3696,-84.8194
+"Tempe, Arizona",33.4014,-111.9313
+"Mesa, Arizona",33.4317,-111.8469
+"Avondale, Arizona",33.4321,-112.3438
+"Phoenix, Arizona",33.4484,-112.074
+"Temecula, California",33.4936,-117.1484
+"Birmingham, Alabama",33.5207,-86.8025
+"Scottsdale, Arizona",33.5218,-111.9049
+"Laguna Niguel, California",33.5269,-117.7117
+"Augusta, Georgia",33.5277,-82.2355
+"Glendale, Arizona",33.5311,-112.1767
+"Buckhead, Georgia",33.5368,-83.3435
+"Evans, Georgia",33.5412,-82.1398
+"Laguna Beach, California",33.5429,-117.7813
+"Murrieta, California",33.5631,-117.2738
+"Lubbock, Texas",33.5865,-101.8606
+"Mission Viejo, California",33.6117,-117.643
+"Newport Beach, California",33.6422,-117.8631
+"Wagener, South Carolina",33.6494,-81.3995
+"Rancho Santa Margarita, California",33.6512,-117.5938
+"Huntington Beach, California",33.7151,-118.0077
+"Conyers, Georgia",33.7192,-84.0021
+"Tustin, California",33.7364,-117.8229
+"Long Beach, California",33.767,-118.1892
+"Redondo Beach, California",33.8307,-118.3832
+"Anaheim, California",33.8428,-117.9546
+"Hermosa Beach, California",33.8643,-118.3955
+"Atlanta, Georgia",33.8687,-84.3351
+"Corona, California",33.8753,-117.5664
+"Fullerton, California",33.8873,-117.8946
+"Manhattan Beach, California",33.8896,-118.3996
+"Yorba Linda, California",33.8911,-117.8222
+"El Segundo, California",33.9243,-118.4119
+"Marietta, Georgia",33.9526,-84.5499
+"Playa Vista, California",33.9728,-118.4276
+"Los Angeles, California",33.9731,-118.2479
+"Athens, Georgia",33.9761,-83.3632
+"Marina Del Rey, California",33.9779,-118.4525
+"Marina del Rey, California",33.9779,-118.4525
+"Lexington, South Carolina",33.9815,-81.2362
+"Venice, California",33.9938,-118.4635
+"Malibu, California",34.005,-118.8101
+"Santa Monica, California",34.0176,-118.4907
+"Duluth, Georgia",34.0256,-84.1304
+"Beverly Hills, California",34.0736,-118.4004
+"West Hollywood, California",34.0906,-118.3788
+"San Bernardino, California",34.1105,-117.2898
+"Rialto, California",34.1132,-117.3771
+"San Gabriel, California",34.1155,-118.0857
+"Agoura Hills, California",34.1227,-118.7573
+"Pasadena, California",34.1468,-118.1391
+"Woodland Hills, California",34.1557,-118.6
+"Burbank, California",34.1862,-118.3009
+"Albertville, Alabama",34.2739,-86.2064
+"Cumming, Georgia",34.2897,-84.1796
+"Stevenson Ranch, California",34.3775,-118.6131
+"Carpinteria, California",34.4036,-119.5183
+"Palmdale, California",34.4133,-118.0917
+"Santa Barbara, California",34.4197,-119.7078
+"Lawton, Oklahoma",34.5915,-98.3698
+"Cache, Oklahoma",34.6131,-98.6154
+"Booneville, Mississippi",34.6694,-88.5443
+"Huntsville, Alabama",34.7269,-86.5673
+"Little Rock, Arkansas",34.7399,-92.34
+"Gibson, North Carolina",34.7549,-79.5839
+"Walhalla, South Carolina",34.7648,-83.064
+"Mauldin, South Carolina",34.7807,-82.3035
+"Chattanooga, Tennessee",35.0456,-85.3097
+"Ellerbe, North Carolina",35.0914,-79.7524
+"Fort Bragg, North Carolina",35.1416,-79.0025
+"Albuquerque, New Mexico",35.1996,-106.6448
+"Norman, Oklahoma",35.2086,-97.4445
+"Seven Springs, North Carolina",35.2105,-77.9146
+"Charlotte, North Carolina",35.26,-80.8042
+"San Luis Obispo, California",35.2635,-120.6509
+"Shawnee, Oklahoma",35.2958,-96.9601
+"Fort Smith, Arkansas",35.3653,-94.411
+"Rutherfordton, North Carolina",35.3706,-81.9781
+"Oklahoma City, Oklahoma",35.3792,-97.5362
+"Bakersfield, California",35.3866,-119.0171
+"Faith, North Carolina",35.5817,-80.4581
+"Edmond, Oklahoma",35.6748,-97.4997
+"Garner, North Carolina",35.6813,-78.5975
+"Hickory, North Carolina",35.7576,-81.3289
+"Raleigh, North Carolina",35.7727,-78.6324
+"Pinetops, North Carolina",35.7885,-77.6378
+"Carrboro, North Carolina",35.9055,-79.0901
+"Chapel Hill, North Carolina",35.9203,-79.0372
+"Franklin, Tennessee",35.9328,-86.8788
+"Henderson, Nevada",36.0008,-114.9588
+"La Vergne, Tennessee",36.0127,-86.56
+"Jenks, Oklahoma",36.0148,-95.9797
+"Hoxie, Arkansas",36.0326,-90.9715
+"Brentwood, Tennessee",36.0331,-86.7828
+"Tulsa, Oklahoma",36.0557,-96.0602
+"Stillwater, Oklahoma",36.1043,-97.0609
+"Nashville, Tennessee",36.1657,-86.7781
+"Las Vegas, Nevada",36.1721,-115.1224
+"Visalia, California",36.3114,-119.3065
+"Johnson City, Tennessee",36.3339,-82.3408
+"La Follette, Tennessee",36.4248,-84.0907
+"Woodward, Oklahoma",36.4268,-99.402
+"Carmel Valley, California",36.4787,-121.7244
+"Clarksville, Tennessee",36.522,-87.349
+"Monterey, California",36.5802,-121.8443
+"Bristol, Virginia",36.6181,-82.1823
+"Virginia Beach, Virginia",36.776,-76.0766
+"Fresno, California",36.8411,-119.801
+"Glasgow, Kentucky",36.9882,-85.9221
+"Santa Cruz, California",37.0313,-122.1198
+"Brownsville, Kentucky",37.2229,-86.2923
+"Durango, Colorado",37.2874,-107.8617
+"Big Rock, Virginia",37.3532,-82.1968
+"Portola Valley, California",37.3702,-122.2182
+"Mountain View, California",37.3861,-122.0839
+"Richmond, Virginia",37.4373,-77.4788
+"Palo Alto, California",37.4673,-122.1388
+"Belmont, California",37.5174,-122.2927
+"Derby, Kansas",37.553,-97.2549
+"Pacifica, California",37.6196,-122.4816
+"Chanute, Kansas",37.6749,-95.457
+"Wichita, Kansas",37.6922,-97.3375
+"Andover, Kansas",37.6985,-97.1179
+"Dublin, California",37.7166,-121.9226
+"Campton, Kentucky",37.7287,-83.494
+"Salyersville, Kentucky",37.7325,-83.0298
+"San Francisco, California",37.7813,-122.4167
+"Danville, California",37.8321,-121.9167
+"Moraga, California",37.8437,-122.1242
+"Alamo, California",37.8537,-122.0229
+"Sausalito, California",37.8601,-122.4946
+"Walnut Creek, California",37.8753,-122.0703
+"Stockton, California",37.958,-121.2876
+"San Rafael, California",37.9691,-122.5105
+"San Anselmo, California",37.9846,-122.5711
+"Lexington, Kentucky",38.0174,-84.4854
+"Charlottesville, Virginia",38.0936,-78.5611
+"Louisville, Kentucky",38.189,-85.6768
+"Sonoma, California",38.2849,-122.4696
+"Santa Rosa, California",38.4432,-122.7547
+"Culpeper, Virginia",38.5117,-77.9928
+"Sacramento, California",38.5816,-121.4944
+"Ottawa, Kansas",38.6142,-95.2745
+"Citrus Heights, California",38.6946,-121.2692
+"Peculiar, Missouri",38.7165,-94.4405
+"Granite City, Illinois",38.7261,-90.1106
+"Granite Bay, California",38.7435,-121.1897
+"Fairfax Station, Virginia",38.7602,-77.3064
+"Stilwell, Kansas",38.7902,-94.6643
+"Colorado Springs, Colorado",38.8339,-104.8214
+"Falls Church, Virginia",38.8502,-77.1448
+"Union, Kentucky",38.9435,-84.7274
+"Leawood, Kansas",38.9667,-94.6169
+"Annapolis, Maryland",38.9898,-76.5501
+"Overland Park, Kansas",38.9928,-94.6771
+"Meadow Vista, California",39.0031,-121.0292
+"Great Falls, Virginia",39.0039,-77.3083
+"Lawrence, Kansas",39.0289,-95.2086
+"Topeka, Kansas",39.0483,-95.678
+"Oakley, Kansas",39.1121,-100.858
+"Poolesville, Maryland",39.1386,-77.4067
+"Kansas City, Missouri",39.1479,-94.568
+"Olney, Maryland",39.1552,-77.0667
+"Marshall, Missouri",39.1614,-93.2444
+"Cincinnati, Ohio",39.162,-84.4569
+"Baltimore, Maryland",39.1753,-76.6732
+"Sutter, California",39.1779,-121.7758
+"Litchfield, Illinois",39.1793,-89.6499
+"Aspen, Colorado",39.1951,-106.8236
+"Loveland, Ohio",39.2445,-84.2588
+"West Chester, Ohio",39.3402,-84.3998
+"Kearney, Missouri",39.3652,-94.3621
+"Castle Rock, Colorado",39.3722,-104.8561
+"Breckenridge, Colorado",39.4753,-106.0225
+"Martinsville, Indiana",39.4776,-86.4668
+"Evergreen, Colorado",39.522,-105.2239
+"Morgantown, West Virginia",39.6099,-79.9831
+"Vail, Colorado",39.6512,-106.3234
+"Cumberland, Maryland",39.6529,-78.7625
+"West Alexandria, Ohio",39.7259,-84.5352
+"Aurora, Colorado",39.7378,-104.8152
+"Chico, California",39.7458,-121.8444
+"Indianapolis, Indiana",39.7684,-86.158
+"Denver, Colorado",39.838,-104.9988
+"Forked River, New Jersey",39.8444,-74.1973
+"Chadds Ford, Pennsylvania",39.8648,-75.5885
+"Philadelphia, Pennsylvania",39.865,-75.2752
+"New Castle, Indiana",39.9208,-85.3663
+"Galloway, Ohio",39.9366,-83.1838
+"Dacono, Colorado",40.0836,-104.9297
+"Dillsburg, Pennsylvania",40.0964,-77.0339
+"Columbus, Ohio",40.0999,-83.0157
+"Langhorne, Pennsylvania",40.1813,-74.9104
+"Warminster, Pennsylvania",40.2067,-75.0905
+"Camp Hill, Pennsylvania",40.216,-76.925
+"North Wales, Pennsylvania",40.2166,-75.2565
+"Provo, Utah",40.2319,-111.6755
+"Freehold, New Jersey",40.2458,-74.2768
+"Orem, Utah",40.3134,-111.6953
+"Marlboro, New Jersey",40.3182,-74.2639
+"Monroe Township, New Jersey",40.3192,-74.4285
+"Steamboat Springs, Colorado",40.3482,-106.9269
+"Princeton, New Jersey",40.3666,-74.6408
+"Pleasant Grove, Utah",40.372,-111.7333
+"Loveland, Colorado",40.3849,-105.0916
+"Greeley, Colorado",40.385,-104.6806
+"Carthage, Illinois",40.4129,-91.1005
+"Alpine, Utah",40.4616,-111.7689
+"Pittsburgh, Pennsylvania",40.4752,-79.9528
+"Windsor, Colorado",40.4837,-104.8994
+"Imperial, Nebraska",40.5251,-101.6468
+"Sewickley, Pennsylvania",40.557,-80.1578
+"Sandy, Utah",40.5794,-111.8816
+"Aliquippa, Pennsylvania",40.5921,-80.3197
+"Morton, Illinois",40.6148,-89.4604
+"Midvale, Utah",40.6152,-111.8851
+"Staten Island, New York",40.6316,-74.0927
+"Clinton, New Jersey",40.6412,-74.9088
+"Massapequa, New York",40.6682,-73.4588
+"Massapequa Park, New York",40.6807,-73.4444
+"Wantagh, New York",40.685,-73.5103
+"Lindenhurst, New York",40.6884,-73.3745
+"Brooklyn, New York",40.694,-73.9903
+"Phillipsburg, New Jersey",40.7079,-75.1507
+"Maplewood, New Jersey",40.7279,-74.2656
+"Jersey City, New Jersey",40.7328,-74.0755
+"New York, New York",40.7484,-73.9967
+"Salt Lake City, Utah",40.7559,-111.8967
+"Madison, New Jersey",40.7599,-74.4179
+"Secaucus, New Jersey",40.791,-74.0634
+"Roslyn, New York",40.7984,-73.6477
+"Massillon, Ohio",40.8116,-81.4973
+"Montclair, New Jersey",40.8131,-74.2165
+"Bronx, New York",40.8222,-73.9217
+"Hasbrouck Heights, New Jersey",40.8623,-74.0756
+"Kings Park, New York",40.8861,-73.2438
+"Waverly, Nebraska",40.9222,-96.526
+"Wayne, New Jersey",40.9471,-74.2466
+"Eastchester, New York",40.955,-73.8086
+"Sugarloaf, Pennsylvania",40.9971,-76.0717
+"White Plains, New York",41.033,-73.7652
+"Saddle River, New Jersey",41.0443,-74.0981
+"Ramsey, New Jersey",41.0577,-74.1445
+"Fort Wayne, Indiana",41.0938,-85.0707
+"Kankakee, Illinois",41.1166,-87.8696
+"Cuyahoga Falls, Ohio",41.1401,-81.479
+"Westport, Connecticut",41.1434,-73.3496
+"Fostoria, Ohio",41.1623,-83.4139
+"Hubbard, Ohio",41.1624,-80.5762
+"Stratford, Connecticut",41.216,-73.1304
+"Warsaw, Indiana",41.2438,-85.8508
+"Hudson, Ohio",41.2458,-81.4367
+"Branford, Connecticut",41.28,-72.8106
+"Ridgefield, Connecticut",41.2977,-73.4973
+"New Haven, Connecticut",41.3082,-72.9282
+"Monroe, Connecticut",41.3312,-73.2243
+"Morris, Illinois",41.3672,-88.4178
+"Bethel, Connecticut",41.3813,-73.4008
+"Elmore, Ohio",41.4681,-83.2767
+"Newport, Rhode Island",41.4876,-71.3271
+"Moline, Illinois",41.4906,-90.498
+"Rock Island, Illinois",41.4913,-90.5648
+"Cleveland, Ohio",41.5234,-81.5996
+"Meriden, Connecticut",41.5334,-72.7997
+"Chesterland, Ohio",41.5344,-81.3421
+"Glenwood, Illinois",41.5467,-87.6126
+"Wauseon, Ohio",41.5668,-84.1537
+"Portland, Connecticut",41.5852,-72.6128
+"Lockport, Illinois",41.593,-88.0507
+"Orland Park, Illinois",41.6194,-87.8423
+"Iowa City, Iowa",41.6355,-91.5016
+"Blue Island, Illinois",41.6582,-87.6795
+"Bolingbrook, Illinois",41.6976,-88.0873
+"Palos Hills, Illinois",41.7004,-87.8263
+"Warwick, Rhode Island",41.7026,-71.4476
+"Dennis, Massachusetts",41.7322,-70.1911
+"Barrington, Rhode Island",41.7443,-71.3175
+"Swansea, Massachusetts",41.7473,-71.2122
+"Aurora, Illinois",41.7523,-88.2453
+"Cranston, Rhode Island",41.7766,-71.4383
+"Hartford, Connecticut",41.7801,-72.6771
+"Defiance, Iowa",41.8053,-95.3537
+"Gering, Nebraska",41.822,-103.6629
+"Providence, Rhode Island",41.8227,-71.4145
+"Batavia, Illinois",41.8482,-88.3098
+"Glen Ellyn, Illinois",41.8661,-88.0648
+"Scottsbluff, Nebraska",41.872,-103.6619
+"Winfield, Illinois",41.8744,-88.1516
+"Chicago, Illinois",41.8858,-87.6181
+"Elmhurst, Illinois",41.8927,-87.941
+"Monroe, Michigan",41.908,-83.4719
+"Ellington, Connecticut",41.9114,-72.4626
+"Windsor Locks, Connecticut",41.9261,-72.6458
+"Bloomingdale, Illinois",41.9483,-88.0782
+"Bridgewater, Massachusetts",41.9773,-70.9723
+"Bartlett, Illinois",41.9794,-88.2063
+"Park Ridge, Illinois",42.0122,-87.8417
+"Skokie, Illinois",42.0362,-87.7328
+"Elgin, Illinois",42.0384,-88.2606
+"Longmeadow, Massachusetts",42.0507,-72.5676
+"Springfield, Massachusetts",42.1015,-72.5898
+"Hanover, Massachusetts",42.1214,-70.857
+"Barrington, Illinois",42.1614,-88.1383
+"Algonquin, Illinois",42.1641,-88.3064
+"Lake in the Hills, Illinois",42.1817,-88.3304
+"Southampton, Massachusetts",42.2247,-72.7194
+"Vernon Hills, Illinois",42.2288,-87.9719
+"Lake Forest, Illinois",42.2374,-87.8482
+"Quincy, Massachusetts",42.2491,-70.9978
+"Worcester, Massachusetts",42.2626,-71.8023
+"Kalamazoo, Michigan",42.2736,-85.5457
+"Ann Arbor, Michigan",42.2794,-83.784
+"Rockford, Illinois",42.2922,-89.1161
+"Dearborn, Michigan",42.3053,-83.1605
+"Woodstock, Illinois",42.3198,-88.4477
+"Canton, Michigan",42.332,-83.4695
+"Cattaraugus, New York",42.3333,-78.8885
+"Detroit, Michigan",42.3474,-83.0604
+"Newton, Massachusetts",42.3528,-71.1875
+"Dexter, Michigan",42.3583,-83.9
+"Boston, Massachusetts",42.3584,-71.0598
+"Livonia, Michigan",42.3615,-83.3649
+"Gurnee, Illinois",42.3669,-87.9452
+"Grosse Pointe, Michigan",42.3847,-82.9244
+"Malden, Massachusetts",42.4291,-71.0605
+"Ithaca, New York",42.4406,-76.4966
+"Lexington, Massachusetts",42.4563,-71.2167
+"Ferndale, Michigan",42.4586,-83.1363
+"Southfield, Michigan",42.4723,-83.294
+"Novi, Michigan",42.4735,-83.5224
+"Dryden, New York",42.4861,-76.2872
+"Warren, Michigan",42.5164,-82.9832
+"Lamont, Iowa",42.5946,-91.6701
+"Darien, Wisconsin",42.5973,-88.7508
+"Rockport, Massachusetts",42.658,-70.6194
+"Macomb, Michigan",42.6735,-82.9163
+"Guilderland, New York",42.6973,-73.8975
+"Williamstown, Massachusetts",42.7089,-73.2036
+"Waverly, Iowa",42.7748,-92.404
+"Holland, Michigan",42.7875,-86.1089
+"Windham, New Hampshire",42.8051,-71.3067
+"Hudsonville, Michigan",42.8748,-85.8751
+"Oak Creek, Wisconsin",42.8892,-87.9027
+"Buffalo, New York",42.8967,-78.8846
+"Grand Rapids, Michigan",42.9842,-85.6291
+"Waukesha, Wisconsin",42.9993,-88.2196
+"Batavia, New York",43.0003,-78.1929
+"Sauquoit, New York",43.0073,-75.2626
+"Syracuse, New York",43.0481,-76.1474
+"Brookfield, Wisconsin",43.0622,-88.098
+"Madison, Wisconsin",43.0696,-89.4239
+"Oconomowoc, Wisconsin",43.1095,-88.4862
+"Blackfoot, Idaho",43.1943,-112.3615
+"Colgate, Wisconsin",43.1998,-88.2406
+"Rochester, New York",43.286,-77.6843
+"Saginaw, Michigan",43.4343,-84.0091
+"Kuna, Idaho",43.487,-116.3819
+"Boise, Idaho",43.6038,-116.2729
+"Chelsea, Vermont",44.0039,-72.4793
+"Green Bay, Wisconsin",44.482,-88.0205
+"Sturgeon Bay, Wisconsin",44.8438,-87.3753
+"Eden Prairie, Minnesota",44.8574,-93.4376
+"Chanhassen, Minnesota",44.8679,-93.5359
+"Saint Paul, Minnesota",44.8965,-93.1034
+"Excelsior, Minnesota",44.9007,-93.5791
+"Minnetonka, Minnesota",44.9138,-93.485
+"Minneapolis, Minnesota",45.0523,-93.2541
+"McMinnville, Oregon",45.2097,-123.2043
+"Newberg, Oregon",45.3099,-122.9685
+"Chisago City, Minnesota",45.3611,-92.8921
+"West Linn, Oregon",45.3669,-122.648
+"Lake Oswego, Oregon",45.4093,-122.6847
+"Portland, Oregon",45.4373,-122.6147
+"Beaverton, Oregon",45.5201,-122.8604
+"Troutdale, Oregon",45.5254,-122.3739
+"Vancouver, Washington",45.6418,-122.6801
+"Astoria, Oregon",46.1558,-123.798
+"Helena, Montana",46.6131,-112.0213
+"Detroit Lakes, Minnesota",46.8172,-95.8453
+"Tacoma, Washington",47.2537,-122.4443
+"Federal Way, Washington",47.3203,-122.3117
+"Madawaska, Maine",47.3294,-68.3328
+"Maple Valley, Washington",47.3845,-122.0574
+"Mercer Island, Washington",47.5603,-122.2281
+"Seattle, Washington",47.6114,-122.3305
+"Redmond, Washington",47.6718,-122.1232
+"Woodinville, Washington",47.7684,-122.1271
+"Mukilteo, Washington",47.9199,-122.3019
+"Marysville, Washington",48.0656,-122.1562
+"Williston, North Dakota",48.2257,-103.649
+"Havre, Montana",48.5561,-109.688
+"Anchorage, Alaska",61.2116,-149.8761
+"St. Louis, Missouri",38.6270025,-90.1994042
+"Manhattan, New York",40.7484,-73.9967
+"Pepper Pike, Ohio",41.4783865,-81.4637295
+"Long Island, New York",40.7484,-73.9967
+"Westchester, Pennsylvania",39.9606643,-75.6054882
+"Gloucester, New Jersey",39.7933809,-75.0494329
+"Long Beach Island, New Jersey",39.641727,-74.1885825
+"Cardiff, California",33.0208265,-117.2788973
+"Wynola, California",33.0975435,-116.6455757
+"Wall, New Jersey",40.1606666,-74.0679753
+"Williamsville, New York",42.963947,-78.7378091
+"Mt. Pleasant, Tennessee",35.5342414,-87.2069541
+"Bartlett, Tennessee",35.2045328,-89.8739753
+"Brooklyn Park, Minnesota",45.0941315,-93.3563405
+"Wanwatosa, Wisconsin",43.0494572,-88.0075875
+"Bonnyville, Alberta",54.2681766,-110.7200371
+"Sunriver, Oregon",43.8693935,-121.4333539
+"Quebec City, Quebec",46.8138783,-71.2079809
+"Buenos Aires, Argentina",-34.6036844,-58.3815591
+"Upper Dublin, Pennsylvania",40.1532684,-75.1895576
+"Bradford, England",53.795984,-1.759398
+"Ontario, Canada",51.253775,-85.323214
+"Hollywood, California",34.0928092,-118.3286614
+"Campbell River, British Columbia",50.0331226,-125.2733353
+"Sarnia, Ontario",42.974536,-82.4065901
+"Fair Oaks Ranch, Texas",29.7555579,-98.6325611
+"Toronto, Ontario",43.653226,-79.3831843
+"Highlands Ranch, Colorado",39.5480789,-104.9739333
+"Tornhill, Ontario",43.8079675,-79.4591378
+"Edmonton, Alberta",53.544389,-113.4909267
+"Gibbons, Alberta",53.825792,-113.3266113
+"Winnipeg, Manitoba",49.895136,-97.1383744
+"North Sydney, Nova Scotia",46.2064806,-60.2523805
+"St. George, Utah",37.0965278,-113.5684164
+"Creve Coeur, Missouri",38.6608855,-90.422618
+"Venice, Italy",45.4408474,12.3155151
+Italy,41.87194,12.56738
+"Nelson, British Columbia",49.4928119,-117.2948343
+"St. Augustine, Florida",29.9012437,-81.3124341
+"Blaine, Minnesota",45.1607987,-93.2349489
+"Penha, Brazil",-26.775917,-48.6470006
+"Barquisimeto, Venezuela",10.0677719,-69.3473509
+"London, England",51.5073509,-0.1277583
+"Phillips Ranch, California",34.0362084,-117.7842637
+"Logansport, Louisianna",31.975445,-93.9979678
+"The Woodlands, Texas",30.1658207,-95.4612625
+"St. Louis Park, Minnesota",44.9597376,-93.3702186
+"Medicine Hat, Alberta",50.0405486,-110.6764257
+"Nahariya, Israel",33.0085361,35.0980514
+"Washington, D.C.",38.9071923,-77.0368707
+"Woodbridge, Connecticut",41.352597,-73.0084385
+"Westchester, New York",41.1220194,-73.7948516
+"South Brunswick, New Jersey",40.3806901,-74.5316938
+"O'Fallon, Illinois",38.592323,-89.910991
+"St. Charles, Illinois",41.9141945,-88.3086867
+"Sylvan Lake, Michigan",42.6114217,-83.3285467
+"London, Ontario",42.9849233,-81.2452768
+"LaFollette, Tennessee",36.3828852,-84.1199472
+"Suffield, Ohio",41.0171487,-81.3619402
+"Lions Bay, British Columbia",49.4592529,-123.234139
+"Vancouver, British Columbia",49.2827291,-123.1207375
+"Rockdale, Illinois",41.5061419,-88.1145036
+"Mt. Carmel, Pennsylvania",40.7970312,-76.4118961
+"Peace River, Alberta",56.2341823,-117.2893839
+"Lee's Summit, Missouri",38.9108408,-94.3821724
+"Calgary, Alberta",51.0486151,-114.0708459
+"Recife, Pernambuco, Brazil",-8.0475622,-34.8769643
+"Century City, California",34.0536608,-118.4133894
+"Woodside, California",37.4299388,-122.2538557
+"North Bay Village, Florida",25.8462074,-80.1539351
+"Calgary, Canada",51.0486151,-114.0708459
+"North Potomac, Maryland",39.097769,-77.2347674
+"Oakville, Ontario",43.467517,-79.6876659
+"Holland, Pennsylvania",40.2010288,-74.9722322
+"Davie, Florida",26.0764783,-80.2521157
+"Sherwood Park, Alberta",53.5412083,-113.2957365
+"Dix Hills, New York",40.8048207,-73.3362298
+"Port Coquitlam, British Columbia",49.2628382,-122.7810708
+"Newcastle, Washington",47.5389889,-122.1556769
+"Yuba, California",39.2547027,-121.3998995
+"Northglenn, Colorado",39.8961821,-104.9811468
+"Shelby Charter Township, Michigan",42.670782,-83.0329934
+"Lexington, Ohio",40.6786691,-82.5823931
+"Forty Fort, Pennsylvania",41.2789699,-75.8782519
+"Antelope Acres, California",34.75444,-118.28861
+"Martha's Vineyard, Massachusetts",41.3804981,-70.645473
+"Ottawa, Ontario",45.4215296,-75.6971931
+"Porto Alegre, Brazil",-30.0346564,-51.2176584
+"Hamilton, New Jersey",40.2115109,-74.6796651
+"Vinings, Georgia",33.8648262,-84.4643744
+"Wolcott Mills, Michigan",42.7689195,-82.9268723
+"Howland, Ohio",41.2576207,-80.7325287
+"Leduc, Alberta",53.2580126,-113.5502218
+"St. Albert, Alberta",53.6304753,-113.625642
+"Lauderdale Lakes, Florida",26.1664736,-80.2083806
+"Greenwood Village, Colorado",39.6172101,-104.9508141
+"New Trier, Illinois",42.1055794,-87.7468071
+"Montville Township, New Jersey",40.9148209,-74.383763
+"Montreal, Quebec",45.5016889,-73.567256
+"Terra Haute, Indiana",39.4667034,-87.4139092
