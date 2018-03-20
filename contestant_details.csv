@@ -41,7 +41,7 @@ Bachelorette,1,01_JACK_X,Jack,27,"Pepper Pike, Ohio",Firefighter
 Bachelorette,1,01_JAMIE_B,Jamie Blyth,27,"Chicago, Illinois",Professional Basketball Player
 Bachelorette,1,01_JEFF_X,Jeff,25,"San Diego, California",Professional Football Player
 Bachelorette,1,01_JOSH_X,Josh,31,"Boca Raton, Florida",Radio Advertising Executive
-Bachelorette,1,01_MATT_X,Matt,42,"Marina Del Rey, California",Gym Owner
+Bachelorette,1,01_MATT_X,Matt,42,"Marina del Rey, California",Gym Owner
 Bachelorette,1,01_MIKE_X,Mike,24,"Cincinnati, Ohio",Sales and Consulting
 Bachelorette,1,01_PAUL_X,Paul,26,"Honolulu, Hawaii",Telecommunications
 Bachelorette,1,01_PETER_X,Peter,25,"Long Island, New York",Construction Business Owner
@@ -664,7 +664,7 @@ Bachelorette,13,13_MICHAEL_B,Michael Black,26,"Chicago, Illinois",Former Profess
 Bachelorette,13,13_MILTON_L,Milton LaCroix,31,"North Bay Village, Florida",Hotel Recreation Supervisor
 Bachelorette,13,13_MOHIT_S,Mohit Sehgal,26,"Pacifica, California",Product Manager
 Bachelorette,13,13_PETER_K,Peter Kraus,31,"Madison, Wisconsin",Business Owner
-Bachelorette,13,13_ROB_H,"Robert ""Rob"" Howard",30,"Calgary, Canada",Law Student
+Bachelorette,13,13_ROB_H,"Robert ""Rob"" Howard",30,"Calgary, Alberta",Law Student
 Bachelorette,13,13_WILL_G,Will Gaskins,28,"White Plains, New York",Sales Manager
 Bachelor,14,14_LEX_M,"Alexa ""Lex"" McAllister",25,"Galloway, Ohio",Entrepreneur
 Bachelor,14,14_ALI_F,Ali Fedotowsky,25,"Williamstown, Massachusetts",Advertising Account Manager
@@ -887,3 +887,32 @@ Bachelor,21,21_SUSANNAH_M,Susannah Milan,26,"San Diego, California",Account Mana
 Bachelor,21,21_TAYLOR_N,Taylor Nolan,23,"Seattle, Washington",Mental Health Counselor
 Bachelor,21,21_VANESSA_G,Vanessa Grimaldi,29,"Montreal, Quebec",Special Education Teacher
 Bachelor,21,21_WHITNEY_F,Whitney Fransway,25,"Chanhassen, Minnesota",Pilates Instructor
+Bachelor,22,22_BECCA_K,"Rebecca ""Becca"" Kufrin",27,"Prior Lake, Minnesota",Publicist
+Bachelor,22,22_LAUREN_B,Lauren Burnham,25,"Virginia Beach, Virginia",Technology Salesperson
+Bachelor,22,22_KENDALL_L,Kendall Long,26,"Santa Clarita, California",Creative Director
+Bachelor,22,22_TIA_B,Tia Booth,26,"Weiner, Arkansas",Physical Therapist
+Bachelor,22,22_BEKAH_M,"Rebekah ""Bekah"" Martinez",22,"Fresno, California",Nanny
+Bachelor,22,22_SEINNE_F,Seinne Fleming,27,"Long Beach, California",Commercial Real Estate Manager
+Bachelor,22,22_JACQUELINE_T,Jacqueline Trumbull,26,"Morgantown, West Virginia",Research Coordinator
+Bachelor,22,22_CHELSEA_R,Chelsea Roy,29,"South Portland, Maine",Real Estate Executive Assistant
+Bachelor,22,22_JENNA_C,Jenna Cooper,28,"Upland, Indiana",Social Media Manager
+Bachelor,22,22_KRYSTAL_N,Krystal Nielson,30,"Missoula, Montana",Fitness Coach
+Bachelor,22,22_ASHLEY_L,Ashley Luebke,25,"West Palm Beach, Florida",Real Estate Agent
+Bachelor,22,22_MAQUEL_C,Maquel Cooper,23,"American Fork, Utah",Photographer
+Bachelor,22,22_MARIKH_M,Marikh Mathias,27,"Salt Lake City, Utah",Restaurant Owner
+Bachelor,22,22_BRITTANY_T,Brittany Taylor,30,"Belton, South Carolina",Tech Recruiter
+Bachelor,22,22_CAROLINE_L,Caroline Lunny,26,"Holliston, Massachusetts",Realtor
+Bachelor,22,22_BIBIANA_J,Bibiana Julian,30,"Miami, Florida",Executive Assistant
+Bachelor,22,22_ANNALIESE_P,Annaliese Puccini,32,"San Mateo, California",Event Designer
+Bachelor,22,22_LAUREN_S,Lauren Schleyer,31,"Dallas, Texas",Social Media Manager
+Bachelor,22,22_JENNY_D,"Jennifer ""Jenny"" Delaney",25,"Northbrook, Illinois",Graphic Designer
+Bachelor,22,22_LAUREN_G,Lauren Griffin,26,"Indianapolis, Indiana",Executive Recruiter
+Bachelor,22,22_VALERIE_B,Valerie Biles,25,"Murfreesboro, Tennessee",Server
+Bachelor,22,22_ALI_H,Ali Harrington,27,"Lawton, Oklahoma",Personal Stylist
+Bachelor,22,22_AMBER_W,Amber Wilkerson,29,"Denver, Colorado",Business Owner
+Bachelor,22,22_BRI_A,"Brianna ""Bri"" Amaranthus",25,"Grants Pass, Oregon",Sports Reporter
+Bachelor,22,22_BRITTANE_J,Brittane Johnson,27,"San Diego, California",Marketing Manager
+Bachelor,22,22_JESSICA_C,Jessica Carroll,26,"Calgary, Alberta",Television Host
+Bachelor,22,22_LAUREN_J,Lauren Jarreau,33,"New Roads, Louisiana",Recent Master's Graduate
+Bachelor,22,22_NYSHA_N,"D'Nysha ""Nysha"" Norris",30,"Anderson, South Carolina",Orthopedic Nurse
+Bachelor,22,22_OLIVIA_G,Olivia Goethals,23,"Geneseo, Illinois",Marketing Associate

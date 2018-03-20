@@ -1138,15 +1138,15 @@ Bachelorette,8,08_ALEJANDRO_V,Alejandro Velez,5,D8
 Bachelorette,8,08_ALESSANDRO_G,Alessandro Goulart,3,EU
 Bachelorette,8,08_ALESSANDRO_G,Alessandro Goulart,2,D13
 Bachelorette,8,08_ALESSANDRO_G,Alessandro Goulart,3,D12
-Bachelorette,8,08_ARIE_L,Arie Luyendyk Jr.,3,R
-Bachelorette,8,08_ARIE_L,Arie Luyendyk Jr.,10,ED
-Bachelorette,8,08_ARIE_L,Arie Luyendyk Jr.,3,D1
-Bachelorette,8,08_ARIE_L,Arie Luyendyk Jr.,4,D8
-Bachelorette,8,08_ARIE_L,Arie Luyendyk Jr.,5,D8
-Bachelorette,8,08_ARIE_L,Arie Luyendyk Jr.,6,D6
-Bachelorette,8,08_ARIE_L,Arie Luyendyk Jr.,7,D1
-Bachelorette,8,08_ARIE_L,Arie Luyendyk Jr.,8,D1
-Bachelorette,8,08_ARIE_L,Arie Luyendyk Jr.,9,D1
+Bachelorette,8,08_ARIE_L,"Arie Luyendyk, Jr.",3,R
+Bachelorette,8,08_ARIE_L,"Arie Luyendyk, Jr.",10,ED
+Bachelorette,8,08_ARIE_L,"Arie Luyendyk, Jr.",3,D1
+Bachelorette,8,08_ARIE_L,"Arie Luyendyk, Jr.",4,D8
+Bachelorette,8,08_ARIE_L,"Arie Luyendyk, Jr.",5,D8
+Bachelorette,8,08_ARIE_L,"Arie Luyendyk, Jr.",6,D6
+Bachelorette,8,08_ARIE_L,"Arie Luyendyk, Jr.",7,D1
+Bachelorette,8,08_ARIE_L,"Arie Luyendyk, Jr.",8,D1
+Bachelorette,8,08_ARIE_L,"Arie Luyendyk, Jr.",9,D1
 Bachelorette,8,08_BRENT_R,Brent Richter,1,E
 Bachelorette,8,08_CHARLIE_G,Charlie Grogan,4,E
 Bachelorette,8,08_CHARLIE_G,Charlie Grogan,2,D13
@@ -3180,3 +3180,136 @@ Bachelor,21,21_WHITNEY_F,Whitney Fransway,3,D7
 Bachelor,21,21_WHITNEY_F,Whitney Fransway,4,D13
 Bachelor,21,21_WHITNEY_F,Whitney Fransway,5,D10
 Bachelor,21,21_WHITNEY_F,Whitney Fransway,6,D2
+Bachelor,22,22_BECCA_K,"Rebecca ""Becca"" Kufrin",2,R
+Bachelor,22,22_BECCA_K,"Rebecca ""Becca"" Kufrin",7,R
+Bachelor,22,22_BECCA_K,"Rebecca ""Becca"" Kufrin",10,W
+Bachelor,22,22_BECCA_K,"Rebecca ""Becca"" Kufrin",2,D1
+Bachelor,22,22_BECCA_K,"Rebecca ""Becca"" Kufrin",3,D7
+Bachelor,22,22_BECCA_K,"Rebecca ""Becca"" Kufrin",4,D12
+Bachelor,22,22_BECCA_K,"Rebecca ""Becca"" Kufrin",5,D11
+Bachelor,22,22_BECCA_K,"Rebecca ""Becca"" Kufrin",6,D6
+Bachelor,22,22_BECCA_K,"Rebecca ""Becca"" Kufrin",7,D1
+Bachelor,22,22_BECCA_K,"Rebecca ""Becca"" Kufrin",8,D1
+Bachelor,22,22_BECCA_K,"Rebecca ""Becca"" Kufrin",9,D1
+Bachelor,22,22_BECCA_K,"Rebecca ""Becca"" Kufrin",10,D1
+Bachelor,22,22_LAUREN_B,Lauren Burnham,5,R
+Bachelor,22,22_LAUREN_B,Lauren Burnham,6,R
+Bachelor,22,22_LAUREN_B,Lauren Burnham,7,R
+Bachelor,22,22_LAUREN_B,Lauren Burnham,10,E
+Bachelor,22,22_LAUREN_B,Lauren Burnham,3,D8
+Bachelor,22,22_LAUREN_B,Lauren Burnham,4,D12
+Bachelor,22,22_LAUREN_B,Lauren Burnham,5,D11
+Bachelor,22,22_LAUREN_B,Lauren Burnham,6,D1
+Bachelor,22,22_LAUREN_B,Lauren Burnham,7,D1
+Bachelor,22,22_LAUREN_B,Lauren Burnham,8,D1
+Bachelor,22,22_LAUREN_B,Lauren Burnham,9,D1
+Bachelor,22,22_LAUREN_B,Lauren Burnham,10,D1
+Bachelor,22,22_KENDALL_L,Kendall Long,6,R
+Bachelor,22,22_KENDALL_L,Kendall Long,7,R
+Bachelor,22,22_KENDALL_L,Kendall Long,9,EU
+Bachelor,22,22_KENDALL_L,Kendall Long,2,D15
+Bachelor,22,22_KENDALL_L,Kendall Long,4,D12
+Bachelor,22,22_KENDALL_L,Kendall Long,5,D11
+Bachelor,22,22_KENDALL_L,Kendall Long,6,D2
+Bachelor,22,22_KENDALL_L,Kendall Long,7,D3
+Bachelor,22,22_KENDALL_L,Kendall Long,8,D1
+Bachelor,22,22_KENDALL_L,Kendall Long,9,D1
+Bachelor,22,22_TIA_B,Tia Booth,4,R
+Bachelor,22,22_TIA_B,Tia Booth,5,R
+Bachelor,22,22_TIA_B,Tia Booth,7,R
+Bachelor,22,22_TIA_B,Tia Booth,8,E
+Bachelor,22,22_TIA_B,Tia Booth,2,D15
+Bachelor,22,22_TIA_B,Tia Booth,3,D8
+Bachelor,22,22_TIA_B,Tia Booth,4,D12
+Bachelor,22,22_TIA_B,Tia Booth,5,D1
+Bachelor,22,22_TIA_B,Tia Booth,6,D6
+Bachelor,22,22_TIA_B,Tia Booth,7,D3
+Bachelor,22,22_TIA_B,Tia Booth,8,D1
+Bachelor,22,22_BEKAH_M,"Rebekah ""Bekah"" Martinez",3,R
+Bachelor,22,22_BEKAH_M,"Rebekah ""Bekah"" Martinez",4,R
+Bachelor,22,22_BEKAH_M,"Rebekah ""Bekah"" Martinez",6,R
+Bachelor,22,22_BEKAH_M,"Rebekah ""Bekah"" Martinez",7,ED
+Bachelor,22,22_BEKAH_M,"Rebekah ""Bekah"" Martinez",2,D15
+Bachelor,22,22_BEKAH_M,"Rebekah ""Bekah"" Martinez",3,D8
+Bachelor,22,22_BEKAH_M,"Rebekah ""Bekah"" Martinez",4,D1
+Bachelor,22,22_BEKAH_M,"Rebekah ""Bekah"" Martinez",5,D11
+Bachelor,22,22_BEKAH_M,"Rebekah ""Bekah"" Martinez",6,D6
+Bachelor,22,22_BEKAH_M,"Rebekah ""Bekah"" Martinez",7,D3
+Bachelor,22,22_SEINNE_F,Seinne Fleming,2,R
+Bachelor,22,22_SEINNE_F,Seinne Fleming,4,R
+Bachelor,22,22_SEINNE_F,Seinne Fleming,7,ED
+Bachelor,22,22_SEINNE_F,Seinne Fleming,2,D15
+Bachelor,22,22_SEINNE_F,Seinne Fleming,4,D1
+Bachelor,22,22_SEINNE_F,Seinne Fleming,5,D11
+Bachelor,22,22_SEINNE_F,Seinne Fleming,6,D6
+Bachelor,22,22_SEINNE_F,Seinne Fleming,7,D1
+Bachelor,22,22_JACQUELINE_T,Jacqueline Trumbull,6,R
+Bachelor,22,22_JACQUELINE_T,Jacqueline Trumbull,7,EQ
+Bachelor,22,22_JACQUELINE_T,Jacqueline Trumbull,3,D8
+Bachelor,22,22_JACQUELINE_T,Jacqueline Trumbull,4,D12
+Bachelor,22,22_JACQUELINE_T,Jacqueline Trumbull,5,D11
+Bachelor,22,22_JACQUELINE_T,Jacqueline Trumbull,6,D1
+Bachelor,22,22_CHELSEA_R,Chelsea Roy,3,R
+Bachelor,22,22_CHELSEA_R,Chelsea Roy,5,R
+Bachelor,22,22_CHELSEA_R,Chelsea Roy,6,E
+Bachelor,22,22_CHELSEA_R,Chelsea Roy,2,D15
+Bachelor,22,22_CHELSEA_R,Chelsea Roy,3,D7
+Bachelor,22,22_CHELSEA_R,Chelsea Roy,4,D12
+Bachelor,22,22_CHELSEA_R,Chelsea Roy,5,D1
+Bachelor,22,22_CHELSEA_R,Chelsea Roy,6,D6
+Bachelor,22,22_JENNA_C,Jenna Cooper,6,E
+Bachelor,22,22_JENNA_C,Jenna Cooper,2,D15
+Bachelor,22,22_JENNA_C,Jenna Cooper,3,D7
+Bachelor,22,22_JENNA_C,Jenna Cooper,4,D12
+Bachelor,22,22_JENNA_C,Jenna Cooper,5,D11
+Bachelor,22,22_JENNA_C,Jenna Cooper,6,D6
+Bachelor,22,22_KRYSTAL_N,Krystal Nielson,2,R
+Bachelor,22,22_KRYSTAL_N,Krystal Nielson,6,ED
+Bachelor,22,22_KRYSTAL_N,Krystal Nielson,2,D1
+Bachelor,22,22_KRYSTAL_N,Krystal Nielson,3,D8
+Bachelor,22,22_KRYSTAL_N,Krystal Nielson,4,D12
+Bachelor,22,22_KRYSTAL_N,Krystal Nielson,5,D11
+Bachelor,22,22_KRYSTAL_N,Krystal Nielson,6,D2
+Bachelor,22,22_ASHLEY_L,Ashley Luebke,5,E
+Bachelor,22,22_ASHLEY_L,Ashley Luebke,3,D7
+Bachelor,22,22_ASHLEY_L,Ashley Luebke,4,D12
+Bachelor,22,22_ASHLEY_L,Ashley Luebke,5,D11
+Bachelor,22,22_MAQUEL_C,Maquel Cooper,5,E
+Bachelor,22,22_MAQUEL_C,Maquel Cooper,2,D15
+Bachelor,22,22_MAQUEL_C,Maquel Cooper,3,D8
+Bachelor,22,22_MAQUEL_C,Maquel Cooper,5,D11
+Bachelor,22,22_MARIKH_M,Marikh Mathias,5,E
+Bachelor,22,22_MARIKH_M,Marikh Mathias,2,D15
+Bachelor,22,22_MARIKH_M,Marikh Mathias,3,D8
+Bachelor,22,22_MARIKH_M,Marikh Mathias,4,D12
+Bachelor,22,22_MARIKH_M,Marikh Mathias,5,D11
+Bachelor,22,22_BRITTANY_T,Brittany Taylor,4,E
+Bachelor,22,22_BRITTANY_T,Brittany Taylor,2,D15
+Bachelor,22,22_BRITTANY_T,Brittany Taylor,3,D7
+Bachelor,22,22_BRITTANY_T,Brittany Taylor,4,D12
+Bachelor,22,22_CAROLINE_L,Caroline Lunny,4,E
+Bachelor,22,22_CAROLINE_L,Caroline Lunny,2,D15
+Bachelor,22,22_CAROLINE_L,Caroline Lunny,3,D7
+Bachelor,22,22_CAROLINE_L,Caroline Lunny,4,D12
+Bachelor,22,22_BIBIANA_J,Bibiana Julian,3,E
+Bachelor,22,22_BIBIANA_J,Bibiana Julian,2,D15
+Bachelor,22,22_BIBIANA_J,Bibiana Julian,3,D8
+Bachelor,22,22_ANNALIESE_P,Annaliese Puccini,3,EU
+Bachelor,22,22_ANNALIESE_P,Annaliese Puccini,2,D15
+Bachelor,22,22_ANNALIESE_P,Annaliese Puccini,3,D7
+Bachelor,22,22_LAUREN_S,Lauren Schleyer,3,ED
+Bachelor,22,22_LAUREN_S,Lauren Schleyer,3,D1
+Bachelor,22,22_JENNY_D,"Jennifer ""Jenny"" Delaney",2,E
+Bachelor,22,22_JENNY_D,"Jennifer ""Jenny"" Delaney",2,D15
+Bachelor,22,22_LAUREN_G,Lauren Griffin,2,E
+Bachelor,22,22_LAUREN_G,Lauren Griffin,2,D15
+Bachelor,22,22_VALERIE_B,Valerie Biles,2,E
+Bachelor,22,22_VALERIE_B,Valerie Biles,2,D15
+Bachelor,22,22_ALI_H,Ali Harrington,1,E
+Bachelor,22,22_AMBER_W,Amber Wilkerson,1,E
+Bachelor,22,22_BRI_A,"Brianna ""Bri"" Amaranthus",1,E
+Bachelor,22,22_BRITTANE_J,Brittane Johnson,1,E
+Bachelor,22,22_JESSICA_C,Jessica Carroll,1,E
+Bachelor,22,22_LAUREN_J,Lauren Jarreau,1,E
+Bachelor,22,22_NYSHA_N,"D'Nysha ""Nysha"" Norris",1,E
+Bachelor,22,22_OLIVIA_G,Olivia Goethals,1,E
