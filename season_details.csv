@@ -1,4 +1,4 @@
-Show,Season,Start Date,Lead Full Name,Occupation,Hometown,Age,Proposal,Still Together
+show,season,start_date,full_name,occupation,hometown,age,proposal,still_together
 Bachelor,1,2002-03-25,Alex Michel,Management Consultant,"Charlottesville, Virginia",31,FALSE,FALSE
 Bachelor,2,2002-09-25,Aaron Buerge,Banker,"Springfield, Missouri",28,TRUE,FALSE
 Bachelor,3,2003-03-24,Andrew Firestone,Winery Co-Owner,"Santa Barbara, California",28,TRUE,FALSE
