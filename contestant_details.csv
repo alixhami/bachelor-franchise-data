@@ -124,7 +124,7 @@ Bachelor,3,03_STEPHANIE_X,Stephanie,21,"Mt. Pleasant, Tennessee",Waiter
 Bachelor,3,03_TIFFANY_X,Tiffany,26,"Cuyahoga Falls, Ohio",Mansion Caretaker
 Bachelor,3,03_TINA_P,Tina P,22,"Oconomowoc, Wisconsin",Student
 Bachelor,3,03_TINA_S,Tina S,26,"Nashville, Tennessee",Sales-Event Planner
-Bachelorette,3,03_A.W.,A.W.,27,"Newport Beach, California",Mortgage Consultant
+Bachelorette,3,03_AW,AW,27,"Newport Beach, California",Mortgage Consultant
 Bachelorette,3,03_ANDREW,Andrew,37,"New York, New York",Bartender
 Bachelorette,3,03_ANDY_L,Andy LeRoy,29,"Steamboat Springs, Colorado",Ski Coach
 Bachelorette,3,03_BEN_S,Ben S.,26,"Aspen, Colorado",Ski Instructor
@@ -341,7 +341,7 @@ Bachelorette,7,07_CHRIS_D,Chris Drish,25,"Moline, Illinois",Sports Marketing Coo
 Bachelorette,7,07_CHRIS_M,Chris Malhomme,27,"Gibbons, Alberta",Construction Company CEO
 Bachelorette,7,07_CONSTANTINE_T,Constantine Tzortzis,30,"Cumming, Georgia",Restaurant Owner
 Bachelorette,7,07_FRANK_C,Frank Carpenter,29,"Anchorage, Alaska",College Admissions Director
-Bachelorette,7,07_JP_R,J.P. Rosenbaum,34,"Roslyn, New York",Construction Manager
+Bachelorette,7,07_JP_R,JP Rosenbaum,34,"Roslyn, New York",Construction Manager
 Bachelorette,7,07_JEFF_M,Jeff Medolla,35,"St. Louis, Missouri",Entrepreneur
 Bachelorette,7,07_JON_E,Jon Ellsworth,26,"Vancouver, Washington",E-Commerce Executive
 Bachelorette,7,07_LUCAS_D,Lucas Daniels,30,"Odessa, Texas",Oilfield Equipment Distributor
@@ -409,7 +409,7 @@ Bachelorette,8,08_TRAVIS_P,Travis Pope,30,"Madison, Mississippi",Advertising Sal
 Bachelor,9,09_AGNESE_P,Agnese Polliza,24,"Venice, Italy",Student
 Bachelor,9,09_ANDREA_S,Andrea Shirley,28,"Cincinnati, Ohio",Hotel concierge
 Bachelor,9,09_APRIL_J,April Jacobs,23,"Chicago, Illinois",Model
-Bachelor,9,09_BOWE_N,Britt (Bowe) Newton,28,"Columbus, Ohio",Beer chemist
+Bachelor,9,09_BOWE_N,"Britt ""Bowe"" Newton",28,"Columbus, Ohio",Beer chemist
 Bachelor,9,09_CARISSA_I,Carissa Ilburg,25,"Cattaraugus, New York",Attorney
 Bachelor,9,09_CLAUDIA_G,Claudia Gismondi,22,"Boca Raton, Florida",Restaurateur
 Bachelor,9,09_COSETTA_B,Cosetta Blanca,,Italy,Dancer
@@ -494,7 +494,7 @@ Bachelorette,10,10_CRAIG_M,Craig Muhlbauer,29,"Defiance, Iowa",Tax Accountant
 Bachelorette,10,10_DYLAN_P,Dylan Petitt,26,"Longmeadow, Massachusetts",Accountant
 Bachelorette,10,10_EMIL_S,Emil Schaffroth,33,"Portland, Oregon",Helicopter Pilot
 Bachelorette,10,10_ERIC_H,Eric Hill,31,"Citrus Heights, California",Explorer
-Bachelorette,10,10_JJ_O,J.J. O'Brien,30,"Hanover, Massachusetts",Pantsapreneur
+Bachelorette,10,10_JJ_O,JJ O'Brien,30,"Hanover, Massachusetts",Pantsapreneur
 Bachelorette,10,10_JASON_L,Jason Leep,35,"Sturgeon Bay, Wisconsin",Urgent Care Physician
 Bachelorette,10,10_JOSH_B,Josh Bauer,29,"Evergreen, Colorado",Telecommunication Marketer
 Bachelorette,10,10_JOSH_M,Josh Murray,29,"Athens, Georgia",Former Professional Baseball Player
@@ -544,7 +544,7 @@ Bachelorette,11,11_CORY_S,Cory Shivar,35,"Seven Springs, North Carolina",Residen
 Bachelorette,11,11_DANIEL_F,Daniel Finney,28,"Nashville, Tennessee",Fashion Designer
 Bachelorette,11,11_DAVID_X,David,28,"Orlando, Florida",Real Estate Agent
 Bachelorette,11,11_IAN_T,Ian Thomson,28,"Ramsey, New Jersey",Executive Recruiter
-Bachelorette,11,11_JJ_L,J.J. Lane III,32,"Dacono, Colorado",Former Investment Banker
+Bachelorette,11,11_JJ_L,JJ Lane III,32,"Dacono, Colorado",Former Investment Banker
 Bachelorette,11,11_JARED_H,Jared Haibon,26,"Warwick, Rhode Island",Restaurant Manager
 Bachelorette,11,11_JOE_B,Joe Bailey,28,"Glasgow, Kentucky",Insurance Agent
 Bachelorette,11,11_JONATHAN_H,Jonathan Holloway,33,"Sylvan Lake, Michigan",Automotive Spokesman
