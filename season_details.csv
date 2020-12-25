@@ -21,16 +21,22 @@ Bachelor,19,2015-01-05,Chris Soules,Farmer,"Lamont, Iowa",33,TRUE,FALSE
 Bachelor,20,2016-01-04,Ben Higgins,Software Salesman,"Warsaw, Indiana",26,TRUE,FALSE
 Bachelor,21,2017-01-02,Nick Viall,Software Sales Executive,"Waukesha, Wisconsin",36,TRUE,FALSE
 Bachelor,22,2018-01-01,"Arie Luyendyk, Jr.",Real Estate Broker,"Scottsdale, Arizona",35,TRUE,TRUE
+Bachelor,23,2019-01-07,Colton Underwood,Former Pro Football Player,"Denver, Colorado",26,FALSE,FALSE
+Bachelor,24,2020-01-06,Peter Weber,Pilot,"Westlake Village, California",28,TRUE,FALSE
 Bachelorette,1,2003-01-08,Trista Rehn,Physical therapist,"Miami, Florida",29,TRUE,TRUE
 Bachelorette,2,2004-01-14,Meredith Phillips,Model/ Makeup Artist,"West Hollywood, California",29,TRUE,FALSE
 Bachelorette,3,2005-01-10,Jen Schefft,Publicist,"Chicago, Illinois",28,TRUE,FALSE
 Bachelorette,4,2008-05-19,DeAnna Pappas,Realtor,"Newnan, Georgia",26,TRUE,FALSE
 Bachelorette,5,2009-05-18,Jillian Harris,Interior Designer,"Peace River, Alberta",29,TRUE,FALSE
 Bachelorette,6,2010-05-24,Ali Fedotowsky,Advertising Account Manager,"Williamstown, Massachusetts",25,TRUE,FALSE
-Bachelorette,7,2011-05-23,Ashley Hebert,Dental Student,"Madawaska, Maine",26,TRUE,TRUE
+Bachelorette,7,2011-05-23,Ashley Hebert,Dental Student,"Madawaska, Maine",26,TRUE,FALSE
 Bachelorette,8,2012-05-14,Emily Maynard,Children's Hospital Event Planner,"Morgantown, West Virginia",26,TRUE,FALSE
 Bachelorette,9,2013-05-27,Desiree Hartsock,Bridal Stylist,"Northglenn, Colorado",27,TRUE,TRUE
 Bachelorette,10,2014-05-19,Andi Dorfman,Assistant District Attorney,"Buckhead, Georgia",27,TRUE,FALSE
-Bachelorette,11,2015-05-18,Kaitlyn Bristowe,Dance Instructor,"Leduc, Alberta",30,TRUE,TRUE
+Bachelorette,11,2015-05-18,Kaitlyn Bristowe,Dance Instructor,"Leduc, Alberta",30,TRUE,FALSE
 Bachelorette,12,2016-05-23,"Joelle ""JoJo"" Fletcher",Real Estate Developer,"Dallas, Texas",25,TRUE,TRUE
 Bachelorette,13,2017-05-22,Rachel Lindsay,Attorney,"Dallas, Texas",31,TRUE,TRUE
+Bachelorette,14,2018-05-28,"Rebecca ""Becca"" Kufrin",Publicist,"Prior Lake, Minnesota",28,TRUE,FALSE
+Bachelorette,15,2019-05-13,Hannah Brown,Miss Alabama 2018,"Tuscaloosa, Alabama",24,TRUE,FALSE
+Bachelorette,16,2020-10-03,Clare Crawley,Hairstylist,"Sacramento, California",39,TRUE,TRUE
+Bachelorette,16,2020-11-05,Tayshia Adams,Phlebotomist,"Corona del Mar, California",30,TRUE,TRUE
